@@ -59,6 +59,12 @@
       {
         "site": "mikan",
         "id": "2506"
+      },
+      {
+        "site": "nicovideo",
+        "id": "getterrobot-arc",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -182,6 +188,12 @@
       {
         "site": "mikan",
         "id": "2488"
+      },
+      {
+        "site": "nicovideo",
+        "id": "snx-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -516,6 +528,12 @@
       {
         "site": "mikan",
         "id": "2502"
+      },
+      {
+        "site": "netflix",
+        "id": "81786623",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1086,6 +1104,12 @@
       {
         "site": "mikan",
         "id": "2494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "re-main",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1528,6 +1552,12 @@
       {
         "site": "mikan",
         "id": "2487"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtT3hTorzczMH7Wa5uP_7cKh",
+        "begin": "2024-09-11T12:30:06.000Z",
+        "broadcast": "R/2024-09-11T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -1605,6 +1635,12 @@
       {
         "site": "mikan",
         "id": "2509"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuigaoka",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1984,6 +2020,12 @@
       {
         "site": "mikan",
         "id": "2523"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aninana_3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2266,9 +2308,6 @@
       "zh-Hant": [
         "暗夜第六感2041",
         "暗夜第六感 2041"
-      ],
-      "en": [
-        "NIGHT HEAD 2041"
       ]
     },
     "type": "tv",
@@ -2302,6 +2341,12 @@
       {
         "site": "mikan",
         "id": "2490"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058474",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2443,6 +2488,12 @@
       {
         "site": "bangumi_moe",
         "id": "60de5d9c06c78696e4d11606"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2465,6 +2516,12 @@
         "id": "SID0058454",
         "begin": "2021-07-16T08:00:00.000Z",
         "broadcast": "R/2021-07-16T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "obeyme",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2799,6 +2856,12 @@
         "id": "SID0064812",
         "begin": "2021-12-23T15:00:00.000Z",
         "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2914,6 +2977,9 @@
       "zh-Hans": [
         "蜡笔小新：谜案！天下春日部学院的怪奇事件",
         "蜡笔小新：谜团！花之天下春日部学院"
+      ],
+      "zh-Hant": [
+        "蠟筆小新: 謎案! 天下春日部學院的怪奇事件"
       ]
     },
     "type": "movie",
@@ -2943,6 +3009,12 @@
       {
         "site": "bilibili",
         "id": "28367633",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81590011",
         "begin": "",
         "broadcast": ""
       }

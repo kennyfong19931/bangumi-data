@@ -1724,6 +1724,12 @@
       {
         "site": "mikan",
         "id": "2301"
+      },
+      {
+        "site": "nicovideo",
+        "id": "moriarty-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1968,6 +1974,12 @@
         "id": "111285",
         "begin": "2020-10-10T16:30:00.000Z",
         "broadcast": "R/2020-10-10T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thedayibecameagod0002_141934",
+        "begin": "2024-10-09T16:00:00.000Z",
+        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2129,6 +2141,12 @@
       {
         "site": "mikan",
         "id": "2316"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nijigasaki",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3209,6 +3227,12 @@
       {
         "site": "bangumi",
         "id": "310899"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seizeiganbare_3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

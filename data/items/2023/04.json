@@ -114,6 +114,12 @@
       {
         "site": "mikan",
         "id": "3028"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cinderella-u149",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -838,6 +844,12 @@
       {
         "site": "mikan",
         "id": "2975"
+      },
+      {
+        "site": "nicovideo",
+        "id": "world-dai-star",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1708,6 +1720,12 @@
       {
         "site": "mikan",
         "id": "2963"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kizunanoallele",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2319,6 +2337,12 @@
       {
         "site": "mikan",
         "id": "3000"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dr-stone3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2594,6 +2618,12 @@
         "id": "SID0148138",
         "begin": "2024-07-25T03:00:00.000Z",
         "broadcast": "R/2024-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "560-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3598,6 +3628,12 @@
       {
         "site": "mikan",
         "id": "3035"
+      },
+      {
+        "site": "nicovideo",
+        "id": "BIRDIE_WING_2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3760,6 +3796,12 @@
       {
         "site": "mikan",
         "id": "3042"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chibigodzilla",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

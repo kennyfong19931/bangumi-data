@@ -1182,6 +1182,12 @@
         "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
       },
       {
+        "site": "gamer_hk",
+        "id": "102477",
+        "begin": "2022-07-15T03:00:00.000Z",
+        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
+      },
+      {
         "site": "bilibili_hk_mo_tw",
         "id": "28221500",
         "begin": "2019-07-05T17:00:00.000Z",
@@ -1383,6 +1389,12 @@
       {
         "site": "mikan",
         "id": "1991"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dr-stone",
+        "begin": "2019-07-14T15:00:00.000Z",
+        "broadcast": "R/2019-07-14T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1509,6 +1521,12 @@
       {
         "site": "mikan",
         "id": "1993"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ensemblestars-anime",
+        "begin": "2019-07-11T03:00:00.000Z",
+        "broadcast": "R/2019-07-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2409,6 +2427,12 @@
       {
         "site": "bangumi_moe",
         "id": "5d1b8399e0dc4c3cbb5c9310"
+      },
+      {
+        "site": "nicovideo",
+        "id": "businessfish",
+        "begin": "2019-08-18T16:00:00.000Z",
+        "broadcast": "R/2019-08-18T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2662,6 +2686,12 @@
       {
         "site": "mikan",
         "id": "2009"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura-oad",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

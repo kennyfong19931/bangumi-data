@@ -1283,6 +1283,12 @@
         "id": "SID0015953",
         "begin": "2022-12-01T03:00:00.000Z",
         "broadcast": "R/2022-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hack-roots",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2004,6 +2010,33 @@
         "id": "5225",
         "begin": "2016-07-19T06:14:02.000Z",
         "broadcast": "R/2016-07-19T06:14:02.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ロックマンエグゼBEAST+",
+    "titleTranslate": {
+      "zh-Hans": [
+        "洛克人EXE BEAST+"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.xebec-inc.co.jp/anime/rockmanexe5/",
+    "begin": "2006-04-07T16:00:00.000Z",
+    "broadcast": "R/2006-04-07T16:00:00.000Z/P7D",
+    "end": "2006-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5233"
+      },
+      {
+        "site": "abema",
+        "id": "168-67",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

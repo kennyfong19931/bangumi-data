@@ -48,6 +48,12 @@
       {
         "site": "bangumi_moe",
         "id": "62c125a52fc3ee0d0016bf2a"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rwby",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1247,6 +1253,18 @@
       {
         "site": "bangumi_moe",
         "id": "62c125a62fc3ee0d0016bf2c"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yureideco",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0069693",
+        "begin": "2022-06-23T03:00:00.000Z",
+        "broadcast": "R/2022-06-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1589,6 +1607,12 @@
       {
         "site": "bangumi_moe",
         "id": "62c125ad2fc3ee0d0016bf4e"
+      },
+      {
+        "site": "abema",
+        "id": "203-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2231,6 +2255,12 @@
       {
         "site": "bangumi_moe",
         "id": "62c125a42fc3ee0d0016bf22"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive_yuigaoka",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3019,6 +3049,12 @@
         "id": "125323",
         "begin": "2022-07-10T11:00:00.000Z",
         "broadcast": "R/2022-07-10T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dr-stone_r",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3381,6 +3417,12 @@
         "id": "SID0069691",
         "begin": "2022-07-22T08:00:00.000Z",
         "broadcast": "R/2022-07-22T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ObeyMe_2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3408,6 +3450,12 @@
         "id": "SID0072226",
         "begin": "2022-08-31T15:00:00.000Z",
         "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aikatsu_movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3435,6 +3483,12 @@
         "id": "SID0076421",
         "begin": "2022-12-22T15:00:00.000Z",
         "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

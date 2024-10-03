@@ -239,6 +239,12 @@
       {
         "site": "bangumi",
         "id": "211439"
+      },
+      {
+        "site": "nicovideo",
+        "id": "eurekaseven-movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

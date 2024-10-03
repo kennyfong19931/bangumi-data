@@ -798,9 +798,9 @@
       },
       {
         "site": "mytv",
-        "id": "foodwarsshokugekinosoma_133924",
-        "begin": "2021-12-16T19:30:00.000Z",
-        "broadcast": "R/2021-12-16T19:30:00.000Z/P7D"
+        "id": "foodwarsshokugekinosoma0001_141862",
+        "begin": "2024-10-05T21:15:00.000Z",
+        "broadcast": "R/2024-10-05T21:15:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -2142,6 +2142,12 @@
       {
         "site": "mikan",
         "id": "506"
+      },
+      {
+        "site": "abema",
+        "id": "158-8ukb2pnc72h",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

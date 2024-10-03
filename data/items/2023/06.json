@@ -132,6 +132,12 @@
       {
         "site": "mikan",
         "id": "3049"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yohane",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -292,6 +298,12 @@
       {
         "site": "mikan",
         "id": "3014"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive-nijigasaki-nextsky",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -465,6 +477,12 @@
         "id": "135362",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0148566",
+        "begin": "2024-08-31T15:00:00.000Z",
+        "broadcast": "R/2024-08-31T15:00:00.000Z/P7D"
       }
     ]
   },

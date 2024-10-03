@@ -1069,6 +1069,12 @@
       {
         "site": "mikan",
         "id": "1844"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kotobuki-anime",
+        "begin": "2019-01-19T13:00:00.000Z",
+        "broadcast": "R/2019-01-19T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2353,6 +2359,12 @@
       {
         "site": "mikan",
         "id": "1961"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive-movie-otr",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

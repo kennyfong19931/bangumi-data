@@ -379,6 +379,12 @@
       {
         "site": "mikan",
         "id": "1163"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yowapeda_ng",
+        "begin": "2017-01-12T03:00:00.000Z",
+        "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1708,6 +1714,12 @@
       {
         "site": "mikan",
         "id": "1186"
+      },
+      {
+        "site": "nicovideo",
+        "id": "acca-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

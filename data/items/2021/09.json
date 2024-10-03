@@ -444,5 +444,36 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "魔法使いの嫁 西の少年と青嵐の騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使的新娘 西之少年与青岚的骑士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://magus-bride.jp/wildhunt/",
+    "begin": "2021-09-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-09-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "330394"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148120",
+        "begin": "2024-10-01T03:00:00.000Z",
+        "broadcast": "R/2024-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2607"
+      }
+    ]
   }
 ]

@@ -921,6 +921,12 @@
         "id": "SID0061670",
         "begin": "2021-09-27T03:00:00.000Z",
         "broadcast": "R/2021-09-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-43",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1327,6 +1333,12 @@
       {
         "site": "mikan",
         "id": "2553"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kyoukai_senki",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2251,6 +2263,12 @@
       {
         "site": "bangumi_moe",
         "id": "615bb91fd7f73dd4ed5c4401"
+      },
+      {
+        "site": "nicovideo",
+        "id": "teslanote",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3352,6 +3370,13 @@
         "id": "81768333",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4VbZ9wfQsu5c",
+        "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-progressive-aria-of-a-starless-night/4VbZ9wfQsu5c",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3468,6 +3493,12 @@
         "id": "113584",
         "begin": "2022-04-01T04:00:00.000Z",
         "broadcast": "R/2022-04-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ainouta",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3639,6 +3670,12 @@
         "url": "https://www.disneyplus.com/movies/macross-frontier-labyrinth-of-time/7PGGJGQhwc3e",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "macross_f_movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3677,6 +3714,12 @@
         "site": "disneyplus",
         "id": "6aTa6ZvaabNq",
         "url": "https://www.disneyplus.com/movies/macross-delta-zettai-live/6aTa6ZvaabNq",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "macross_delta_movie",
         "begin": "",
         "broadcast": ""
       }

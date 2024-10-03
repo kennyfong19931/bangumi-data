@@ -41,6 +41,12 @@
         "id": "SID0002537",
         "begin": "2013-11-29T06:00:00.000Z",
         "broadcast": "R/2013-11-29T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-seed-remaster",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

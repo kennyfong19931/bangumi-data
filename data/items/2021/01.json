@@ -816,6 +816,12 @@
       {
         "site": "mikan",
         "id": "2359"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -930,6 +936,12 @@
       {
         "site": "mikan",
         "id": "2358"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dr-stone2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2514,6 +2526,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "赛马娘 Pretty Derby 第二季"
+      ],
+      "zh-Hant": [
+        "賽馬娘 Pretty Derby 第二季"
       ]
     },
     "type": "tv",
@@ -2553,6 +2568,18 @@
       {
         "site": "mikan",
         "id": "2377"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-umamusume2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTx4vdmdWY6dbb1-escsuGS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3257,6 +3284,12 @@
       {
         "site": "mikan",
         "id": "2368"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kemonojihen-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

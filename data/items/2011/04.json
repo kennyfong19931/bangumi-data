@@ -1080,6 +1080,12 @@
       {
         "site": "dmhy",
         "id": "tiger+bunny"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tigerandbunny",
+        "begin": "2020-05-16T03:00:00.000Z",
+        "broadcast": "R/2020-05-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1749,6 +1755,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新 呼风唤雨黄金的间谍大作战"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：黃金間諜大作戰"
       ]
     },
     "type": "movie",
@@ -1793,6 +1802,12 @@
         "id": "SID0099809",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "42083",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

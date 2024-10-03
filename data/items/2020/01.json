@@ -1365,6 +1365,12 @@
         "id": "106302",
         "begin": "2020-01-11T15:30:00.000Z",
         "broadcast": "R/2020-01-11T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-271",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2182,6 +2188,12 @@
       {
         "site": "mikan",
         "id": "2147"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dorohedoro",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2501,6 +2513,12 @@
       {
         "site": "mikan",
         "id": "2152"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haikyu_TO_THE_TOP",
+        "begin": "2020-01-12T03:00:00.000Z",
+        "broadcast": "R/2020-01-12T03:00:00.000Z/P7D"
       }
     ]
   },

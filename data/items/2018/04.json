@@ -1502,6 +1502,18 @@
       {
         "site": "mikan",
         "id": "1614"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgbowJqjeqtQTk6SmE3IPku",
+        "begin": "2024-09-23T13:00:06.000Z",
+        "broadcast": "R/2024-09-23T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-92",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2417,6 +2429,18 @@
       {
         "site": "mikan",
         "id": "1631"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-umamusume",
+        "begin": "2020-08-07T03:00:00.000Z",
+        "broadcast": "R/2020-08-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRADy5WE06tcoQvJmBR70jP",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3154,6 +3178,12 @@
       {
         "site": "mikan",
         "id": "1636"
+      },
+      {
+        "site": "nicovideo",
+        "id": "megalobox",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3362,6 +3392,12 @@
       {
         "site": "mikan",
         "id": "1646"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nobu_anime",
+        "begin": "2018-04-27T03:00:00.000Z",
+        "broadcast": "R/2018-04-27T03:00:00.000Z/P7D"
       }
     ]
   },

@@ -22,7 +22,8 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z"
+        "begin": "2018-07-07T03:00:00.000Z",
+        "broadcast": "R/2018-07-07T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -123,6 +124,12 @@
         "id": "28234788",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "anemone-eurekaseven",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -146,7 +153,8 @@
       {
         "site": "nicovideo",
         "id": "kaiju-girls-black",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -183,7 +191,8 @@
       {
         "site": "nicovideo",
         "id": "zokuowarimonogatari",
-        "begin": "2019-05-20T03:00:00.000Z"
+        "begin": "2019-05-20T03:00:00.000Z",
+        "broadcast": "R/2019-05-20T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",

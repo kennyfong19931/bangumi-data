@@ -56,6 +56,12 @@
       {
         "site": "bangumi_moe",
         "id": "632762d92eaf6e578875f808"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yowapeda_LIMIT_BREAK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -366,7 +372,8 @@
         "驯兽师被逐出队伍后邂逅最强少女"
       ],
       "zh-Hant": [
-        "被勇者隊伍開除的馭獸使，邂逅了最強種的貓耳少女"
+        "被勇者隊伍開除的馭獸使，邂逅了最強種的貓耳少女",
+        "被勇者隊伍開除的馭獸使,邂逅了最強種的貓耳少女"
       ],
       "en": [
         "BEAST TAMER"
@@ -439,6 +446,12 @@
         "id": "124956",
         "begin": "2022-10-02T14:00:00.000Z",
         "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "beasttamer0003_141604",
+        "begin": "2024-09-05T16:00:00.000Z",
+        "broadcast": "R/2024-09-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1145,6 +1158,12 @@
       {
         "site": "bangumi_moe",
         "id": "632762d62eaf6e578875f800"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "124639",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1477,6 +1496,12 @@
       {
         "site": "bangumi_moe",
         "id": "632762c02eaf6e578875f7b2"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-witch",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1649,6 +1674,18 @@
       {
         "site": "bangumi_moe",
         "id": "632762cb2eaf6e578875f7dc"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148782",
+        "begin": "2024-08-30T15:00:00.000Z",
+        "broadcast": "R/2024-08-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "482-63",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1851,13 +1888,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "蓝色监狱",
-        "青監獄"
+        "青監獄",
+        "BLUE LOCK"
       ],
       "zh-Hant": [
-        "藍色監獄"
+        "藍色監獄",
+        "BLUE LOCK"
       ],
       "en": [
-        "Blue Lock"
+        "Blue Lock",
+        "BLUE LOCK"
       ]
     },
     "type": "tv",
@@ -1921,6 +1961,18 @@
       {
         "site": "bangumi_moe",
         "id": "632762da2eaf6e578875f80e"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bluelock",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "6SsOy9HQ2imE",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3046,9 +3098,9 @@
       },
       {
         "site": "unext",
-        "id": "SID0078837",
-        "begin": "2023-03-29T03:00:00.000Z",
-        "broadcast": "R/2023-03-29T03:00:00.000Z/P7D"
+        "id": "SID0111140",
+        "begin": "2024-10-09T03:00:00.000Z",
+        "broadcast": "R/2024-10-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3118,6 +3170,13 @@
       {
         "site": "mikan",
         "id": "3012"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4zysvjugo59f",
+        "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-progressive-scherzo-of-deep-night/4zysvjugo59f",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

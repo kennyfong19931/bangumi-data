@@ -1696,9 +1696,9 @@
       },
       {
         "site": "mytv",
-        "id": "kurokosbasketball1stseason0001_141041",
-        "begin": "2024-06-20T16:00:00.000Z",
-        "broadcast": "R/2024-06-20T16:00:00.000Z/P7D"
+        "id": "kurokosbasketball1stseason0002_141948",
+        "begin": "2024-10-09T16:00:00.000Z",
+        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1803,6 +1803,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新 风起云涌！我的宇宙公主"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：我和我的宇宙公主"
       ]
     },
     "type": "movie",
@@ -1841,6 +1844,12 @@
         "id": "SID0099810",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "54922",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

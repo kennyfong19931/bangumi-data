@@ -919,6 +919,12 @@
       {
         "site": "mikan",
         "id": "1418"
+      },
+      {
+        "site": "nicovideo",
+        "id": "uranohoshi02",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1092,6 +1098,12 @@
         "id": "88978",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "land-of-the-lustrous",
+        "begin": "2017-10-10T15:00:00.000Z",
+        "broadcast": "R/2017-10-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2761,6 +2773,12 @@
       {
         "site": "mikan",
         "id": "1459"
+      },
+      {
+        "site": "abema",
+        "id": "19-112",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2939,6 +2957,9 @@
     "titleTranslate": {
       "en": [
         "ONYANKOPON"
+      ],
+      "zh-Hant": [
+        "Onyankopon～有請喵喵神～"
       ]
     },
     "type": "web",
@@ -2966,6 +2987,18 @@
       {
         "site": "bangumi_moe",
         "id": "59d0cb67fb34aac154710b9d"
+      },
+      {
+        "site": "gamer",
+        "id": "92329",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92329",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -3395,6 +3428,12 @@
       {
         "site": "mikan",
         "id": "1560"
+      },
+      {
+        "site": "nicovideo",
+        "id": "geass-movie1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
