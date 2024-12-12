@@ -1228,6 +1228,12 @@
         "id": "22134462",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchWS-09F95mSHM9G5JnXWvg",
+        "begin": "2024-12-23T13:00:06.000Z",
+        "broadcast": "R/2024-12-23T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -2180,6 +2186,9 @@
       ],
       "zh-Hant": [
         "我回來了、歡迎回家"
+      ],
+      "en": [
+        "TADAIMA, OKAERI"
       ]
     },
     "type": "tv",
@@ -2225,6 +2234,12 @@
       {
         "site": "mikan",
         "id": "3319"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhr8ZGZHc7BIitXxAfGMLW8",
+        "begin": "2024-12-02T12:30:06.000Z",
+        "broadcast": "R/2024-12-02T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -2505,6 +2520,12 @@
       {
         "site": "mikan",
         "id": "3323"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciwHKhcejNOvX5S20sJMlmy",
+        "begin": "2024-11-25T13:30:06.000Z",
+        "broadcast": "R/2024-11-25T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -3645,18 +3666,6 @@
         "broadcast": "R/2024-04-06T15:00:00.000Z/P7D"
       }
     ]
-  },
-  {
-    "title": "ROLY POLY PEOPLES",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://rolypi.com/",
-    "begin": "2024-04-03T14:30:00.000Z",
-    "broadcast": "R/2024-04-03T14:30:00.000Z/P7D",
-    "end": "2024-06-26T14:40:00.000Z",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "聖闘士星矢:Knights of the Zodiac バトル・サンクチュアリ Part 2",

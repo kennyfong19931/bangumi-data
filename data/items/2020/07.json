@@ -435,12 +435,6 @@
         "broadcast": "R/2020-07-09T14:30:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81299326",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "108067",
         "begin": "2020-07-04T16:00:00.000Z",
@@ -1730,12 +1724,6 @@
         "id": "111652",
         "begin": "2020-07-17T03:00:00.000Z",
         "broadcast": "R/2020-07-17T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "30-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

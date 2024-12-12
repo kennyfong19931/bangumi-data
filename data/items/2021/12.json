@@ -57,13 +57,6 @@
         "comment": "中配版: 20316645"
       },
       {
-        "site": "mytv",
-        "id": "demonslayerkimetsunoyaibaentertainmentdistrictarc0001_133873",
-        "begin": "2022-01-12T16:00:00.000Z",
-        "broadcast": "R/2022-01-12T16:00:00.000Z/P7D",
-        "comment": "雙語版, 粵語版: demonslayerkimetsunoyaibaentertainmentdistrictarc0004_140918"
-      },
-      {
         "site": "nicovideo",
         "id": "kimetsu_yukakuhen",
         "begin": "",
@@ -429,6 +422,24 @@
         "id": "28235977",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "sorairo-utility",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0163331",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "189-79",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -479,12 +490,6 @@
       {
         "site": "bangumi",
         "id": "338424"
-      },
-      {
-        "site": "unext",
-        "id": "SID0086302",
-        "begin": "2023-11-08T03:00:00.000Z",
-        "broadcast": "R/2023-11-08T03:00:00.000Z/P7D"
       }
     ]
   }

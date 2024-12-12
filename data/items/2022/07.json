@@ -904,12 +904,6 @@
         "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-213",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0070853",
         "begin": "2022-07-20T16:00:00.000Z",
@@ -1646,12 +1640,6 @@
         "broadcast": "R/2022-07-05T03:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81620000",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "Lycoris"
       },
@@ -2349,6 +2337,9 @@
       ],
       "zh-Hant": [
         "黑之召喚士"
+      ],
+      "en": [
+        "Black Summoner"
       ]
     },
     "type": "tv",
@@ -2424,6 +2415,12 @@
       {
         "site": "bangumi_moe",
         "id": "62c125b92fc3ee0d0016bf6c"
+      },
+      {
+        "site": "netflix",
+        "id": "81948390",
+        "begin": "2024-12-14T00:00:00.000Z",
+        "broadcast": "R/2024-12-14T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2491,6 +2488,12 @@
         "id": "SID0070107",
         "begin": "2022-07-17T15:30:00.000Z",
         "broadcast": "R/2022-07-17T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "600-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

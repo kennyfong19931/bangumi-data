@@ -212,12 +212,6 @@
         "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-230",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0071338",
         "begin": "2022-08-01T03:00:00.000Z",

@@ -726,12 +726,6 @@
         "begin": "2019-10-02T18:09:03.000Z"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jj3WjKVfQMssxMY-FNYEf7t",
-        "begin": "2019-11-24T16:00:00.000Z",
-        "broadcast": "R/2019-11-24T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28222866",
         "begin": "2019-10-02T18:15:00.000Z",
@@ -864,12 +858,6 @@
       {
         "site": "bangumi",
         "id": "282564"
-      },
-      {
-        "site": "nicovideo",
-        "id": "val-love",
-        "begin": "2019-10-08T15:00:00.000Z",
-        "broadcast": "R/2019-10-08T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -1976,12 +1964,6 @@
         "id": "pso2_eporacle",
         "begin": "2019-10-13T13:30:00.000Z",
         "broadcast": "R/2019-10-13T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgNYvH4dHww4HSufuuvP4dI",
-        "begin": "2019-10-06T16:00:00.000Z",
-        "broadcast": "R/2019-10-06T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",

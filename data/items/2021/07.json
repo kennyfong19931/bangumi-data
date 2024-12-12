@@ -659,12 +659,6 @@
         "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "169-115",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0058453",
         "begin": "2021-07-07T17:00:00.000Z",
@@ -1948,6 +1942,9 @@
         "IDOLiSH7 - 偶像星願 - Third BEAT！",
         "IDOLiSH7-偶像星願-Third BEAT!",
         "偶像星願7 Third BEAT!"
+      ],
+      "en": [
+        "Idolish 7 Third BEAT!"
       ]
     },
     "type": "tv",
@@ -2244,6 +2241,12 @@
       {
         "site": "mikan",
         "id": "2511"
+      },
+      {
+        "site": "abema",
+        "id": "26-89",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2943,12 +2946,6 @@
         "id": "SID0066647",
         "begin": "2022-03-01T15:00:00.000Z",
         "broadcast": "R/2022-03-01T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81492822",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",

@@ -947,12 +947,6 @@
         "broadcast": "R/2022-04-07T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81597507",
-        "begin": "2022-11-26T00:00:00.000Z",
-        "broadcast": "R/2022-11-26T00:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "skeleton-knight",
         "begin": "2022-04-14T14:30:00.000Z",
@@ -1745,7 +1739,8 @@
         "site": "muse_hk",
         "id": "PLuxqoToY7Uci5zu1j1yepRZKLSGN_4zQn",
         "begin": "2022-08-14T16:00:00.000Z",
-        "broadcast": "R/2022-08-14T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-08-14T16:00:00.000Z/P7D",
+        "comment": "粵配: PLuxqoToY7UcifYuHTZ_a_7E_gQ7rJqE0J"
       },
       {
         "site": "viu",
@@ -2335,12 +2330,6 @@
         "broadcast": "R/2022-04-08T16:30:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "590ZZCGEwHyV",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "28237120",
         "begin": "2022-04-28T16:00:01.000Z",
@@ -2521,6 +2510,12 @@
       {
         "site": "bangumi_moe",
         "id": "624774a770e8f89b23a1856c"
+      },
+      {
+        "site": "netflix",
+        "id": "81948375",
+        "begin": "2024-11-30T00:00:00.000Z",
+        "broadcast": "R/2024-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3490,6 +3485,33 @@
         "id": "28368316",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第30シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第30季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2022-04-03T16:00:00.000Z",
+    "broadcast": "R/2022-04-03T16:00:00.000Z/P7D",
+    "end": "2022-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411969"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159804",
+        "begin": "2024-11-19T15:00:00.000Z",
+        "broadcast": "R/2024-11-19T15:00:00.000Z/P7D"
       }
     ]
   }
