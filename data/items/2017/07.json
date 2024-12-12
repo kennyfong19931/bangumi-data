@@ -663,6 +663,12 @@
       {
         "site": "mikan",
         "id": "1345"
+      },
+      {
+        "site": "abema",
+        "id": "11-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1206,6 +1212,12 @@
       {
         "site": "nicovideo",
         "id": "kakegurui-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "168-70",
         "begin": "",
         "broadcast": ""
       }

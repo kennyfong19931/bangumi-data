@@ -2762,6 +2762,12 @@
       {
         "site": "bangumi_moe",
         "id": "632762c02eaf6e578875f7b0"
+      },
+      {
+        "site": "abema",
+        "id": "19-130",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3440,6 +3446,12 @@
         "id": "SID0087675",
         "begin": "2023-06-15T09:00:00.000Z",
         "broadcast": "R/2023-06-15T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-110",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

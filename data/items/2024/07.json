@@ -555,6 +555,12 @@
       {
         "site": "mikan",
         "id": "3372"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mayopan",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -784,6 +790,12 @@
         "id": "SID0157563",
         "begin": "2024-10-05T03:00:00.000Z",
         "broadcast": "R/2024-10-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81948423",
+        "begin": "2024-11-30T00:00:00.000Z",
+        "broadcast": "R/2024-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1464,7 +1476,8 @@
     "title": "黄昏アウトフォーカス",
     "titleTranslate": {
       "zh-Hans": [
-        "黄昏失焦"
+        "黄昏失焦",
+        "黄昏光影"
       ],
       "zh-Hant": [
         "黃昏光影"
@@ -1528,6 +1541,12 @@
         "id": "133842",
         "begin": "2024-07-04T15:00:00.000Z",
         "broadcast": "R/2024-07-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81948293",
+        "begin": "2024-11-30T00:00:00.000Z",
+        "broadcast": "R/2024-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3039,6 +3058,12 @@
         "begin": "",
         "broadcast": "",
         "comment": "オンエア版"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104167",
+        "begin": "2024-06-22T03:00:00.000Z",
+        "broadcast": "R/2024-06-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3587,6 +3612,42 @@
         "id": "SID0159850",
         "begin": "2024-11-07T15:00:00.000Z",
         "broadcast": "R/2024-11-07T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 モノノ怪 唐傘",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 唐伞",
+        "剧场版物怪：唐伞",
+        "剧场版 怪化猫",
+        "怪化猫：唐伞"
+      ],
+      "zh-Hant": [
+        "劇場版物怪：唐傘"
+      ],
+      "en": [
+        "Mononoke The Movie: The Phantom in the Rain"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2024-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "388469"
+      },
+      {
+        "site": "netflix",
+        "id": "81580574",
+        "begin": "2024-11-28T00:00:00.000Z",
+        "broadcast": "R/2024-11-28T00:00:00.000Z/P7D"
       }
     ]
   }

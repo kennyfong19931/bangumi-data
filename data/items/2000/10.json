@@ -512,5 +512,32 @@
         "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ハムスター倶楽部",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仓鼠俱乐部"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-10-01T16:00:00.000Z",
+    "broadcast": "R/2000-10-01T16:00:00.000Z/P7D",
+    "end": "2001-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317771"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159111",
+        "begin": "2024-12-01T03:00:00.000Z",
+        "broadcast": "R/2024-12-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
