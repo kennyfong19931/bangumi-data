@@ -822,7 +822,8 @@
         "失格紋的最強賢者"
       ],
       "en": [
-        "The Strongest Sage with the Weakest Crest S1"
+        "The Strongest Sage with the Weakest Crest S1",
+        "The Strongest Sage with the Weakest Crest"
       ]
     },
     "type": "tv",
@@ -886,6 +887,12 @@
       {
         "site": "bangumi_moe",
         "id": "61d722086e31a0815abf543b"
+      },
+      {
+        "site": "netflix",
+        "id": "81557316",
+        "begin": "2024-11-24T00:00:00.000Z",
+        "broadcast": "R/2024-11-24T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1358,6 +1365,12 @@
       {
         "site": "nicovideo",
         "id": "irodorimidori-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "539-3",
         "begin": "",
         "broadcast": ""
       }
@@ -2346,6 +2359,12 @@
         "id": "120394",
         "begin": "2022-08-18T04:00:00.000Z",
         "broadcast": "R/2022-08-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164941",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
       }
     ]
   },
