@@ -566,6 +566,12 @@
         "id": "hcanime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "194-44",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -716,7 +722,8 @@
         "site": "viu",
         "id": "2434702",
         "begin": "2024-10-03T16:00:18.000Z",
-        "broadcast": "R/2024-10-03T16:00:18.000Z/P7D"
+        "broadcast": "R/2024-10-03T16:00:18.000Z/P7D",
+        "comment": "粵語版: 2552228"
       },
       {
         "site": "gamer",
@@ -2668,7 +2675,7 @@
     "officialSite": "http://re-zero-anime.jp/tv/",
     "begin": "2024-10-02T12:25:00.000Z",
     "broadcast": "R/2024-10-02T12:25:00.000Z/P7D",
-    "end": "",
+    "end": "2024-11-20T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3153,6 +3160,12 @@
       {
         "site": "mikan",
         "id": "3472"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157077",
+        "begin": "2024-12-09T03:00:00.000Z",
+        "broadcast": "R/2024-12-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3411,7 +3424,7 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "470775"
+        "id": "481410"
       },
       {
         "site": "unext",
@@ -3457,6 +3470,10 @@
       {
         "site": "dmhy",
         "id": "亡靈 隱退"
+      },
+      {
+        "site": "mikan",
+        "id": "3416"
       }
     ]
   },
@@ -4150,6 +4167,12 @@
       {
         "site": "dmhy",
         "id": "貓咪 大叔"
+      },
+      {
+        "site": "abema",
+        "id": "19-206",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
