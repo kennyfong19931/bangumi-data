@@ -1025,12 +1025,6 @@
         "broadcast": "R/2020-10-04T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "174-18",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfppH-Grf8YA6mXn6_9nHkrK",
         "begin": "",
@@ -3387,9 +3381,9 @@
       },
       {
         "site": "danime",
-        "id": "23157",
-        "begin": "2020-01-13T15:00:00.000Z",
-        "broadcast": "R/2020-01-13T15:00:00.000Z/P7D"
+        "id": "27652",
+        "begin": "2025-03-08T15:00:00.000Z",
+        "broadcast": "R/2025-03-08T15:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",

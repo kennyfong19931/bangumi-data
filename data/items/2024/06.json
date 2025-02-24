@@ -219,6 +219,12 @@
       {
         "site": "mikan",
         "id": "3481"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ohmuroke-df",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -241,12 +247,6 @@
       {
         "site": "bangumi",
         "id": "476808"
-      },
-      {
-        "site": "unext",
-        "id": "SID0160371",
-        "begin": "2024-11-30T15:00:00.000Z",
-        "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
       }
     ]
   },

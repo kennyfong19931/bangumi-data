@@ -1264,6 +1264,12 @@
         "id": "27120",
         "begin": "2024-07-08T03:00:00.000Z",
         "broadcast": "R/2024-07-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "suicidesquadisekai_142832",
+        "begin": "2025-03-18T16:00:00.000Z",
+        "broadcast": "R/2025-03-18T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1791,6 +1797,12 @@
       {
         "site": "prime",
         "id": "B0D7HHW9MX",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimisen-anime",
         "begin": "",
         "broadcast": ""
       }
@@ -3112,7 +3124,7 @@
       },
       {
         "site": "prime",
-        "id": "B0DHGT24WY",
+        "id": "B0D4JVV2Z3",
         "begin": "",
         "broadcast": ""
       }
@@ -3467,6 +3479,12 @@
         "id": "B0D5M7VX28",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjVzvOTk2yQw_S3GUXTUHRI",
+        "begin": "2025-03-19T13:00:06.000Z",
+        "broadcast": "R/2025-03-19T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -3562,6 +3580,12 @@
         "id": "B0CWGZDRH8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciqLKFOms3DSKpmmnhYjneh",
+        "begin": "2025-03-06T13:00:06.000Z",
+        "broadcast": "R/2025-03-06T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -4062,6 +4086,12 @@
         "id": "B0D16F8JFG",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "oshinokoep1224_142576",
+        "begin": "2025-02-19T16:00:00.000Z",
+        "broadcast": "R/2025-02-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4449,6 +4479,34 @@
       {
         "site": "bangumi_moe",
         "id": "6681472557ba1568dc1b080c"
+      }
+    ]
+  },
+  {
+    "title": "T・Pぼん シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光巡逻队 第二季",
+        "T·P 時光特警 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-07-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486676"
+      },
+      {
+        "site": "netflix",
+        "id": "81497635",
+        "begin": "2024-05-01T16:00:00.000Z",
+        "broadcast": "R/2024-05-01T16:00:00.000Z/P7D"
       }
     ]
   }
