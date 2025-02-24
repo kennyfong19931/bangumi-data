@@ -172,5 +172,36 @@
         "broadcast": "R/2024-08-30T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 You're Next"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://heroaca-movie.com/",
+    "begin": "2024-08-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449154"
+      },
+      {
+        "site": "unext",
+        "id": "SID0170032",
+        "begin": "2025-02-18T15:00:00.000Z",
+        "broadcast": "R/2025-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3509"
+      }
+    ]
   }
 ]

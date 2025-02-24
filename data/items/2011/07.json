@@ -114,6 +114,12 @@
         "id": "11630",
         "begin": "2015-02-01T01:00:00.000Z",
         "broadcast": "R/2015-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "idolmaster-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -77,6 +77,12 @@
         "id": "B0CVH25RNL",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSMMyiE8oIPcGZg-A-aG7sh",
+        "begin": "2025-02-27T12:30:07.000Z",
+        "broadcast": "R/2025-02-27T12:30:07.000Z/P7D"
       }
     ]
   },
@@ -1078,8 +1084,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtQCkDYNQJpV5LLelEpkPkrF",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2024-07-05T10:00:53.000Z",
+        "broadcast": "R/2024-07-05T10:00:53.000Z/P7D",
         "comment": "粵語配音: LC18xlbCdwtSwni0-hf6b_tg94iRzUkPN"
       },
       {
@@ -2846,13 +2852,15 @@
     "titleTranslate": {
       "zh-Hans": [
         "调酒师 神之杯",
-        "王牌酒保 Glass of God"
+        "王牌酒保 Glass of God",
+        "王牌酒保：神之酒杯"
       ],
       "zh-Hant": [
         "王牌酒保 Glass of God"
       ],
       "en": [
-        "BARTENDER Glass of God"
+        "BARTENDER Glass of God",
+        "Bartender: Glass of God"
       ]
     },
     "type": "tv",
@@ -2938,6 +2946,12 @@
         "id": "B0CV85XX6B",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81975201",
+        "begin": "2025-02-18T16:00:00.000Z",
+        "broadcast": "R/2025-02-18T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -3779,6 +3793,12 @@
         "begin": "2024-04-10T16:55:00.000Z",
         "broadcast": "R/2024-04-10T16:55:00.000Z/P7D",
         "comment": "字幕版: 27073"
+      },
+      {
+        "site": "prime",
+        "id": "B0CWXS6LBM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4316,7 +4336,7 @@
       },
       {
         "site": "prime",
-        "id": "B0D4WP4CRZ",
+        "id": "B0CZRMYX1V",
         "begin": "",
         "broadcast": ""
       }

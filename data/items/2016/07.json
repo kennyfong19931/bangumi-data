@@ -991,6 +991,12 @@
         "id": "21623",
         "begin": "2017-06-30T01:00:00.000Z",
         "broadcast": "R/2017-06-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhUHB4qUmPjh0pRdyQrQVEB",
+        "begin": "2022-07-18T10:00:23.000Z",
+        "broadcast": "R/2022-07-18T10:00:23.000Z/P7D"
       }
     ]
   },

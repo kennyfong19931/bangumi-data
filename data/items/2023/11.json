@@ -364,6 +364,12 @@
         "id": "SID0102365",
         "begin": "2024-05-25T15:00:00.000Z",
         "broadcast": "R/2024-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27699",
+        "begin": "2025-02-25T15:00:00.000Z",
+        "broadcast": "R/2025-02-25T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -478,6 +484,12 @@
       {
         "site": "mikan",
         "id": "3276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "welcome-komada",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
