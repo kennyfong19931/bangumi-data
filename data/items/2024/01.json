@@ -1176,6 +1176,12 @@
         "id": "26817",
         "begin": "2024-01-11T03:00:00.000Z",
         "broadcast": "R/2024-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81753309",
+        "begin": "2025-02-27T16:00:00.000Z",
+        "broadcast": "R/2025-02-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4328,8 +4334,8 @@
       {
         "site": "netflix",
         "id": "81747912",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-30T16:00:00.000Z",
+        "broadcast": "R/2024-07-30T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4350,6 +4356,18 @@
       {
         "site": "prime",
         "id": "B0CWDJ2X3V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133796",
+        "begin": "2025-02-28T16:00:00.000Z",
+        "broadcast": "R/2025-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133796",
         "begin": "",
         "broadcast": ""
       }

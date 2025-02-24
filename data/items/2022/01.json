@@ -608,6 +608,9 @@
       "zh-Hant": [
         "擅長捉弄人的高木同學 第3季",
         "擅長捉弄人的高木同學 第三季"
+      ],
+      "en": [
+        "Teasing Master Takagi-san Season 3"
       ]
     },
     "type": "tv",
@@ -675,6 +678,12 @@
         "id": "PL12UaAf_xzfoy0YU-yiND4M-7Mf1-AgW6",
         "begin": "2022-09-08T12:00:36.000Z",
         "broadcast": "R/2022-09-08T12:00:36.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "teasingmastertakagisanseason3_142496",
+        "begin": "2025-02-19T16:00:00.000Z",
+        "broadcast": "R/2025-02-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2297,6 +2306,12 @@
         "id": "25156",
         "begin": "2022-01-10T13:30:00.000Z",
         "broadcast": "R/2022-01-10T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "119925",
+        "begin": "2022-01-10T13:30:00.000Z",
+        "broadcast": "R/2022-01-10T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -2762,6 +2777,12 @@
         "id": "27587",
         "begin": "2024-12-20T03:00:00.000Z",
         "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wataru-movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

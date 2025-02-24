@@ -41,6 +41,12 @@
         "id": "10867",
         "begin": "2013-07-05T01:00:00.000Z",
         "broadcast": "R/2013-07-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B00I7HMCRW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
