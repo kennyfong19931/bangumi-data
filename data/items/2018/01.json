@@ -938,6 +938,12 @@
         "id": "21948",
         "begin": "2018-01-05T03:00:00.000Z",
         "broadcast": "R/2018-01-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRJoGqOTFPln-B_iy-Zgqbc",
+        "begin": "2025-03-06T12:30:06.000Z",
+        "broadcast": "R/2025-03-06T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -2905,6 +2911,12 @@
       {
         "site": "mikan",
         "id": "1540"
+      },
+      {
+        "site": "prime",
+        "id": "B078TJHGH7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

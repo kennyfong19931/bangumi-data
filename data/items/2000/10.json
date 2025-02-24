@@ -267,6 +267,9 @@
       ],
       "zh-Hant": [
         "萬有引力"
+      ],
+      "en": [
+        "GRAVITATION"
       ]
     },
     "type": "tv",
@@ -283,6 +286,12 @@
       {
         "site": "bangumi",
         "id": "2912"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj4FzOt4wb-cP2-q7G8lcaz",
+        "begin": "2022-06-02T10:11:41.000Z",
+        "broadcast": "R/2022-06-02T10:11:41.000Z/P7D"
       }
     ]
   },

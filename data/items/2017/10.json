@@ -64,6 +64,12 @@
         "id": "21805",
         "begin": "2017-10-02T03:00:00.000Z",
         "broadcast": "R/2017-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "imas-sidem",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -872,6 +878,12 @@
         "id": "PL12UaAf_xzfrPjL1Xad3Q9Xw7n1uberxc",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-78",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1660,6 +1672,9 @@
       ],
       "zh-Hant": [
         "我家有個魚乾妹 R"
+      ],
+      "en": [
+        "HIMOUTO! UMARUCHAN R"
       ]
     },
     "type": "tv",
@@ -1720,6 +1735,12 @@
         "id": "21798",
         "begin": "2017-10-12T03:00:00.000Z",
         "broadcast": "R/2017-10-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgxa52rp4SXfDV3QdnJcEXt",
+        "begin": "2025-02-16T12:30:06.000Z",
+        "broadcast": "R/2025-02-16T12:30:06.000Z/P7D"
       }
     ]
   },

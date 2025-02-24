@@ -387,7 +387,8 @@
         "site": "unext",
         "id": "SID0052922",
         "begin": "2021-01-12T15:00:00.000Z",
-        "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+        "broadcast": "R/2021-01-12T15:00:00.000Z/P7D",
+        "comment": "OVA: SID0168637"
       },
       {
         "site": "gamer_hk",
@@ -508,6 +509,12 @@
         "id": "24428",
         "begin": "2021-01-15T13:00:00.000Z",
         "broadcast": "R/2021-01-15T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQaNDjAYKkA5p06EK_Kc7Z2",
+        "begin": "2025-03-12T12:30:06.000Z",
+        "broadcast": "R/2025-03-12T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -2555,6 +2562,12 @@
         "id": "24407",
         "begin": "2021-01-12T15:00:00.000Z",
         "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08SKQL9S6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2710,6 +2723,12 @@
         "id": "24449",
         "begin": "2021-01-20T13:30:00.000Z",
         "broadcast": "R/2021-01-20T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "113188",
+        "begin": "2021-01-20T13:00:00.000Z",
+        "broadcast": "R/2021-01-20T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2881,14 +2900,26 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtTx4vdmdWY6dbb1-escsuGS",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-24T08:00:41.000Z",
+        "broadcast": "R/2024-09-24T08:00:41.000Z/P7D"
       },
       {
         "site": "danime",
         "id": "24462",
         "begin": "2021-01-05T03:00:00.000Z",
         "broadcast": "R/2021-01-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "113834",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "113834",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
