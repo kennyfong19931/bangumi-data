@@ -263,6 +263,12 @@
         "id": "PL12UaAf_xzfpkfBZYOenH5vU9CEaSuu63",
         "begin": "2024-06-21T09:00:51.000Z",
         "broadcast": "R/2024-06-21T09:00:51.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CWCV48DQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -579,6 +585,12 @@
         "id": "PLuxqoToY7Ucica4SluPzG-WWMzVhMDWk5",
         "begin": "2025-04-06T13:00:06.000Z",
         "broadcast": "R/2025-04-06T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "18Gmg8yEPTIG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1613,6 +1625,12 @@
         "id": "26975",
         "begin": "2024-04-01T13:00:00.000Z",
         "broadcast": "R/2024-04-01T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CVHLFZLV",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2701,6 +2719,12 @@
         "id": "G79H23Z5X",
         "begin": "2024-04-08T15:30:00.000Z",
         "broadcast": "R/2024-04-08T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27751",
+        "begin": "2025-04-08T15:00:00.000Z",
+        "broadcast": "R/2025-04-08T15:00:00.000Z/P7D"
       }
     ]
   },
