@@ -2060,7 +2060,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B8MNVXVW",
+        "id": "B0DRPPTB1Q",
         "begin": "",
         "broadcast": ""
       }
@@ -2943,12 +2943,6 @@
         "id": "231971"
       },
       {
-        "site": "unext",
-        "id": "SID0034373",
-        "begin": "2018-04-17T03:00:00.000Z",
-        "broadcast": "R/2018-04-17T03:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ac0aa81395e2a122f10f029"
       }
@@ -3213,12 +3207,6 @@
         "id": "SID0034339",
         "begin": "2018-04-15T03:00:00.000Z",
         "broadcast": "R/2018-04-15T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81037597",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",

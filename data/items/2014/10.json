@@ -674,12 +674,6 @@
         "begin": "2014-10-04T17:00:00.000Z"
       },
       {
-        "site": "viu",
-        "id": "438873",
-        "begin": "2022-05-01T16:00:00.000Z",
-        "broadcast": "R/2022-05-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "67396",
         "begin": "2020-08-05T09:00:00.000Z",
@@ -2149,12 +2143,6 @@
         "broadcast": "R/2017-12-14T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-107",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "PSYCHO PASS 2"
       },
@@ -2428,12 +2416,6 @@
         "site": "qq",
         "id": "r/rudctspx3dlrtsy",
         "begin": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0003287",
-        "begin": "2022-04-27T03:00:00.000Z",
-        "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",

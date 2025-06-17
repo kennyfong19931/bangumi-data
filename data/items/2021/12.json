@@ -132,6 +132,9 @@
       "zh-Hant": [
         "魔法科高中的劣等生: 追憶篇",
         "魔法科高中的劣等生 追憶篇"
+      ],
+      "en": [
+        "The Irregular at Magic High School: Reminiscence Arc"
       ]
     },
     "type": "tv",
@@ -182,6 +185,12 @@
       {
         "site": "prime",
         "id": "B0D8CLX8FW",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "75QaYcu3qT7z",
         "begin": "",
         "broadcast": ""
       }
@@ -478,6 +487,9 @@
       ],
       "en": [
         "Sorairo Utility"
+      ],
+      "zh-Hant": [
+        "一桿青空"
       ]
     },
     "type": "tv",

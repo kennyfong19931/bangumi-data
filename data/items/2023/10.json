@@ -932,12 +932,6 @@
         "id": "451559"
       },
       {
-        "site": "abema",
-        "id": "482-39",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "65186f7d4c90aa63daeaa201"
       },
@@ -1354,12 +1348,6 @@
         "id": "undead-unluck",
         "begin": "2023-10-06T17:00:00.000Z",
         "broadcast": "R/2023-10-06T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "172-56",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "netflix",
@@ -1915,7 +1903,7 @@
       },
       {
         "site": "prime",
-        "id": "B0CJY2DZ3K",
+        "id": "B0CJY32FKP",
         "begin": "",
         "broadcast": ""
       }

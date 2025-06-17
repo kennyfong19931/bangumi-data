@@ -344,13 +344,6 @@
         "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "rentagirlfriend2426_141233",
-        "begin": "2022-10-07T19:00:00.000Z",
-        "broadcast": "R/2022-10-07T19:00:00.000Z/P7D",
-        "comment": "粵語: rentagirlfriend0001_136684"
-      },
-      {
         "site": "gamer",
         "id": "109203",
         "begin": "2020-07-10T18:00:00.000Z",
@@ -895,12 +888,6 @@
         "id": "SID0049165",
         "begin": "2020-07-15T15:00:00.000Z",
         "broadcast": "R/2020-07-15T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "481-4",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",

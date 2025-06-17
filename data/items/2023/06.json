@@ -412,6 +412,18 @@
         "id": "81765074",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-211",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CKNQQ825",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -468,12 +480,6 @@
       {
         "site": "bangumi",
         "id": "425604"
-      },
-      {
-        "site": "unext",
-        "id": "SID0099225",
-        "begin": "2024-03-08T15:00:00.000Z",
-        "broadcast": "R/2024-03-08T15:00:00.000Z/P7D"
       },
       {
         "site": "danime",

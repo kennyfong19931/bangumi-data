@@ -581,18 +581,6 @@
         "broadcast": ""
       },
       {
-        "site": "mytv",
-        "id": "windbreaker_142332",
-        "begin": "2025-01-21T16:00:00.000Z",
-        "broadcast": "R/2025-01-21T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucica4SluPzG-WWMzVhMDWk5",
-        "begin": "2025-04-06T13:00:06.000Z",
-        "broadcast": "R/2025-04-06T13:00:06.000Z/P7D"
-      },
-      {
         "site": "disneyplus",
         "id": "18Gmg8yEPTIG",
         "begin": "",
@@ -1552,6 +1540,12 @@
         "id": "27009",
         "begin": "2024-04-01T14:30:00.000Z",
         "broadcast": "R/2024-04-01T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CV5ZPCDD",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2028,6 +2022,12 @@
         "id": "27055",
         "begin": "2024-04-15T12:30:00.000Z",
         "broadcast": "R/2024-04-15T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CW24ZQ8C",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2150,12 +2150,6 @@
       {
         "site": "mikan",
         "id": "3312"
-      },
-      {
-        "site": "mytv",
-        "id": "shinkalionchangetheworld_141340",
-        "begin": "2024-07-06T12:30:00.000Z",
-        "broadcast": "R/2024-07-06T12:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2533,6 +2527,12 @@
         "id": "27001",
         "begin": "2024-04-05T17:30:00.000Z",
         "broadcast": "R/2024-04-05T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CVN1XSQ8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3487,6 +3487,12 @@
         "id": "27005",
         "begin": "2024-04-08T17:00:00.000Z",
         "broadcast": "R/2024-04-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CW1M8GHZ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3852,12 +3858,6 @@
         "id": "SID0100068",
         "begin": "2024-04-14T03:00:00.000Z",
         "broadcast": "R/2024-04-14T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-159",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -4403,24 +4403,10 @@
         "broadcast": "R/2024-04-10T15:00:08.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-221",
-        "begin": "",
-        "broadcast": "",
-        "comment": "日本語字幕版: 26-222"
-      },
-      {
         "site": "gamer_hk",
         "id": "138047",
         "begin": "2024-04-06T15:00:00.000Z",
         "broadcast": "R/2024-04-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "danime",
-        "id": "27056",
-        "begin": "2024-04-06T16:00:00.000Z",
-        "broadcast": "R/2024-04-06T16:00:00.000Z/P7D",
-        "comment": "字幕版: 27057"
       },
       {
         "site": "prime",
@@ -4956,6 +4942,12 @@
         "id": "27998",
         "begin": "2025-05-31T15:00:00.000Z",
         "broadcast": "R/2025-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DTJD39FN",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5001,6 +4993,12 @@
         "id": "27999",
         "begin": "2025-05-31T15:00:00.000Z",
         "broadcast": "R/2025-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DQ6PCPGW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

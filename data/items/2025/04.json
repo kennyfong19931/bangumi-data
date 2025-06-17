@@ -3581,6 +3581,12 @@
       {
         "site": "bangumi_moe",
         "id": "67ed5cc48b961748467f460f"
+      },
+      {
+        "site": "prime",
+        "id": "B0F27HFZ3P",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4177,6 +4183,12 @@
       {
         "site": "dmhy",
         "id": "真 武士传|侍传"
+      },
+      {
+        "site": "bilibili",
+        "id": "26492554",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4773,6 +4785,12 @@
         "id": "27910",
         "begin": "2025-04-05T23:00:00.000Z",
         "broadcast": "R/2025-04-05T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F3NY711T",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

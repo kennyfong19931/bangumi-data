@@ -175,12 +175,6 @@
         "broadcast": "R/2017-06-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "115-5",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "21086",
         "begin": "2016-09-02T01:00:00.000Z",
@@ -465,12 +459,6 @@
         "site": "youku",
         "id": "d7f53ab4d74a11de97c0",
         "begin": "2020-02-11T06:28:58.000Z"
-      },
-      {
-        "site": "abema",
-        "id": "25-12jpgzpcyjjb",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

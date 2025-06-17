@@ -1856,12 +1856,6 @@
         "broadcast": "R/2022-10-10T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-40",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0073135",
         "begin": "2022-10-13T16:45:00.000Z",
@@ -2478,12 +2472,6 @@
         "id": "19-180",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0073151",
-        "begin": "2022-10-14T03:00:00.000Z",
-        "broadcast": "R/2022-10-14T03:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -4099,12 +4087,6 @@
         "id": "SID0087675",
         "begin": "2023-06-15T09:00:00.000Z",
         "broadcast": "R/2023-06-15T09:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "115-110",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",

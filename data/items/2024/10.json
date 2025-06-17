@@ -2365,6 +2365,12 @@
         "id": "81955421",
         "begin": "2025-01-23T16:00:00.000Z",
         "broadcast": "R/2025-01-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchsHUrEW5gQLVJ-srlTdDHb",
+        "begin": "2025-06-10T13:00:06.000Z",
+        "broadcast": "R/2025-06-10T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -5411,6 +5417,29 @@
         "id": "SID0181802",
         "begin": "2025-04-15T15:00:00.000Z",
         "broadcast": "R/2025-04-15T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぬいストーリー2",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://pisostudio.com/nuistory/",
+    "begin": "2024-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "556307"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHGXM656",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

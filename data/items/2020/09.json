@@ -50,7 +50,8 @@
     "title": "ふしぎ駄菓子屋 銭天堂",
     "titleTranslate": {
       "zh-Hans": [
-        "神奇柑仔店"
+        "神奇柑仔店",
+        "不可思议的粗点心店钱天堂"
       ]
     },
     "type": "tv",
@@ -85,6 +86,12 @@
       {
         "site": "prime",
         "id": "B0B8TQZNNV",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25845077",
         "begin": "",
         "broadcast": ""
       }

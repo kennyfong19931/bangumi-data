@@ -1968,12 +1968,6 @@
         "broadcast": "R/2019-10-19T04:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-124",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "歌舞伎町夏洛克"
       },
@@ -3494,12 +3488,6 @@
         "broadcast": "R/2020-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-107",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "PSYCHO PASS 3"
       },
@@ -3828,12 +3816,6 @@
       {
         "site": "bilibili",
         "id": "28229860",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "19-141",
         "begin": "",
         "broadcast": ""
       },

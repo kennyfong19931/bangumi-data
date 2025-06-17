@@ -161,6 +161,12 @@
         "id": "PL12UaAf_xzfqi3KSV1TvWpriRDioy_GDt",
         "begin": "2022-01-01T16:00:00.000Z",
         "broadcast": "R/2022-01-01T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "danime",
+        "id": "27994",
+        "begin": "2025-06-05T15:00:00.000Z",
+        "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
       }
     ]
   },
