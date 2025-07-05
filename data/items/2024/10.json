@@ -5454,5 +5454,32 @@
         "broadcast": "R/2024-10-19T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ふれる。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "触碰。",
+        "心之觸碰。",
+        "触碰你"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://fureru-movie.com/",
+    "begin": "2024-10-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-03T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469033"
+      },
+      {
+        "site": "mikan",
+        "id": "3574"
+      }
+    ]
   }
 ]

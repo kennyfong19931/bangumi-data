@@ -2279,6 +2279,18 @@
       {
         "site": "dmhy",
         "id": "圣女 完美"
+      },
+      {
+        "site": "danime",
+        "id": "28059",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FCQWSZ5G",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3588,6 +3600,10 @@
         "id": "B0F27HFZ3P",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3626"
       }
     ]
   },

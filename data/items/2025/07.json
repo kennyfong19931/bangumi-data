@@ -17,6 +17,10 @@
       {
         "site": "bangumi",
         "id": "514358"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b062dffbea3b3f911b0f"
       }
     ]
   },
@@ -24,7 +28,9 @@
     "title": "追放者食堂へようこそ！",
     "titleTranslate": {
       "zh-Hans": [
-        "欢迎光临流放者食堂！",
+        "欢迎光临流放者食堂！"
+      ],
+      "zh-Hant": [
         "歡迎光臨流放者食堂！"
       ]
     },
@@ -51,6 +57,26 @@
         "id": "SID0200180",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28031"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23D5d_HsdXeT5P-Hvstdcycu"
+      },
+      {
+        "site": "mikan",
+        "id": "3658"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06cdffbea3b3f911b43"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142936"
       }
     ]
   },
@@ -60,6 +86,9 @@
       "zh-Hans": [
         "Silent Witch 沉默魔女的秘密",
         "沉默的魔女"
+      ],
+      "zh-Hant": [
+        "Silent Witch 沉默魔女的祕密"
       ]
     },
     "type": "tv",
@@ -85,6 +114,22 @@
         "id": "SID0200156",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-248"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b070dffbea3b3f911b55"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140667"
+      },
+      {
+        "site": "mikan",
+        "id": "3659"
       }
     ]
   },
@@ -94,8 +139,10 @@
       "zh-Hans": [
         "青春笨蛋少年不做圣诞服女郎的梦",
         "青春猪头少年不会梦到圣诞服女郎",
-        "青春豬頭少年不會夢到聖誕服女郎",
         "青春笨蛋少年系列 大学生篇"
+      ],
+      "zh-Hant": [
+        "青春豬頭少年不會夢到聖誕服女郎"
       ]
     },
     "type": "tv",
@@ -121,6 +168,14 @@
         "id": "SID0200159",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-246"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b072dffbea3b3f911b65"
       }
     ]
   },
@@ -160,6 +215,10 @@
         "id": "11-72",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b065dffbea3b3f911b1b"
       }
     ]
   },
@@ -182,6 +241,14 @@
       {
         "site": "bangumi",
         "id": "502272"
+      },
+      {
+        "site": "abema",
+        "id": "26-251"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06adffbea3b3f911b35"
       }
     ]
   },
@@ -209,6 +276,18 @@
         "id": "SID0200161",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "rurinohouseki"
+      },
+      {
+        "site": "abema",
+        "id": "26-249"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b060dffbea3b3f911b03"
       }
     ]
   },
@@ -242,6 +321,14 @@
         "id": "25-294",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gacen-girl-anime"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b062dffbea3b3f911b0b"
       }
     ]
   },
@@ -250,6 +337,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "胆大党 第二季"
+      ],
+      "zh-Hant": [
+        "膽大黨 第二季"
       ]
     },
     "type": "tv",
@@ -269,6 +359,18 @@
         "id": "SID0200132",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3665"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06edffbea3b3f911b4b"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143021"
       }
     ]
   },
@@ -277,6 +379,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "更衣人偶坠入爱河 第二季"
+      ],
+      "zh-Hant": [
+        "戀上換裝娃娃 Season 2"
       ]
     },
     "type": "tv",
@@ -290,6 +395,14 @@
       {
         "site": "bangumi",
         "id": "398951"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b073dffbea3b3f911b69"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bisquedoll2"
       }
     ]
   },
@@ -332,6 +445,10 @@
         "id": "54-105",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06ddffbea3b3f911b49"
       }
     ]
   },
@@ -360,6 +477,10 @@
         "id": "dainanaoji2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0201738"
       }
     ]
   },
@@ -368,6 +489,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "彻夜之歌 第二季"
+      ],
+      "zh-Hant": [
+        "徹夜之歌 Season 2",
+        "徹夜之歌 Season2"
       ]
     },
     "type": "tv",
@@ -381,6 +506,22 @@
       {
         "site": "bangumi",
         "id": "484623"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06fdffbea3b3f911b51"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23C409Ot_YPqSmbf_WPW-IQu"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "138280"
+      },
+      {
+        "site": "mikan",
+        "id": "3669"
       }
     ]
   },
@@ -421,6 +562,10 @@
         "id": "168-75",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b064dffbea3b3f911b15"
       }
     ]
   },
@@ -457,6 +602,14 @@
         "id": "189-83",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "2solocamp-anime"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06ddffbea3b3f911b47"
       }
     ]
   },
@@ -465,6 +618,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪兽8号 第二季"
+      ],
+      "zh-Hant": [
+        "怪獸8號 第二季"
       ]
     },
     "type": "tv",
@@ -490,6 +646,18 @@
         "id": "SID0200169",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRBg1e_l8hZxxGPIT9V-jcL"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjBFTyOmpLiobwouSY2fCJM"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b072dffbea3b3f911b63"
       }
     ]
   },
@@ -498,6 +666,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "神椿市建设中。"
+      ],
+      "zh-Hant": [
+        "神椿市建設中。"
       ]
     },
     "type": "tv",
@@ -520,15 +691,33 @@
       },
       {
         "site": "unext",
-        "id": "SID0200144",
+        "id": "SID0200145",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "ディレクターズカット版, オンエア版: SID0200144"
       },
       {
         "site": "abema",
         "id": "25-295",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28112",
+        "comment": "ディレクターズカット版, オンエア版: 28111"
+      },
+      {
+        "site": "mikan",
+        "id": "3673"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06cdffbea3b3f911b45"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "139421"
       }
     ]
   },
@@ -536,7 +725,9 @@
     "title": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
     "titleTranslate": {
       "zh-Hans": [
-        "衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱",
+        "衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱"
+      ],
+      "zh-Hant": [
         "破爛千金被姊姊的原婚約者溺愛著"
       ]
     },
@@ -569,6 +760,22 @@
         "id": "564-15",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23Bj7gBaewwdrW87lXr6kigR"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b070dffbea3b3f911b59"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140620"
+      },
+      {
+        "site": "mikan",
+        "id": "3674"
       }
     ]
   },
@@ -608,6 +815,10 @@
         "id": "189-82",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b068dffbea3b3f911b2b"
       }
     ]
   },
@@ -647,6 +858,10 @@
         "id": "675-7",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06edffbea3b3f911b4f"
       }
     ]
   },
@@ -657,7 +872,8 @@
         "为丑女献上花束。"
       ],
       "zh-Hant": [
-        "為丑女獻上花束。"
+        "為丑女獻上花束。",
+        "為丑女獻上花束"
       ]
     },
     "type": "tv",
@@ -671,6 +887,22 @@
       {
         "site": "bangumi",
         "id": "406857"
+      },
+      {
+        "site": "nicovideo",
+        "id": "busunihanatabawo"
+      },
+      {
+        "site": "abema",
+        "id": "143-63"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "128423"
+      },
+      {
+        "site": "mikan",
+        "id": "3677"
       }
     ]
   },
@@ -693,6 +925,22 @@
       {
         "site": "bangumi",
         "id": "531945"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fermat-anime"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200186"
+      },
+      {
+        "site": "abema",
+        "id": "568-36"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b073dffbea3b3f911b67"
       }
     ]
   },
@@ -726,6 +974,18 @@
         "id": "SID0200155",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "506-7"
+      },
+      {
+        "site": "mikan",
+        "id": "3679"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b067dffbea3b3f911b25"
       }
     ]
   },
@@ -754,6 +1014,10 @@
         "id": "puniru-anime2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b060dffbea3b3f911b01"
       }
     ]
   },
@@ -787,6 +1051,14 @@
         "id": "168-76",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gachiakuta-anime"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b061dffbea3b3f911b09"
       }
     ]
   },
@@ -795,6 +1067,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "强者的新传说"
+      ],
+      "en": [
+        "New Saga"
       ]
     },
     "type": "tv",
@@ -820,6 +1095,26 @@
         "id": "SID0200172",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28020"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GVDHX859Q"
+      },
+      {
+        "site": "abema",
+        "id": "248-25"
+      },
+      {
+        "site": "mikan",
+        "id": "3682"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06bdffbea3b3f911b3b"
       }
     ]
   },
@@ -830,6 +1125,9 @@
         "和雨和你",
         "雨天遇见狸",
         "邂逅雨中貉"
+      ],
+      "zh-Hant": [
+        "和雨．和你"
       ]
     },
     "type": "tv",
@@ -861,6 +1159,10 @@
         "id": "11-73",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b075dffbea3b3f911b73"
       }
     ]
   },
@@ -894,6 +1196,16 @@
         "id": "SID0200166",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b067dffbea3b3f911b27"
+      },
+      {
+        "site": "abema",
+        "id": "15-33",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -903,6 +1215,12 @@
       "zh-Hans": [
         "最近的侦探真没用",
         "这届侦探真不行"
+      ],
+      "zh-Hant": [
+        "最近的偵探真沒用"
+      ],
+      "en": [
+        "Detectives These Days Are Crazy!"
       ]
     },
     "type": "tv",
@@ -934,6 +1252,26 @@
         "id": "25-288",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSVFSEl0ha1pZS0Q96Z-oCQ"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj6CNtTYBAGqNvm6KcSzAYU"
+      },
+      {
+        "site": "mikan",
+        "id": "3685"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b067dffbea3b3f911b23"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "141041"
       }
     ]
   },
@@ -963,6 +1301,18 @@
         "id": "kaoruhana-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0200158"
+      },
+      {
+        "site": "abema",
+        "id": "26-250"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b073dffbea3b3f911b6b"
       }
     ]
   },
@@ -999,6 +1349,10 @@
         "id": "173-6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b066dffbea3b3f911b1f"
       }
     ]
   },
@@ -1008,6 +1362,13 @@
       "zh-Hans": [
         "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-",
         "Clevatess-魔兽之王与婴儿与尸之勇者-"
+      ],
+      "zh-Hant": [
+        "Clevatess - 魔獸之王與嬰兒與屍之勇者",
+        "Clevatess －魔獸之王與嬰兒與屍之勇者－"
+      ],
+      "en": [
+        "Clevatess"
       ]
     },
     "type": "tv",
@@ -1039,6 +1400,38 @@
         "id": "25-293",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28067"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G8DHV78ZM"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiIImQMFiu9H2lp2NZgcKk2"
+      },
+      {
+        "site": "mikan",
+        "id": "3688"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b069dffbea3b3f911b2d"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRBh-g4zUg8HRvO6kC6v9e0"
+      },
+      {
+        "site": "viu",
+        "id": "2641674"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140283"
       }
     ]
   },
@@ -1063,6 +1456,10 @@
       {
         "site": "bangumi",
         "id": "508003"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06cdffbea3b3f911b41"
       }
     ]
   },
@@ -1093,6 +1490,10 @@
         "id": "149-31",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b072dffbea3b3f911b61"
       }
     ]
   },
@@ -1105,6 +1506,9 @@
       ],
       "zh-Hant": [
         "陰陽迴天 Re:Birth Verse"
+      ],
+      "en": [
+        "Onmyo Kaiten Re:Birth Verse "
       ]
     },
     "type": "tv",
@@ -1124,6 +1528,38 @@
         "id": "onmyo-kaiten",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0200168"
+      },
+      {
+        "site": "danime",
+        "id": "28057"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSXsC2m0ekKyrEGYbs8ypm3"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjG44n8tKUhiWisNI-1dGhD"
+      },
+      {
+        "site": "abema",
+        "id": "19-268"
+      },
+      {
+        "site": "mikan",
+        "id": "3691"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06adffbea3b3f911b37"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "144092"
       }
     ]
   },
@@ -1133,6 +1569,12 @@
       "zh-Hans": [
         "不良少女",
         "坏女孩"
+      ],
+      "zh-Hant": [
+        "Bad Girl 不良少女"
+      ],
+      "en": [
+        "Bad Girl"
       ]
     },
     "type": "tv",
@@ -1158,6 +1600,18 @@
         "id": "SID0201733",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b074dffbea3b3f911b6f"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTnqFFYr5Ruvg390Rf3bMLt"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgjTpwufE53zual7_yHvdzA"
       }
     ]
   },
@@ -1179,6 +1633,10 @@
       {
         "site": "bangumi",
         "id": "548940"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b05fdffbea3b3f911aff"
       }
     ]
   },
@@ -1212,6 +1670,18 @@
         "id": "28113",
         "begin": "2025-06-25T13:30:00.000Z",
         "broadcast": "R/2025-06-25T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200181"
+      },
+      {
+        "site": "mikan",
+        "id": "3694"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b069dffbea3b3f911b31"
       }
     ]
   },
@@ -1241,6 +1711,14 @@
         "id": "watanare-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0200176"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b065dffbea3b3f911b1d"
       }
     ]
   },
@@ -1280,6 +1758,10 @@
         "id": "25-203",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b066dffbea3b3f911b21"
       }
     ]
   },
@@ -1287,8 +1769,13 @@
     "title": "ブサメンガチファイター",
     "titleTranslate": {
       "zh-Hans": [
-        "肥宅勇者",
+        "肥宅勇者"
+      ],
+      "zh-Hant": [
         "醜男真戰士"
+      ],
+      "en": [
+        "Uglymug, Epicfighter"
       ]
     },
     "type": "tv",
@@ -1308,6 +1795,30 @@
         "id": "143-64",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "busamen-gachi-fighter"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200175"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQeacHt4qJwv3KhMUuusLsn"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj5kZUrOfRjfzRRfhLnih1J"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b061dffbea3b3f911b07"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "26790393"
       }
     ]
   },
@@ -1329,6 +1840,14 @@
       {
         "site": "bangumi",
         "id": "455454"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b070dffbea3b3f911b57"
+      },
+      {
+        "site": "mikan",
+        "id": "3698"
       }
     ]
   },
@@ -1369,6 +1888,10 @@
         "id": "25-292",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b063dffbea3b3f911b11"
       }
     ]
   },
@@ -1408,6 +1931,10 @@
         "id": "19-269",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28058"
       }
     ]
   },
@@ -1430,6 +1957,10 @@
       {
         "site": "bangumi",
         "id": "546442"
+      },
+      {
+        "site": "mikan",
+        "id": "3700"
       }
     ]
   },
@@ -1454,6 +1985,30 @@
       {
         "site": "bangumi",
         "id": "532403"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mizuzokusei-anime"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200170"
+      },
+      {
+        "site": "danime",
+        "id": "28032"
+      },
+      {
+        "site": "mikan",
+        "id": "3701"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06edffbea3b3f911b4d"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143288"
       }
     ]
   },
@@ -1487,6 +2042,10 @@
         "id": "SID0200149",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b069dffbea3b3f911b2f"
       }
     ]
   },
@@ -1515,6 +2074,10 @@
         "id": "218-757",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b074dffbea3b3f911b6d"
       }
     ]
   },
@@ -1522,7 +2085,9 @@
     "title": "異世界黙示録マイノグーラ～破滅の文明で始める世界征服～",
     "titleTranslate": {
       "zh-Hans": [
-        "异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～",
+        "异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～"
+      ],
+      "zh-Hant": [
         "異世界默示錄麥諾格拉 ～從毀滅文明開始征服世界～"
       ]
     },
@@ -1549,6 +2114,14 @@
         "id": "SID0201744",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "169-148"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b061dffbea3b3f911b05"
       }
     ]
   },
@@ -1588,6 +2161,10 @@
         "id": "171-26",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b071dffbea3b3f911b5f"
       }
     ]
   },
@@ -1598,7 +2175,9 @@
         "HOTEL INHUMANS"
       ],
       "zh-Hans": [
-        "HOTEL INHUMANS",
+        "殺手旅店"
+      ],
+      "zh-Hant": [
         "殺手旅店"
       ]
     },
@@ -1631,6 +2210,18 @@
         "id": "194-78",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQ-GmyngyfBiZiWnpKVcWRk"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjWATZTieze6DkSUxWjo5dG"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b062dffbea3b3f911b0d"
       }
     ]
   },
@@ -1665,6 +2256,10 @@
         "id": "25-296",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06bdffbea3b3f911b39"
       }
     ]
   },
@@ -1701,6 +2296,14 @@
         "id": "SID0201746",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "283-30"
+      },
+      {
+        "site": "mikan",
+        "id": "3707"
       }
     ]
   },
@@ -1718,6 +2321,10 @@
       {
         "site": "bangumi",
         "id": "565325"
+      },
+      {
+        "site": "danime",
+        "id": "28116"
       }
     ]
   },
@@ -1751,6 +2358,10 @@
         "id": "SID0200173",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b064dffbea3b3f911b17"
       }
     ]
   },
@@ -1772,6 +2383,10 @@
       {
         "site": "bangumi",
         "id": "477825"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b071dffbea3b3f911b5b"
       }
     ]
   },
@@ -1779,7 +2394,9 @@
     "title": "人妻の唇は缶チューハイの味がして",
     "titleTranslate": {
       "zh-Hans": [
-        "人妻之唇烧酒之味",
+        "人妻之唇烧酒之味"
+      ],
+      "zh-Hant": [
         "人妻的嘴唇嚐起來有罐裝沙瓦的味道"
       ]
     },
@@ -1800,6 +2417,18 @@
         "id": "canchuhai-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3711"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b068dffbea3b3f911b29"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143808"
       }
     ]
   },
@@ -1843,6 +2472,10 @@
         "id": "25-290",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06cdffbea3b3f911b3f"
       }
     ]
   },
@@ -1870,6 +2503,10 @@
         "id": "dekichaumade-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3713"
       }
     ]
   },
@@ -1966,6 +2603,14 @@
         "id": "PLuxqoToY7UchX_UFqEp3wOXaheoQ8MyxE",
         "begin": "2025-06-28T17:00:06.000Z",
         "broadcast": "R/2025-06-28T17:00:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3650"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b074dffbea3b3f911b71"
       }
     ]
   },
@@ -1999,6 +2644,18 @@
         "id": "SID0200152",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3715"
+      },
+      {
+        "site": "danime",
+        "id": "28062"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b071dffbea3b3f911b5d"
       }
     ]
   },
@@ -2026,6 +2683,14 @@
         "id": "nube-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3716"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200177"
       }
     ]
   },
@@ -2047,6 +2712,10 @@
       {
         "site": "bangumi",
         "id": "524005"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b064dffbea3b3f911b19"
       }
     ]
   },
@@ -2080,6 +2749,19 @@
         "id": "SID0204665",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06fdffbea3b3f911b53"
+      },
+      {
+        "site": "bilibili",
+        "id": "26627738",
+        "comment": "中配: 26627626"
+      },
+      {
+        "site": "mikan",
+        "id": "3717"
       }
     ]
   },
@@ -2108,6 +2790,35 @@
         "id": "milkygalacticuniverse",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0181262"
+      }
+    ]
+  },
+  {
+    "title": "忍ばない！クリプトニンジャ咲耶 参ノ巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不忍！加密忍者咲耶 叁之卷"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://cryptoninja-sakuya.xyz/",
+    "begin": "2025-07-06T16:00:00.000Z",
+    "broadcast": "R/2025-07-06T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "531576"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b063dffbea3b3f911b13"
       }
     ]
   }
