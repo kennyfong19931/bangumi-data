@@ -368,6 +368,18 @@
         "id": "PLoGVqODys23Bsny5PRn53AdGkUxlk8jpf",
         "begin": "2025-07-07T16:30:06.000Z",
         "broadcast": "R/2025-07-07T16:30:06.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DBMTXW3G",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28133",
+        "begin": "2025-07-12T16:00:00.000Z",
+        "broadcast": "R/2025-07-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -380,6 +392,9 @@
       ],
       "zh-Hant": [
         "帝乃三姊妹意外地容易相處。"
+      ],
+      "en": [
+        "Dealing with Mikadono Sisters Is a Breeze"
       ]
     },
     "type": "tv",
@@ -435,6 +450,12 @@
       {
         "site": "prime",
         "id": "B0F5Q5FD99",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4ShzABnx3iHw",
         "begin": "",
         "broadcast": ""
       }
@@ -554,8 +575,8 @@
       {
         "site": "unext",
         "id": "SID0200147",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-11T15:00:00.000Z",
+        "broadcast": "R/2025-07-11T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -793,8 +814,8 @@
       {
         "site": "unext",
         "id": "SID0200183",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-12T15:00:00.000Z",
+        "broadcast": "R/2025-07-12T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -839,6 +860,12 @@
         "id": "PLxSscENEp7JiHRqg4JFdCEUGH8CyjRILm",
         "begin": "2025-07-05T15:00:06.000Z",
         "broadcast": "R/2025-07-05T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FD9XJLTK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -875,8 +902,8 @@
       {
         "site": "unext",
         "id": "SID0201738",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-12T15:30:00.000Z",
+        "broadcast": "R/2025-07-12T15:30:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -923,6 +950,12 @@
         "id": "140000",
         "begin": "2025-07-09T15:30:00.000Z",
         "broadcast": "R/2025-07-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F86N6RGM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1024,8 +1057,8 @@
       {
         "site": "unext",
         "id": "SID0200179",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-10T13:00:00.000Z",
+        "broadcast": "R/2025-07-10T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1113,8 +1146,8 @@
       {
         "site": "unext",
         "id": "SID0200137",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-10T16:30:00.000Z",
+        "broadcast": "R/2025-07-10T16:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1159,6 +1192,18 @@
       {
         "site": "mikan",
         "id": "3671"
+      },
+      {
+        "site": "danime",
+        "id": "28130",
+        "begin": "2025-07-15T16:30:00.000Z",
+        "broadcast": "R/2025-07-15T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FC5QZMZQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1524,8 +1569,8 @@
       {
         "site": "unext",
         "id": "SID0200165",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-14T15:00:00.000Z",
+        "broadcast": "R/2025-07-14T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1558,6 +1603,18 @@
       {
         "site": "mikan",
         "id": "3676"
+      },
+      {
+        "site": "danime",
+        "id": "28009",
+        "begin": "2025-07-14T15:00:00.000Z",
+        "broadcast": "R/2025-07-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "42LgqWWAlxgK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1661,8 +1718,8 @@
       {
         "site": "unext",
         "id": "SID0200186",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-10T15:00:00.000Z",
+        "broadcast": "R/2025-07-10T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2174,6 +2231,18 @@
       {
         "site": "mikan",
         "id": "3684"
+      },
+      {
+        "site": "danime",
+        "id": "28050",
+        "begin": "2025-07-12T15:00:00.000Z",
+        "broadcast": "R/2025-07-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FC6BQ2GW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2262,6 +2331,12 @@
       {
         "site": "crunchyroll",
         "id": "G79H23Z93",
+        "begin": "2025-07-01T14:30:00.000Z",
+        "broadcast": "R/2025-07-01T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FBXBWYJ6",
         "begin": "",
         "broadcast": ""
       }
@@ -2274,6 +2349,12 @@
         "薰香花朵凛然绽放",
         "花薰凛然",
         "熏香花朵凛然绽放"
+      ],
+      "zh-Hant": [
+        "薰香花朵凜然綻放"
+      ],
+      "en": [
+        "The Fragrant Flower Blooms With Dignity"
       ]
     },
     "type": "tv",
@@ -2297,8 +2378,8 @@
       {
         "site": "unext",
         "id": "SID0200158",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-12T16:00:00.000Z",
+        "broadcast": "R/2025-07-12T16:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2319,6 +2400,30 @@
       {
         "site": "mikan",
         "id": "3686"
+      },
+      {
+        "site": "danime",
+        "id": "28104",
+        "begin": "2025-07-12T16:00:00.000Z",
+        "broadcast": "R/2025-07-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FGJC7T3V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82024665",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "zTrZpf2aul30",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2897,8 +3002,8 @@
       {
         "site": "unext",
         "id": "SID0200176",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-10T16:30:00.000Z",
+        "broadcast": "R/2025-07-10T16:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2971,8 +3076,8 @@
       {
         "site": "unext",
         "id": "SID0200140",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-11T14:00:00.000Z",
+        "broadcast": "R/2025-07-11T14:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -3054,8 +3159,8 @@
       {
         "site": "unext",
         "id": "SID0200175",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-12T13:00:00.000Z",
+        "broadcast": "R/2025-07-12T13:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -3188,8 +3293,8 @@
       {
         "site": "unext",
         "id": "SID0200142",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-12T13:30:00.000Z",
+        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -3234,6 +3339,18 @@
         "id": "142893",
         "begin": "2025-07-07T12:30:00.000Z",
         "broadcast": "R/2025-07-07T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28124",
+        "begin": "2025-07-12T13:30:00.000Z",
+        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FGMYRNKS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3447,8 +3564,8 @@
       {
         "site": "unext",
         "id": "SID0200149",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-14T13:00:00.000Z",
+        "broadcast": "R/2025-07-14T13:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -3497,6 +3614,12 @@
       {
         "site": "abema",
         "id": "25-109",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FGFB976G",
         "begin": "",
         "broadcast": ""
       }
@@ -3838,14 +3961,21 @@
       },
       {
         "site": "unext",
-        "id": "SID0200138",
-        "begin": "",
-        "broadcast": "",
-        "comment": "CENSORED版"
+        "id": "SID0200139",
+        "begin": "2025-07-16T16:00:00.000Z",
+        "broadcast": "R/2025-07-16T16:00:00.000Z/P7D",
+        "comment": "オリジナル版, CENSORED版: SID0200138"
       },
       {
         "site": "mikan",
         "id": "3706"
+      },
+      {
+        "site": "danime",
+        "id": "28149",
+        "begin": "2025-07-16T16:00:00.000Z",
+        "broadcast": "R/2025-07-16T16:00:00.000Z/P7D",
+        "comment": "オリジナル版, CENSORED版: 28125"
       }
     ]
   },
@@ -3910,6 +4040,12 @@
         "id": "145373",
         "begin": "2025-07-11T10:00:00.000Z",
         "broadcast": "R/2025-07-11T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FCB9G6FF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4218,8 +4354,8 @@
       {
         "site": "unext",
         "id": "SID0200182",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-13T03:00:00.000Z",
+        "broadcast": "R/2025-07-13T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -4254,6 +4390,12 @@
         "id": "145415",
         "begin": "2025-07-09T17:00:00.000Z",
         "broadcast": "R/2025-07-09T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-106",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4337,6 +4479,12 @@
         "id": "PL12UaAf_xzfpXktb5NmH2qW-edOc1Nchx",
         "begin": "2025-06-28T17:00:06.000Z",
         "broadcast": "R/2025-06-28T17:00:06.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FF7TBPKJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4452,6 +4600,12 @@
       {
         "site": "disneyplus",
         "id": "1EkCNnz1XMDW",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F9LQ1QTD",
         "begin": "",
         "broadcast": ""
       }
@@ -4619,6 +4773,9 @@
       "zh-Hans": [
         "歌声是千层派",
         "歌聲是法式千層酥"
+      ],
+      "zh-Hant": [
+        "歌聲是法式千層酥"
       ]
     },
     "type": "tv",
@@ -4642,8 +4799,8 @@
       {
         "site": "unext",
         "id": "SID0200136",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-17T13:30:00.000Z",
+        "broadcast": "R/2025-07-17T13:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -4656,6 +4813,24 @@
         "id": "189-84",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28030",
+        "begin": "2025-07-17T13:30:00.000Z",
+        "broadcast": "R/2025-07-17T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "139524",
+        "begin": "2025-07-17T13:30:00.000Z",
+        "broadcast": "R/2025-07-17T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "139524",
+        "begin": "2025-07-17T13:30:00.000Z",
+        "broadcast": "R/2025-07-17T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -4664,6 +4839,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "弹速狂飙"
+      ],
+      "zh-Hant": [
+        "BULLET/BULLET"
+      ],
+      "en": [
+        "BULLET/BULLET"
       ]
     },
     "type": "web",
@@ -4683,6 +4864,12 @@
         "id": "26638510",
         "begin": "2025-07-16T07:00:00.000Z",
         "broadcast": "R/2025-07-16T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "36WIWBO815Me",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4751,6 +4938,39 @@
         "id": "81152269",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "闇芝居 十五期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗芝居 第十五季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai15/",
+    "begin": "2025-07-12T17:50:00.000Z",
+    "broadcast": "R/2025-07-12T17:50:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "562793"
+      },
+      {
+        "site": "unext",
+        "id": "SID0201736",
+        "begin": "2025-07-14T03:00:00.000Z",
+        "broadcast": "R/2025-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28070",
+        "begin": "2025-07-14T03:00:00.000Z",
+        "broadcast": "R/2025-07-14T03:00:00.000Z/P7D"
       }
     ]
   }

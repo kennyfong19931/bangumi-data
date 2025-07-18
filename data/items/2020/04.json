@@ -2795,7 +2795,8 @@
     "titleTranslate": {
       "en": [
         "Kingdom S3",
-        "KINGDOM"
+        "KINGDOM",
+        "Kingdom Chapter 3"
       ],
       "zh-Hans": [
         "王者天下 第三季"
@@ -2851,6 +2852,12 @@
         "id": "23765",
         "begin": "2020-04-09T03:00:00.000Z",
         "broadcast": "R/2020-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6Zfc01bOlK3f",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

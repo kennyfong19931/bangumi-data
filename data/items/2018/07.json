@@ -796,6 +796,9 @@
       "zh-Hant": [
         "GRAND BLUE 碧藍之海",
         "GRANDBLUE 碧藍之海"
+      ],
+      "en": [
+        "Grand Blue"
       ]
     },
     "type": "tv",
@@ -857,6 +860,18 @@
         "id": "PLoGVqODys23D5a8DD4Og4wJScWUWfyCUG",
         "begin": "2025-07-11T12:30:00.000Z",
         "broadcast": "R/2025-07-11T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DSM2Z7VF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "14LcdK5oARdb",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
