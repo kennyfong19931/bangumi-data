@@ -306,12 +306,6 @@
         "id": "632762c52eaf6e578875f7c4"
       },
       {
-        "site": "abema",
-        "id": "11-61",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "2831"
       },
@@ -1719,12 +1713,6 @@
         "id": "119702",
         "begin": "2022-09-25T09:00:00.000Z",
         "broadcast": "R/2022-09-25T09:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-158",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mytv",

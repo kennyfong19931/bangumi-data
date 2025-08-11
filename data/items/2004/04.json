@@ -1048,12 +1048,6 @@
         "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-49",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0002969",
         "begin": "2023-04-01T03:00:00.000Z",
@@ -1293,6 +1287,18 @@
         "id": "getterrobot3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0015233",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24845",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ]
   },

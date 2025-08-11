@@ -806,12 +806,6 @@
         "broadcast": "R/2019-07-03T14:30:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0041947",
-        "begin": "2019-07-10T15:00:00.000Z",
-        "broadcast": "R/2019-07-10T15:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5d1b8388e0dc4c3cbb5c92e0"
       },
@@ -2822,10 +2816,10 @@
       },
       {
         "site": "prime",
-        "id": "B08KF8R827",
+        "id": "B0DQDZYWFS",
         "begin": "",
         "broadcast": "",
-        "comment": "2: B098JRVBZ1"
+        "comment": "2: B0F79BB372"
       }
     ]
   },

@@ -30,7 +30,8 @@
         "鬼人幻燈抄"
       ],
       "en": [
-        "Sword of the Demon Hunter"
+        "Sword of the Demon Hunter",
+        "Sword of the Demon Hunter: Kijin Gentosho"
       ]
     },
     "type": "tv",
@@ -110,6 +111,12 @@
       {
         "site": "dmhy",
         "id": "鬼人"
+      },
+      {
+        "site": "netflix",
+        "id": "82040391",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

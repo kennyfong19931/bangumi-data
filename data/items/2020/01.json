@@ -560,6 +560,12 @@
         "id": "95849",
         "begin": "2025-03-05T04:00:00.000Z",
         "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DR6JPNSQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1821,12 +1827,6 @@
         "broadcast": "R/2020-01-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "283-10",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "97713",
         "begin": "2020-01-07T11:00:00.000Z",
@@ -2815,7 +2815,7 @@
       },
       {
         "site": "prime",
-        "id": "B0834WBHWT",
+        "id": "B0DYJLMWFP",
         "begin": "",
         "broadcast": ""
       }
