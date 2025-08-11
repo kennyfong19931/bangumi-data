@@ -1293,6 +1293,18 @@
         "id": "getterrobot3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0015233",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24845",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ]
   },

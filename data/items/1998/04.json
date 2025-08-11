@@ -129,6 +129,9 @@
       "zh-Hans": [
         "头文字D",
         "头文字D First Stage"
+      ],
+      "zh-Hant": [
+        "頭文字D"
       ]
     },
     "type": "tv",
@@ -175,6 +178,12 @@
         "id": "B09754QBRL",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhMJ1XmulIYgeMJw1S3AYAa",
+        "begin": "2025-08-09T12:00:06.000Z",
+        "broadcast": "R/2025-08-09T12:00:06.000Z/P7D"
       }
     ]
   },

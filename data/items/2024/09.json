@@ -272,6 +272,9 @@
       "zh-Hans": [
         "剧场版 OVERLORD 圣王国篇",
         "剧场版 不死者之王 圣王国篇"
+      ],
+      "zh-Hant": [
+        "劇場版 OVERLORD 聖王國篇"
       ]
     },
     "type": "movie",
@@ -289,6 +292,12 @@
       {
         "site": "mikan",
         "id": "3648"
+      },
+      {
+        "site": "netflix",
+        "id": "82040442",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

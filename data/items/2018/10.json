@@ -1752,6 +1752,9 @@
       ],
       "zh-Hant": [
         "我讓最想被擁抱的男人給威脅了"
+      ],
+      "en": [
+        "DAKAICHI -I'm being harassed by the sexiest man of the year-"
       ]
     },
     "type": "tv",
@@ -1801,6 +1804,12 @@
         "id": "22407",
         "begin": "2018-10-08T03:00:00.000Z",
         "broadcast": "R/2018-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6QW9J2Z6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2966,6 +2975,12 @@
         "id": "SID0042155",
         "begin": "2025-05-01T03:00:00.000Z",
         "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-260",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3470,6 +3485,12 @@
         "id": "PL12UaAf_xzfrPMPsNv4bo-CQYBWmcL2CB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6DQDD3WR",
+        "begin": "2009-10-12T10:30:00.000Z",
+        "broadcast": "R/2009-10-12T10:30:00.000Z/P7D"
       }
     ]
   },

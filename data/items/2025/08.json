@@ -65,6 +65,12 @@
         "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
       },
       {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+        "begin": "2025-07-24T12:30:06.000Z",
+        "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
+      },
+      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj7H_29_-ZpnYRA0Gx-ESrI",
         "begin": "2025-08-21T12:30:00.000Z",

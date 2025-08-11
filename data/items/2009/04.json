@@ -1209,6 +1209,18 @@
         "site": "qq",
         "id": "e/eqb7m0emrqrf7l0",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0015258",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25069",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ]
   },

@@ -59,6 +59,18 @@
         "id": "getterrobot-arc",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0058458",
+        "begin": "2021-06-21T03:00:00.000Z",
+        "broadcast": "R/2021-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24839",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2113,6 +2125,24 @@
         "id": "PL12UaAf_xzfrYgrBKdX25r0h8d3IXist1",
         "begin": "2025-03-24T16:00:00.000Z",
         "broadcast": "R/2025-03-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dea5-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0058824",
+        "begin": "2025-08-10T15:00:00.000Z",
+        "broadcast": "R/2025-08-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24813",
+        "begin": "2025-08-10T15:00:00.000Z",
+        "broadcast": "R/2025-08-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3317,6 +3347,12 @@
         "id": "81492822",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0066647",
+        "begin": "2025-08-09T15:00:00.000Z",
+        "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
       }
     ]
   },
