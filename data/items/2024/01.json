@@ -4313,8 +4313,8 @@
       {
         "site": "gamer",
         "id": "131122",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-25T04:00:00.000Z",
+        "broadcast": "R/2025-07-25T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4392,6 +4392,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "电影 GIVEN 柊mix"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版：柊 mix"
       ]
     },
     "type": "movie",
@@ -4427,6 +4430,12 @@
         "id": "B0D9SRN21L",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131119",
+        "begin": "2025-08-06T04:00:00.000Z",
+        "broadcast": "R/2025-08-06T04:00:00.000Z/P7D"
       }
     ]
   },

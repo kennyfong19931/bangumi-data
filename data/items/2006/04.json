@@ -1208,6 +1208,12 @@
         "id": "364",
         "begin": "2019-10-17T10:00:00.000Z",
         "broadcast": "R/2019-10-17T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrn5UmWkACnbv5Tb9_mwRS3",
+        "begin": "2025-08-08T13:00:06.000Z",
+        "broadcast": "R/2025-08-08T13:00:06.000Z/P7D"
       }
     ]
   },

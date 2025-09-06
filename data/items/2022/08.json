@@ -77,6 +77,12 @@
         "id": "B0B8NDF9F5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28403222",
+        "begin": "2025-08-02T03:00:00.000Z",
+        "broadcast": "R/2025-08-02T03:00:00.000Z/P7D"
       }
     ]
   },

@@ -2154,6 +2154,12 @@
         "id": "PL12UaAf_xzfrfdjCS4EB4XiGUZVp_pDfa",
         "begin": "2022-10-30T04:00:11.000Z",
         "broadcast": "R/2022-10-30T04:00:11.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "76782",
+        "begin": "2025-08-22T04:00:00.000Z",
+        "broadcast": "R/2025-08-22T04:00:00.000Z/P7D"
       }
     ]
   },

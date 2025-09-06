@@ -1,0 +1,39 @@
+[
+  {
+    "title": "チェンソーマン 総集篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "链锯人 总集篇",
+        "电锯人 总集篇"
+      ],
+      "zh-Hant": [
+        "鏈鋸人 總集篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://chainsawman.dog/",
+    "begin": "2025-09-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "580872"
+      },
+      {
+        "site": "gamer",
+        "id": "147060",
+        "begin": "2025-09-05T12:00:00.000Z",
+        "broadcast": "R/2025-09-05T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147060",
+        "begin": "2025-09-05T12:00:00.000Z",
+        "broadcast": "R/2025-09-05T12:00:00.000Z/P7D"
+      }
+    ]
+  }
+]
