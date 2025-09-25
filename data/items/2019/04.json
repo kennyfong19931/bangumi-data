@@ -594,12 +594,6 @@
         "broadcast": "R/2019-04-05T17:23:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "5m4JmjCRX6kH",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0040355",
         "begin": "2019-04-09T03:00:00.000Z",
@@ -1168,12 +1162,6 @@
         "id": "272475"
       },
       {
-        "site": "viu",
-        "id": "454265",
-        "begin": "2022-09-01T16:00:00.000Z",
-        "broadcast": "R/2022-09-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "103604",
         "begin": "2021-05-24T08:00:00.000Z",
@@ -1556,6 +1544,12 @@
         "id": "G63K98PZ6",
         "begin": "2019-05-28T10:35:00.000Z",
         "broadcast": "R/2019-05-28T10:35:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1x8GPWt9gtZ5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2889,6 +2883,12 @@
         "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
         "begin": "2025-04-05T14:00:06.000Z",
         "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81414745",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3339,12 +3339,6 @@
       {
         "site": "mikan",
         "id": "2018"
-      },
-      {
-        "site": "unext",
-        "id": "SID0056973",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
       },
       {
         "site": "prime",

@@ -728,7 +728,13 @@
     "title": "それいけ! アンパンマン ハピーの大冒険",
     "titleTranslate": {
       "zh-Hans": [
-        "面包超人剧场版 开心大冒险"
+        "面包超人：哈比的大冒险"
+      ],
+      "zh-Hant": [
+        "麵包超人：哈比的大冒險"
+      ],
+      "en": [
+        "Anpanman: Adventure of Happie"
       ]
     },
     "type": "movie",
@@ -748,6 +754,12 @@
         "id": "SID0018548",
         "begin": "2016-04-01T03:00:00.000Z",
         "broadcast": "R/2016-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719798",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

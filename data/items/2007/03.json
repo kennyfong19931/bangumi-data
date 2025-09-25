@@ -168,6 +168,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秒速5厘米"
+      ],
+      "en": [
+        "5 Centimeters Per Second"
       ]
     },
     "type": "movie",
@@ -206,6 +209,13 @@
       {
         "site": "prime",
         "id": "B00R7X45OU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4FOpBfiRytPu",
+        "url": "https://www.disneyplus.com/movies/5-centimeters-per-second/4FOpBfiRytPu",
         "begin": "",
         "broadcast": ""
       }

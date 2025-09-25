@@ -48,12 +48,6 @@
         "broadcast": "R/2021-12-01T06:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-24bkfwbcunxt",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0044566",
         "begin": "2019-12-28T03:00:00.000Z",
@@ -1137,6 +1131,12 @@
         "id": "SID0013083",
         "begin": "2018-04-27T03:00:00.000Z",
         "broadcast": "R/2018-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "56768",
+        "begin": "2016-08-05T10:30:00.000Z",
+        "broadcast": "R/2016-08-05T10:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",

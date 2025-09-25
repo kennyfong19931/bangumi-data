@@ -631,8 +631,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpW5dtLMHtb-ZOBleGqzt2d",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2019-10-14T04:30:09.000Z",
+        "broadcast": "R/2019-10-14T04:30:09.000Z/P7D"
       }
     ]
   },
@@ -1222,6 +1222,12 @@
         "id": "22994",
         "begin": "2019-10-02T12:54:00.000Z",
         "broadcast": "R/2019-10-02T12:54:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfribu2qXRU4sTA2sI176tJ7",
+        "begin": "2019-11-28T04:00:09.000Z",
+        "broadcast": "R/2019-11-28T04:00:09.000Z/P7D"
       }
     ]
   },
@@ -2322,8 +2328,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqx7Nmvr0fnTFIcbCyHVeJn",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-06-21T13:00:06.000Z",
+        "broadcast": "R/2025-06-21T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -3161,6 +3167,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "超级小白"
+      ],
+      "zh-Hant": [
+        "超級小白"
       ]
     },
     "type": "web",
@@ -3215,6 +3224,12 @@
         "id": "25894",
         "begin": "2022-11-15T01:00:00.000Z",
         "broadcast": "R/2022-11-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "103843",
+        "begin": "2025-07-30T04:00:00.000Z",
+        "broadcast": "R/2025-07-30T04:00:00.000Z/P7D"
       }
     ]
   },

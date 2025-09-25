@@ -1075,12 +1075,6 @@
         "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "171-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "22107",
         "begin": "2020-07-01T01:00:00.000Z",
@@ -4632,25 +4626,6 @@
       {
         "site": "mikan",
         "id": "1816"
-      },
-      {
-        "site": "unext",
-        "id": "SID0046993",
-        "begin": "2025-04-04T15:00:00.000Z",
-        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "2mmFhzkoABAA",
-        "url": "https://www.disneyplus.com/movies/detective-conan-zero-the-enforcer/2mmFhzkoABAA",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "415-8",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",

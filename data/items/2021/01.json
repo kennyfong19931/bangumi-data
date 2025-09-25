@@ -595,6 +595,12 @@
         "id": "24414",
         "begin": "2025-01-31T15:00:00.000Z",
         "broadcast": "R/2025-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTyT-WuunU--JBkZC-6o5vV",
+        "begin": "2025-09-08T12:00:06.000Z",
+        "broadcast": "R/2025-09-08T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -1335,7 +1341,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FKZZ5LPN",
+        "id": "B0FNLQF61S",
         "begin": "",
         "broadcast": ""
       }
@@ -4182,6 +4188,12 @@
         "id": "25168",
         "begin": "2021-12-03T01:00:00.000Z",
         "broadcast": "R/2021-12-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FQ363R95",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

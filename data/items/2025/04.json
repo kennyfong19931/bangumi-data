@@ -2227,7 +2227,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "圣女因太过完美不够可爱而被废除婚约并卖到邻国",
-        "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"
+        "完美到難以接近的聖女遭到解除婚約後被賣到鄰國",
+        "完美到难以接近的圣女遭到解除婚约后被卖到邻国"
       ],
       "zh-Hant": [
         "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"
@@ -2299,6 +2300,12 @@
       {
         "site": "nicovideo",
         "id": "kanpekiseijo-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82085670",
         "begin": "",
         "broadcast": ""
       }
@@ -2436,6 +2443,30 @@
       {
         "site": "dmhy",
         "id": "炎炎 叁"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fireforce-anime03",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0233103",
+        "begin": "2025-09-13T03:00:00.000Z",
+        "broadcast": "R/2025-09-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28229",
+        "begin": "2025-09-13T03:00:00.000Z",
+        "broadcast": "R/2025-09-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FJ6H56VR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

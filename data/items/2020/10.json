@@ -4010,6 +4010,9 @@
       ],
       "zh-Hant": [
         "鬼滅之刃劇場版 無限列車篇"
+      ],
+      "en": [
+        "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
       ]
     },
     "type": "movie",
@@ -4068,6 +4071,13 @@
         "id": "SID0205789",
         "begin": "2025-07-02T03:00:00.000Z",
         "broadcast": "R/2025-07-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3m50edPxeNe5",
+        "url": "https://www.disneyplus.com/movies/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/3m50edPxeNe5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

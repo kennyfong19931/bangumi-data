@@ -444,6 +444,12 @@
         "id": "27749",
         "begin": "2025-03-28T15:00:00.000Z",
         "broadcast": "R/2025-03-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FHQT41Q3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1488,6 +1494,9 @@
       ],
       "zh-Hant": [
         "王者天下 第五季"
+      ],
+      "en": [
+        "Kingdom Season 5"
       ]
     },
     "type": "tv",
@@ -1537,6 +1546,12 @@
       {
         "site": "prime",
         "id": "B0CNQK4SHC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "1DBCGH2ZW2Wn",
         "begin": "",
         "broadcast": ""
       }
@@ -4267,12 +4282,6 @@
         "id": "B0F1J9DNKM",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0100687",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4313,8 +4322,8 @@
       {
         "site": "gamer",
         "id": "131122",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-25T04:00:00.000Z",
+        "broadcast": "R/2025-07-25T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4392,6 +4401,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "电影 GIVEN 柊mix"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版：柊 mix"
       ]
     },
     "type": "movie",
@@ -4427,6 +4439,12 @@
         "id": "B0D9SRN21L",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131119",
+        "begin": "2025-08-06T04:00:00.000Z",
+        "broadcast": "R/2025-08-06T04:00:00.000Z/P7D"
       }
     ]
   },

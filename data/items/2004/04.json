@@ -1070,6 +1070,12 @@
         "id": "B0B8QTKSVQ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "168-49",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1226,12 +1232,6 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0010678",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81757598",
         "begin": "",
@@ -1240,13 +1240,6 @@
       {
         "site": "prime",
         "id": "B06Y217TN5",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "disneyplus",
-        "id": "4t5OiUQ9B5U9",
-        "url": "https://www.disneyplus.com/movies/detective-conan-magician-of-the-silver-sky/4t5OiUQ9B5U9",
         "begin": "",
         "broadcast": ""
       }

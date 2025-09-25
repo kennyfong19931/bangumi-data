@@ -3926,6 +3926,9 @@
     "titleTranslate": {
       "zh-Hant": [
         "麵包超人電影版：玩具之星的南達與倫妲"
+      ],
+      "zh-Hans": [
+        "Anpanman: Nanda and Runda from Star of Toys"
       ]
     },
     "type": "movie",
@@ -3957,6 +3960,12 @@
         "id": "27771",
         "begin": "2025-04-29T15:00:00.000Z",
         "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719826",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

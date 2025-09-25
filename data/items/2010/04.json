@@ -629,6 +629,9 @@
         "荒川桥下",
         "荒川UB",
         "荒川Under the Bridge"
+      ],
+      "zh-Hant": [
+        "荒川爆笑團"
       ]
     },
     "type": "tv",
@@ -678,6 +681,12 @@
         "id": "10404",
         "begin": "2015-05-29T01:00:00.000Z",
         "broadcast": "R/2015-05-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "30429",
+        "begin": "2025-08-01T04:00:00.000Z",
+        "broadcast": "R/2025-08-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1257,12 +1266,6 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0010684",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81757579",
         "begin": "",
@@ -1271,13 +1274,6 @@
       {
         "site": "prime",
         "id": "B06Y2B762P",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "disneyplus",
-        "id": "15Y6uzyGCn1z",
-        "url": "https://www.disneyplus.com/movies/detective-conan-the-lost-ship-in-the-sky/15Y6uzyGCn1z",
         "begin": "",
         "broadcast": ""
       }

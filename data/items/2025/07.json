@@ -1634,8 +1634,8 @@
       {
         "site": "gamer",
         "id": "139237",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-11T15:30:00.000Z",
+        "broadcast": "R/2025-07-11T15:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1821,6 +1821,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "死灵之子的宇宙恐怖秀"
+      ],
+      "zh-Hant": [
+        "涅庫羅諾美子的宇宙恐怖秀"
       ]
     },
     "type": "tv",
@@ -1872,6 +1875,12 @@
         "id": "B0FBGJB57H",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "142826",
+        "begin": "2025-08-12T15:00:00.000Z",
+        "broadcast": "R/2025-08-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1954,7 +1963,8 @@
     "title": "ガチアクタ",
     "titleTranslate": {
       "zh-Hans": [
-        "废渊战鬼"
+        "废渊战鬼",
+        "咔嗒咔嗒"
       ],
       "zh-Hant": [
         "Gachiakuta",
@@ -2068,6 +2078,12 @@
       {
         "site": "mikan",
         "id": "3681"
+      },
+      {
+        "site": "bilibili",
+        "id": "26649570",
+        "begin": "2025-08-10T15:00:00.000Z",
+        "broadcast": "R/2025-08-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4469,6 +4485,12 @@
       {
         "site": "prime",
         "id": "B0F83VB5P5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "rSS7KNizfXDr",
         "begin": "",
         "broadcast": ""
       }

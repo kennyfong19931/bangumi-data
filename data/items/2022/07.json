@@ -1669,12 +1669,6 @@
         "broadcast": "R/2023-07-14T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-242",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0089650",
         "begin": "2023-07-14T15:00:00.000Z",
@@ -3925,7 +3919,7 @@
       },
       {
         "site": "prime",
-        "id": "B0CGXZRZ95",
+        "id": "B0D5L6V9PT",
         "begin": "",
         "broadcast": ""
       }
