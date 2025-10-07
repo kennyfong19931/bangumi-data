@@ -75,6 +75,10 @@
       {
         "site": "mikan",
         "id": "3737"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e201aaf82561f9a74e12"
       }
     ]
   },
@@ -148,6 +152,10 @@
       {
         "site": "mikan",
         "id": "3738"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20aaaf82561f9a74e40"
       }
     ]
   },
@@ -203,6 +211,10 @@
         "id": "126514",
         "begin": "2025-10-05T16:15:00.000Z",
         "broadcast": "R/2025-10-05T16:15:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fbaaf82561f9a74df2"
       }
     ]
   },
@@ -275,6 +287,10 @@
         "id": "PL12UaAf_xzfrlYSvN5KETZkxf3wNRbvI_",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fdaaf82561f9a74dfe"
       }
     ]
   },
@@ -302,6 +318,10 @@
         "id": "81171925",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20daaf82561f9a74e50"
       }
     ]
   },
@@ -327,6 +347,9 @@
       "zh-Hant": [
         "差點在迷宮深處被信任的夥伴殺掉，但靠著天賜技能「無限扭蛋」獲得等級9999的夥伴，我要向前隊友和世界展開復仇&「給他們好看！」",
         "差點在迷宮深處被信任的夥伴殺掉，但靠著天賜技能「無限扭蛋」獲得等級 9999 的夥伴，我要向前隊友和世界展開復仇＆「給他們好看！」"
+      ],
+      "en": [
+        "My Gift LVL 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!"
       ]
     },
     "type": "tv",
@@ -392,6 +415,16 @@
       {
         "site": "mikan",
         "id": "3742"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2bWFeHM2CphR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e208aaf82561f9a74e32"
       }
     ]
   },
@@ -464,6 +497,16 @@
         "id": "115712",
         "begin": "2025-10-04T17:30:00.000Z",
         "broadcast": "R/2025-10-04T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FKMRKFYG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20daaf82561f9a74e52"
       }
     ]
   },
@@ -533,6 +576,10 @@
         "id": "144367",
         "begin": "2025-10-04T15:00:00.000Z",
         "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20baaf82561f9a74e44"
       }
     ]
   },
@@ -560,6 +607,10 @@
         "id": "B0FMZRSWDW",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e209aaf82561f9a74e36"
       }
     ]
   },
@@ -600,8 +651,8 @@
       {
         "site": "unext",
         "id": "SID0234932",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-07T14:30:00.000Z",
+        "broadcast": "R/2025-10-07T14:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -648,6 +699,10 @@
       {
         "site": "mikan",
         "id": "3746"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e204aaf82561f9a74e20"
       }
     ]
   },
@@ -722,6 +777,16 @@
         "id": "G79H23ZGP",
         "begin": "2025-10-04T12:30:00.000Z",
         "broadcast": "R/2025-10-04T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28236",
+        "begin": "2025-10-07T13:00:00.000Z",
+        "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20aaaf82561f9a74e3e"
       }
     ]
   },
@@ -758,6 +823,16 @@
         "id": "tenkuro",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "137884",
+        "begin": "2025-10-08T16:00:00.000Z",
+        "broadcast": "R/2025-10-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e202aaf82561f9a74e18"
       }
     ]
   },
@@ -797,6 +872,10 @@
         "id": "750-3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e200aaf82561f9a74e0a"
       }
     ]
   },
@@ -895,6 +974,10 @@
         "id": "B0FQML1RN3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e208aaf82561f9a74e34"
       }
     ]
   },
@@ -945,6 +1028,16 @@
         "id": "27730708",
         "begin": "2025-10-07T15:30:00.000Z",
         "broadcast": "R/2025-10-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136223",
+        "begin": "2025-10-07T15:30:00.000Z",
+        "broadcast": "R/2025-10-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e200aaf82561f9a74e0c"
       }
     ]
   },
@@ -994,6 +1087,10 @@
         "id": "28273",
         "begin": "2025-10-05T14:30:00.000Z",
         "broadcast": "R/2025-10-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1faaaf82561f9a74dee"
       }
     ]
   },
@@ -1082,6 +1179,10 @@
         "id": "137498",
         "begin": "2025-10-05T15:30:00.000Z",
         "broadcast": "R/2025-10-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1faaaf82561f9a74df0"
       }
     ]
   },
@@ -1174,6 +1275,10 @@
         "id": "B0FNHNW1Z1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20baaf82561f9a74e42"
       }
     ]
   },
@@ -1254,6 +1359,16 @@
       {
         "site": "mikan",
         "id": "3755"
+      },
+      {
+        "site": "danime",
+        "id": "28267",
+        "begin": "2025-10-06T15:00:00.000Z",
+        "broadcast": "R/2025-10-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fdaaf82561f9a74e00"
       }
     ]
   },
@@ -1264,7 +1379,11 @@
         "致不灭的你 第三季"
       ],
       "zh-Hant": [
-        "給不滅的你 第三季"
+        "給不滅的你 第三季",
+        "給不滅的你 (第三季)"
+      ],
+      "en": [
+        "To Your Eternity Season 3 "
       ]
     },
     "type": "tv",
@@ -1290,6 +1409,34 @@
         "id": "27778473",
         "begin": "2025-10-04T15:45:00.000Z",
         "broadcast": "R/2025-10-04T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtT4aq8CneXJ4fxuhN8oA2DJ",
+        "begin": "2025-10-06T04:00:06.000Z",
+        "broadcast": "R/2025-10-06T04:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjvqYOw9bukuV7llYmXF6zu",
+        "begin": "2025-10-06T04:00:06.000Z",
+        "broadcast": "R/2025-10-06T04:00:06.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130900",
+        "begin": "2025-10-06T04:30:00.000Z",
+        "broadcast": "R/2025-10-06T04:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28251",
+        "begin": "2025-10-06T09:00:00.000Z",
+        "broadcast": "R/2025-10-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20caaf82561f9a74e48"
       }
     ]
   },
@@ -1330,6 +1477,10 @@
         "id": "B0FMNV574M",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e205aaf82561f9a74e24"
       }
     ]
   },
@@ -1364,8 +1515,18 @@
       {
         "site": "unext",
         "id": "SID0234948",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-06T14:00:00.000Z",
+        "broadcast": "R/2025-10-06T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136514",
+        "begin": "2025-10-06T15:00:00.000Z",
+        "broadcast": "R/2025-10-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fdaaf82561f9a74dfc"
       }
     ]
   },
@@ -1387,14 +1548,30 @@
       {
         "site": "unext",
         "id": "SID0232889",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-07T13:00:00.000Z",
+        "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "ganglion-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-280",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28311",
+        "begin": "2025-10-07T13:00:00.000Z",
+        "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e206aaf82561f9a74e2a"
       }
     ]
   },
@@ -1431,6 +1608,16 @@
         "id": "B0FSXLBD8K",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "145550",
+        "begin": "2025-10-06T16:00:00.000Z",
+        "broadcast": "R/2025-10-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20caaf82561f9a74e4c"
       }
     ]
   },
@@ -1460,14 +1647,24 @@
       {
         "site": "unext",
         "id": "SID0234926",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-06T13:30:00.000Z",
+        "broadcast": "R/2025-10-06T13:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "egatae",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "137449",
+        "begin": "2025-10-06T14:00:00.000Z",
+        "broadcast": "R/2025-10-06T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fcaaf82561f9a74df8"
       }
     ]
   },
@@ -1480,6 +1677,9 @@
       ],
       "zh-Hant": [
         "身為暗殺者的我明顯比勇者還強"
+      ],
+      "en": [
+        "My Status as an Assassin Obviously Exceeds the Hero's"
       ]
     },
     "type": "tv",
@@ -1511,6 +1711,40 @@
         "id": "PL12UaAf_xzfryMCRJTKmgCKc6B3Ophv66",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2687372",
+        "begin": "2025-10-06T16:30:04.000Z",
+        "broadcast": "R/2025-10-06T16:30:04.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143810",
+        "begin": "2025-10-06T16:30:00.000Z",
+        "broadcast": "R/2025-10-06T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28253",
+        "begin": "2025-10-06T17:00:00.000Z",
+        "broadcast": "R/2025-10-06T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82159136",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G0XHWM1JP",
+        "begin": "2025-10-06T00:00:00.000Z",
+        "broadcast": "R/2025-10-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1feaaf82561f9a74e04"
       }
     ]
   },
@@ -1535,6 +1769,22 @@
       {
         "site": "bangumi",
         "id": "458673"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136022",
+        "begin": "2025-10-06T06:00:00.000Z",
+        "broadcast": "R/2025-10-06T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28252",
+        "begin": "2025-10-06T09:00:00.000Z",
+        "broadcast": "R/2025-10-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1f8aaf82561f9a74de8"
       }
     ]
   },
@@ -1547,7 +1797,12 @@
       ],
       "zh-Hant": [
         "3年Z班銀八老師",
-        "銀魂 3 年 Z 班銀八老師"
+        "銀魂 3 年 Z 班銀八老師",
+        "銀魂 3年Z班銀八老師"
+      ],
+      "en": [
+        "GINTAMA - Mr.Ginpachi's Zany Class",
+        "GINTAMA - Mr.Ginpachi’s Zany Class"
       ]
     },
     "type": "tv",
@@ -1579,6 +1834,52 @@
         "id": "27676188",
         "begin": "2025-10-06T16:00:00.000Z",
         "broadcast": "R/2025-10-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSzgaF2Jk-5q7BKo0D6g_33",
+        "begin": "2025-10-06T16:00:06.000Z",
+        "broadcast": "R/2025-10-06T16:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgh6cZEHDqpzMfQ3Owfs6ne",
+        "begin": "2025-10-06T16:00:06.000Z",
+        "broadcast": "R/2025-10-06T16:00:06.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "131066",
+        "begin": "2025-10-06T16:00:00.000Z",
+        "broadcast": "R/2025-10-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0232891",
+        "begin": "2025-10-06T15:30:00.000Z",
+        "broadcast": "R/2025-10-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28339",
+        "begin": "2025-10-06T15:30:00.000Z",
+        "broadcast": "R/2025-10-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82147615",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "kInqp1IJIWat",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1feaaf82561f9a74e02"
       }
     ]
   },
@@ -1636,6 +1937,10 @@
         "id": "SID0234929",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1f9aaf82561f9a74dec"
       }
     ]
   },
@@ -1692,6 +1997,10 @@
         "id": "GT00362007",
         "begin": "2025-10-04T00:00:00.000Z",
         "broadcast": "R/2025-10-04T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20aaaf82561f9a74e3c"
       }
     ]
   },
@@ -1713,6 +2022,10 @@
       {
         "site": "bangumi",
         "id": "529694"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e206aaf82561f9a74e2c"
       }
     ]
   },
@@ -1783,6 +2096,16 @@
         "id": "tojimawantstobeakamenrider_144572",
         "begin": "2025-10-04T17:00:00.000Z",
         "broadcast": "R/2025-10-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0232875",
+        "begin": "2025-10-07T03:00:00.000Z",
+        "broadcast": "R/2025-10-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20daaf82561f9a74e4e"
       }
     ]
   },
@@ -1791,6 +2114,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪物弹珠 DEADVERSE RELOADED"
+      ],
+      "zh-Hant": [
+        "怪物彈珠 終焉世界 重裝上陣"
       ]
     },
     "type": "tv",
@@ -1804,6 +2130,16 @@
       {
         "site": "bangumi",
         "id": "570330"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG628xgaeHj3OMVF7BUaUVVB",
+        "begin": "2025-10-21T14:00:00.000Z",
+        "broadcast": "R/2025-10-21T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1ffaaf82561f9a74e08"
       }
     ]
   },
@@ -1825,6 +2161,10 @@
       {
         "site": "bangumi",
         "id": "539341"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e201aaf82561f9a74e10"
       }
     ]
   },
@@ -1877,6 +2217,10 @@
         "id": "B0F79SST9S",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e207aaf82561f9a74e30"
       }
     ]
   },
@@ -1954,6 +2298,10 @@
         "id": "B0FM6VF8ZW",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e203aaf82561f9a74e1a"
       }
     ]
   },
@@ -1987,6 +2335,9 @@
       ],
       "zh-Hant": [
         "彈珠汽水瓶裡的千歲同學"
+      ],
+      "en": [
+        "Chitose Is in the Ramune Bottle"
       ]
     },
     "type": "tv",
@@ -2006,6 +2357,40 @@
         "id": "675-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtR_3vjceAHKXiuTaBjvXwsN",
+        "begin": "2025-10-07T10:30:00.000Z",
+        "broadcast": "R/2025-10-07T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgz0nvNyM-z3UVzYpGY70Et",
+        "begin": "2025-10-07T10:30:00.000Z",
+        "broadcast": "R/2025-10-07T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28352",
+        "begin": "2025-10-07T09:30:00.000Z",
+        "broadcast": "R/2025-10-07T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00364783",
+        "begin": "2025-10-07T00:00:00.000Z",
+        "broadcast": "R/2025-10-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140852",
+        "begin": "2025-10-07T10:30:00.000Z",
+        "broadcast": "R/2025-10-07T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1ffaaf82561f9a74e06"
       }
     ]
   },
@@ -2091,6 +2476,10 @@
         "id": "B0DJRNTVF3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e205aaf82561f9a74e28"
       }
     ]
   },
@@ -2167,6 +2556,10 @@
         "id": "140739",
         "begin": "2025-10-05T14:00:00.000Z",
         "broadcast": "R/2025-10-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1f9aaf82561f9a74dea"
       }
     ]
   },
@@ -2205,8 +2598,8 @@
       {
         "site": "unext",
         "id": "SID0234933",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-07T14:30:00.000Z",
+        "broadcast": "R/2025-10-07T14:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2237,6 +2630,16 @@
         "id": "143929",
         "begin": "2025-10-04T16:00:00.000Z",
         "broadcast": "R/2025-10-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FRQVK8B7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20baaf82561f9a74e46"
       }
     ]
   },
@@ -2307,6 +2710,10 @@
         "id": "28300",
         "begin": "2025-10-05T15:00:00.000Z",
         "broadcast": "R/2025-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e204aaf82561f9a74e1e"
       }
     ]
   },
@@ -2435,6 +2842,10 @@
         "id": "SID0232877",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e20caaf82561f9a74e4a"
       }
     ]
   },
@@ -2523,8 +2934,8 @@
       {
         "site": "unext",
         "id": "SID0232881",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-06T14:30:00.000Z",
+        "broadcast": "R/2025-10-06T14:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2547,6 +2958,16 @@
       {
         "site": "mikan",
         "id": "3782"
+      },
+      {
+        "site": "danime",
+        "id": "28350",
+        "begin": "2025-10-06T14:30:00.000Z",
+        "broadcast": "R/2025-10-06T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e207aaf82561f9a74e2e"
       }
     ]
   },
@@ -2592,6 +3013,10 @@
         "id": "wandance",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e202aaf82561f9a74e14"
       }
     ]
   },
@@ -2625,6 +3050,10 @@
         "id": "SID0234930",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fcaaf82561f9a74dfa"
       }
     ]
   },
@@ -2636,6 +3065,9 @@
       ],
       "zh-Hant": [
         "龍族II 悼亡者之瞳"
+      ],
+      "en": [
+        "Dragon Raja II -The Mourner's Eyes-"
       ]
     },
     "type": "tv",
@@ -2656,6 +3088,24 @@
         "begin": "",
         "broadcast": "",
         "comment": "日本語字幕版: SID0238284"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTvLdp1bEzbtYqSUk2lZq37",
+        "begin": "2025-10-08T17:00:06.000Z",
+        "broadcast": "R/2025-10-08T17:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjx_TiPymhI9of6quG_2lvV",
+        "begin": "2025-10-08T17:00:06.000Z",
+        "broadcast": "R/2025-10-08T17:00:06.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147240",
+        "begin": "2025-10-08T17:00:00.000Z",
+        "broadcast": "R/2025-10-08T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -2686,6 +3136,22 @@
         "id": "2686826",
         "begin": "2025-10-05T06:30:46.000Z",
         "broadcast": "R/2025-10-05T06:30:46.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0238285",
+        "begin": "2025-10-07T15:00:00.000Z",
+        "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28330",
+        "begin": "2025-10-07T15:00:00.000Z",
+        "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1f7aaf82561f9a74de2"
       }
     ]
   },
@@ -2709,6 +3175,10 @@
         "id": "guilty_hall",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fbaaf82561f9a74df4"
       }
     ]
   },
@@ -2752,6 +3222,10 @@
         "id": "144054",
         "begin": "2025-10-05T17:05:00.000Z",
         "broadcast": "R/2025-10-05T17:05:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1fcaaf82561f9a74df6"
       }
     ]
   },
@@ -2831,6 +3305,10 @@
         "begin": "2025-09-28T16:00:06.000Z",
         "broadcast": "R/2025-09-28T16:00:06.000Z/P7D",
         "comment": "中文配音: PL12UaAf_xzfqOOS2-XQgyz1JkcvBdbVh-"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e203aaf82561f9a74e1c"
       }
     ]
   },
@@ -2902,6 +3380,10 @@
         "id": "G6MEK1ZGR",
         "begin": "2025-10-01T15:00:00.000Z",
         "broadcast": "R/2025-10-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e202aaf82561f9a74e16"
       }
     ]
   },
@@ -2988,6 +3470,10 @@
         "id": "512-12",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1f8aaf82561f9a74de6"
       }
     ]
   },
@@ -3077,6 +3563,10 @@
         "id": "28235",
         "begin": "2025-10-02T13:00:00.000Z",
         "broadcast": "R/2025-10-02T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e204aaf82561f9a74e22"
       }
     ]
   },
@@ -3157,6 +3647,10 @@
         "id": "B0FSFLWN98",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e209aaf82561f9a74e3a"
       }
     ]
   },
@@ -3221,6 +3715,22 @@
         "id": "26-256",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0232876",
+        "begin": "2025-10-07T03:00:00.000Z",
+        "broadcast": "R/2025-10-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28351",
+        "begin": "2025-10-07T09:00:00.000Z",
+        "broadcast": "R/2025-10-07T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e1f7aaf82561f9a74de4"
       }
     ]
   },
@@ -3248,6 +3758,10 @@
         "id": "SID0236843",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "68e3e209aaf82561f9a74e38"
       }
     ]
   },
@@ -3352,6 +3866,18 @@
         "id": "54-112",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0232897",
+        "begin": "2025-10-07T13:00:00.000Z",
+        "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28270",
+        "begin": "2025-10-07T13:00:00.000Z",
+        "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -3386,8 +3912,8 @@
       {
         "site": "unext",
         "id": "SID0232896",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-06T09:00:00.000Z",
+        "broadcast": "R/2025-10-06T09:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3434,8 +3960,8 @@
       {
         "site": "unext",
         "id": "SID0232894",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-06T09:00:00.000Z",
+        "broadcast": "R/2025-10-06T09:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3483,6 +4009,47 @@
         "id": "28326",
         "begin": "2025-10-02T10:34:00.000Z",
         "broadcast": "R/2025-10-02T10:34:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0238128",
+        "begin": "2025-10-07T10:34:00.000Z",
+        "broadcast": "R/2025-10-07T10:34:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "2200年ねこの国ニッポン",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.shusuisha.com/lp/info_nekonokuni",
+    "begin": "2025-10-06T16:00:00.000Z",
+    "broadcast": "R/2025-10-06T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "588612"
+      },
+      {
+        "site": "unext",
+        "id": "SID0236842",
+        "begin": "2025-10-07T05:00:00.000Z",
+        "broadcast": "R/2025-10-07T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "622-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28213",
+        "begin": "2025-10-07T05:00:00.000Z",
+        "broadcast": "R/2025-10-07T05:00:00.000Z/P7D"
       }
     ]
   }
