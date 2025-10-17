@@ -975,6 +975,12 @@
       {
         "site": "mikan",
         "id": "3749"
+      },
+      {
+        "site": "danime",
+        "id": "28346",
+        "begin": "2025-10-17T15:00:00.000Z",
+        "broadcast": "R/2025-10-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1178,7 +1184,8 @@
     "title": "アルマちゃんは家族になりたい",
     "titleTranslate": {
       "en": [
-        "Alma-chan Wants to Have a family!"
+        "Alma-chan Wants to Have a family!",
+        "Alma-chan Wants to Be a Family!"
       ],
       "zh-Hans": [
         "小阿尔玛想要成为家人",
@@ -1228,6 +1235,12 @@
       {
         "site": "mikan",
         "id": "3752"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GXJHM3GZJ",
+        "begin": "2025-10-05T00:00:00.000Z",
+        "broadcast": "R/2025-10-05T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3558,6 +3571,12 @@
       {
         "site": "mikan",
         "id": "3784"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1qX4vn0iWkXk",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -280,6 +280,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界四重奏"
+      ],
+      "en": [
+        "Isekai Quartet"
       ]
     },
     "type": "tv",
@@ -323,6 +326,12 @@
         "id": "22695",
         "begin": "2019-04-09T15:30:00.000Z",
         "broadcast": "R/2019-04-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1qX4vn0iWkXk",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
