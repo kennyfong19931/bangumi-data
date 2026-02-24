@@ -741,6 +741,18 @@
       {
         "site": "tmdb",
         "id": "tv/108906"
+      },
+      {
+        "site": "mal",
+        "id": "10257"
+      },
+      {
+        "site": "aniList",
+        "id": "10257"
+      },
+      {
+        "site": "anidb",
+        "id": "8240"
       }
     ]
   },
@@ -1580,6 +1592,18 @@
       {
         "site": "tmdb",
         "id": "tv/49294"
+      },
+      {
+        "site": "mal",
+        "id": "7762"
+      },
+      {
+        "site": "aniList",
+        "id": "7762"
+      },
+      {
+        "site": "anidb",
+        "id": "7275"
       }
     ]
   },
@@ -2061,6 +2085,18 @@
       {
         "site": "tmdb",
         "id": "tv/38251"
+      },
+      {
+        "site": "mal",
+        "id": "10033"
+      },
+      {
+        "site": "aniList",
+        "id": "10033"
+      },
+      {
+        "site": "anidb",
+        "id": "8142"
       }
     ]
   },
@@ -2310,6 +2346,18 @@
       {
         "site": "tmdb",
         "id": "tv/37807/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "10370"
+      },
+      {
+        "site": "aniList",
+        "id": "10370"
+      },
+      {
+        "site": "anidb",
+        "id": "8298"
       }
     ]
   },
@@ -2552,6 +2600,18 @@
       {
         "site": "tmdb",
         "id": "tv/36025/season/0/episode/9"
+      },
+      {
+        "site": "mal",
+        "id": "10076"
+      },
+      {
+        "site": "aniList",
+        "id": "10076"
+      },
+      {
+        "site": "anidb",
+        "id": "8163"
       }
     ]
   },
@@ -2668,7 +2728,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-77",
         "begin": "",
         "broadcast": ""
       },
@@ -2849,6 +2909,18 @@
       {
         "site": "tmdb",
         "id": "tv/79147"
+      },
+      {
+        "site": "mal",
+        "id": "10349"
+      },
+      {
+        "site": "aniList",
+        "id": "102935"
+      },
+      {
+        "site": "anidb",
+        "id": "8252"
       }
     ]
   },
@@ -2924,6 +2996,18 @@
       {
         "site": "tmdb",
         "id": "movie/199833"
+      },
+      {
+        "site": "mal",
+        "id": "10405"
+      },
+      {
+        "site": "aniList",
+        "id": "10405"
+      },
+      {
+        "site": "anidb",
+        "id": "8303"
       }
     ]
   }
