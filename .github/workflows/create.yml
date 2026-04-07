@@ -1,0 +1,59 @@
+name: create season
+
+on:
+  schedule:
+    - cron: '0 8 1 1,4,7,10 *'
+  workflow_dispatch:
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get current time
+        id: current-time
+        uses: srfrnk/current-time@5a4163ad035ccd9a407ec9e519c3b6ba1b633d1e
+        with:
+          format: YYYYqQ
+
+      - name: Set branch name
+        id: branch-name
+        run: echo "result=$BRANCH_NAME" >> $GITHUB_OUTPUT
+        env:
+          BRANCH_NAME: 'create-${{ steps.current-time.outputs.formattedTime }}'
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Checkout bangumi data
+        uses: actions/checkout@v6
+        with:
+          ref: master
+          path: ./bangumi-data
+
+      - name: Checkout helper
+        uses: actions/checkout@v6
+        with:
+          repository: kennyfong19931/helper
+          ref: local
+          path: ./helper
+
+      - name: Create a new branch
+        working-directory: ./bangumi-data
+        run: git checkout -b ${{ steps.branch-name.outputs.result }}
+
+      - name: Run bdh to create
+        working-directory: ./helper
+        run: |
+          npm install
+          npx bdh create ${{ steps.current-time.outputs.formattedTime }}
+
+      - name: Commit changes
+        id: commit-changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          repository: ./bangumi-data
+          commit_message: create ${{ steps.current-time.outputs.formattedTime }}
+          branch: ${{ steps.branch-name.outputs.result }}
