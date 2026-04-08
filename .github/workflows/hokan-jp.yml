@@ -1,4 +1,4 @@
-name: hokan offline-db
+name: 🇯🇵 hokan
 on:
   schedule:
     - cron: '0 6 * * 5'
@@ -20,12 +20,17 @@ jobs:
         id: branch-name
         run: echo "result=$BRANCH_NAME" >> $GITHUB_OUTPUT
         env:
-          BRANCH_NAME: 'hokan-offline-db-${{ steps.current-time.outputs.formattedTime }}'
+          BRANCH_NAME: 'hokan-jp-${{ steps.current-time.outputs.formattedTime }}'
 
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
           node-version: 24
+
+      - name: Install OpenVPN
+        run: |
+          sudo apt update
+          sudo apt install -y openvpn openvpn-systemd-resolved
 
       - name: Checkout bangumi data
         uses: actions/checkout@v6
@@ -39,29 +44,51 @@ jobs:
           repository: kennyfong19931/helper
           ref: local
           path: ./helper
+          
+      - name: Checkout ovpn config
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: .github
+          path: ./vpn
 
       - name: Create a new branch
         working-directory: ./bangumi-data
         run: git checkout -b ${{ steps.branch-name.outputs.result }}
+
+      - name: Connect to VPN
+        uses: "kota65535/github-openvpn-connect-action@v3"
+        with:
+          config_file: ./vpn/.github/vpn/jp806.nordvpn.com.udp.ovpn
+          username: ${{ secrets.NORD_USERNAME }}
+          password: ${{ secrets.NORD_PASSWORD }}
+          tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
 
       - name: Run bdh to hokan
         continue-on-error: true
         working-directory: ./helper
         run: |
           npm install
-          npx bdh hokan mal
-          npx bdh hokan aniList
-          npx bdh hokan anidb
-          npx bdh hokan tmdb
+          echo ">>> hokan nicovideo"
+          npx bdh hokan nicovideo
+          echo ">>> hokan unext"
+          npx bdh hokan unext
+          echo ">>> hokan danime"
+          npx bdh hokan danime
+          echo ">>> hokan prime"
+          npx bdh hokan prime
 
       - name: Edit .gitignore
         working-directory: ./bangumi-data
         run: sed -i '/^data\/items\/0000$/d' .gitignore
+
+      - name: Create patch for helper
+        working-directory: ./helper
+        run: git diff > ../bangumi-data/helper.patch
 
       - name: Commit changes
         id: commit-changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           repository: ./bangumi-data
-          commit_message: hokan offline-db
+          commit_message: 🇯🇵 hokan
           branch: ${{ steps.branch-name.outputs.result }}

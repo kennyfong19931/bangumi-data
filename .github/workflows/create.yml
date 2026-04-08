@@ -50,6 +50,10 @@ jobs:
           npm install
           npx bdh create ${{ steps.current-time.outputs.formattedTime }}
 
+      - name: Edit .gitignore
+        working-directory: ./bangumi-data
+        run: sed -i '/^data\/items\/0000$/d' .gitignore
+
       - name: Commit changes
         id: commit-changes
         uses: stefanzweifel/git-auto-commit-action@v7
