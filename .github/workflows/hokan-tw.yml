@@ -1,7 +1,7 @@
 name: 🇹🇼 hokan
 on:
   schedule:
-    - cron: '0 8 * * 5'
+    - cron: '10 6 * * 5'
       timezone: Asia/Hong_Kong
   workflow_dispatch:
 

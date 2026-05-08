@@ -3,6 +3,7 @@ name: create season
 on:
   schedule:
     - cron: '0 8 1 1,4,7,10 *'
+      timezone: Asia/Hong_Kong
   workflow_dispatch:
 
 jobs:
