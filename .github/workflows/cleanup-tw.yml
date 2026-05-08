@@ -1,0 +1,85 @@
+name: 🇹🇼 cleanup
+
+on:
+  schedule:
+    - cron: '40 2 1 1,4,7,10 *'
+      timezone: Asia/Hong_Kong
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get current time
+        id: current-time
+        uses: srfrnk/current-time@5a4163ad035ccd9a407ec9e519c3b6ba1b633d1e
+        with:
+          format: YYYYMMDD-HHmmss
+
+      - name: Set branch name
+        id: branch-name
+        run: echo "result=$BRANCH_NAME" >> $GITHUB_OUTPUT
+        env:
+          BRANCH_NAME: 'cleanup-tw-${{ steps.current-time.outputs.formattedTime }}'
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install OpenVPN
+        run: |
+          sudo apt update
+          sudo apt install -y openvpn openvpn-systemd-resolved
+  
+      - name: Checkout bangumi data
+        uses: actions/checkout@v6
+        with:
+          ref: master
+          path: ./bangumi-data
+
+      - name: Checkout helper
+        uses: actions/checkout@v6
+        with:
+          repository: kennyfong19931/helper
+          ref: local
+          path: ./helper
+          
+      - name: Checkout ovpn config
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: .github
+          path: ./vpn
+
+      - name: Create a new branch
+        working-directory: ./bangumi-data
+        run: git checkout -b ${{ steps.branch-name.outputs.result }}
+
+      - name: Connect to VPN
+        uses: "kota65535/github-openvpn-connect-action@v3"
+        with:
+          config_file: ./vpn/.github/vpn/tw195.nordvpn.com.udp.ovpn
+          username: ${{ secrets.NORD_USERNAME }}
+          password: ${{ secrets.NORD_PASSWORD }}
+          tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
+
+      - name: Run bdh to cleanup
+        continue-on-error: true
+        working-directory: ./helper
+        run: |
+          npm install
+          echo ">>> cleanup muse_tw"
+          npx bdh cleanup muse_tw
+          echo ">>> cleanup gamer"
+          npx bdh cleanup gamer
+          echo ">>> cleanup bilibili_tw"
+          npx bdh cleanup bilibili_tw
+
+      - name: Commit changes
+        id: commit-changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          repository: ./bangumi-data
+          commit_message: 🇹🇼 cleanup
+          branch: ${{ steps.branch-name.outputs.result }}
