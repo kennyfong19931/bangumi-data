@@ -1,8 +1,7 @@
 name: validate tmdb
 on:
   schedule:
-    - cron: '0 8 * * 5'
-      timezone: Asia/Hong_Kong
+    - cron: '0 0 * * 5'
   workflow_dispatch:
 
 jobs:

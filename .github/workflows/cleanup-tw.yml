@@ -2,8 +2,7 @@ name: 🇹🇼 cleanup
 
 on:
   schedule:
-    - cron: '40 2 1 1,4,7,10 *'
-      timezone: Asia/Hong_Kong
+    - cron: '30 2 1 1,4,7,10 *'
   workflow_dispatch:
 
 jobs:
