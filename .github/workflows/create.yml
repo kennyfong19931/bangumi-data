@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Get current time
         id: current-time
-        uses: srfrnk/current-time@5a4163ad035ccd9a407ec9e519c3b6ba1b633d1e
+        uses: josStorer/get-current-time@v2
         with:
           format: YYYYqQ
 
