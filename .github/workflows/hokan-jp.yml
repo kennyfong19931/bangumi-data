@@ -75,6 +75,8 @@ jobs:
           npx bdh hokan danime
           echo ">>> hokan prime"
           npx bdh hokan prime
+          echo ">>> hokan abema"
+          npx bdh hokan abema
 
       - name: Edit .gitignore
         working-directory: ./bangumi-data

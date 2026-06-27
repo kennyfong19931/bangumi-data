@@ -76,6 +76,8 @@ jobs:
           npx bdh cleanup danime
           echo ">>> cleanup prime"
           npx bdh cleanup prime
+          echo ">>> cleanup abema"
+          npx bdh cleanup abema
 
       - name: Commit changes
         id: commit-changes
