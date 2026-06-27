@@ -2244,12 +2244,6 @@
         "broadcast": "R/2019-01-30T09:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-6",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "灰與"
       },
@@ -3112,12 +3106,6 @@
         "broadcast": ""
       },
       {
-        "site": "mytv",
-        "id": "konosubagodsblessingonthiswonderfulworld0001_143256",
-        "begin": "2025-06-01T02:00:00.000Z",
-        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/65844"
       },
@@ -3441,12 +3429,6 @@
         "id": "SID0042217",
         "begin": "2019-07-15T03:00:00.000Z",
         "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",

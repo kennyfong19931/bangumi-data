@@ -325,12 +325,6 @@
         "broadcast": "R/2024-01-13T16:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "194-37",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "北海道辣妹"
       },
@@ -933,12 +927,6 @@
         "id": "B0CNPNWTKT",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "mytv",
-        "id": "thefoolishangeldanceswiththedevil0001_143274",
-        "begin": "2025-06-15T02:00:00.000Z",
-        "broadcast": "R/2025-06-15T02:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5376,12 +5364,6 @@
         "id": "SID0098254",
         "begin": "2024-02-09T15:00:00.000Z",
         "broadcast": "R/2024-02-09T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "622-3",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

@@ -1684,12 +1684,6 @@
         "id": "677aa0882f6756712facfc42"
       },
       {
-        "site": "abema",
-        "id": "13-194",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "ani_one",
         "id": "PLC18xlbCdwtTRBRkxiwSc7gBC-yyOW8pl",
         "begin": "2025-01-12T09:00:00.000Z",
@@ -1704,12 +1698,6 @@
       {
         "site": "gamer",
         "id": "137331",
-        "begin": "2025-01-12T09:00:00.000Z",
-        "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0163361",
         "begin": "2025-01-12T09:00:00.000Z",
         "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
       },
@@ -1886,12 +1874,6 @@
         "id": "SID0163370",
         "begin": "2025-01-07T16:35:00.000Z",
         "broadcast": "R/2025-01-07T16:35:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "115-117",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2633,12 +2615,6 @@
         "id": "SID0163172",
         "begin": "2025-01-09T15:55:00.000Z",
         "broadcast": "R/2025-01-09T15:55:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "172-60",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -3906,12 +3882,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "420-72",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "677aa09a2f6756712facfc98"
       },
@@ -4108,12 +4078,6 @@
       {
         "site": "nicovideo",
         "id": "cf-vanguard_deluxe",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "283-27",
         "begin": "",
         "broadcast": ""
       },

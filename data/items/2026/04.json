@@ -4019,12 +4019,6 @@
         "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgM-eazdqnvvGvwYtCvKNcq",
-        "begin": "2026-04-03T15:30:06.000Z",
-        "broadcast": "R/2026-04-03T15:30:06.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-290",
         "begin": "",
@@ -5629,7 +5623,7 @@
     "officialSite": "http://re-zero-anime.jp/tv/",
     "begin": "2026-04-08T14:00:00.000Z",
     "broadcast": "R/2026-04-08T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-06-17T14:00:00.000",
     "comment": "",
     "sites": [
       {
@@ -6856,12 +6850,6 @@
       {
         "site": "bangumi",
         "id": "544628"
-      },
-      {
-        "site": "unext",
-        "id": "SID0261890",
-        "begin": "2026-05-14T15:00:00.000Z",
-        "broadcast": "R/2026-05-14T15:00:00.000Z/P7D"
       }
     ]
   },

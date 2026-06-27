@@ -852,12 +852,6 @@
         "broadcast": "R/2024-10-02T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "115-115",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3435"
       },
@@ -1229,12 +1223,6 @@
       {
         "site": "tmdb",
         "id": "tv/204098"
-      },
-      {
-        "site": "abema",
-        "id": "182-1448",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",

@@ -2193,12 +2193,6 @@
         "begin": "2020-04-07T09:53:05.000Z"
       },
       {
-        "site": "gamer",
-        "id": "108075",
-        "begin": "2020-04-07T10:30:00.000Z",
-        "broadcast": "R/2020-04-07T10:30:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28228476",
         "begin": "2020-04-07T10:43:51.000Z",
@@ -2221,12 +2215,6 @@
       {
         "site": "mikan",
         "id": "2210"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "108075",
-        "begin": "2020-04-07T10:30:00.000Z",
-        "broadcast": "R/2020-04-07T10:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2852,12 +2840,6 @@
       {
         "site": "mikan",
         "id": "2170"
-      },
-      {
-        "site": "abema",
-        "id": "19-255",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -4288,12 +4270,6 @@
         "id": "23935",
         "begin": "2020-04-17T03:00:00.000Z",
         "broadcast": "R/2020-04-17T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfqrB-iTGoTc_z4j096Oocw_",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

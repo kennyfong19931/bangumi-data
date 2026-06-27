@@ -240,6 +240,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "斗球儿弹子"
+      ],
+      "zh-Hant": [
+        "鬥球兒彈子"
       ]
     },
     "type": "tv",
@@ -742,6 +745,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "尼古喵喵"
+      ],
+      "zh-Hant": [
+        "尼古喵喵"
       ]
     },
     "type": "tv",
@@ -942,7 +948,8 @@
     "title": "株式会社マジルミエ(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法光源股份有限公司 第二季"
+        "魔法光源股份有限公司 第二季",
+        "柔光魔女股份有限公司 第二季"
       ]
     },
     "type": "tv",
@@ -1339,7 +1346,8 @@
         "KAIJU GIRL CARAMELISE"
       ],
       "zh-Hans": [
-        "少女怪兽焦糖味"
+        "少女怪兽焦糖味",
+        "少女怪兽焦糖恋心"
       ]
     },
     "type": "tv",
@@ -1477,7 +1485,11 @@
     "title": "花織さんは転生しても喧嘩がしたい",
     "titleTranslate": {
       "zh-Hans": [
-        "花织同学转生后还是想干架"
+        "花织同学转生后还是想干架",
+        "花织即使是转生也想打架"
+      ],
+      "zh-Hant": [
+        "花織即使是轉生也想打架"
       ]
     },
     "type": "tv",
@@ -1794,8 +1806,10 @@
         "The World Is Dancing"
       ],
       "zh-Hans": [
+        "THE WORLD IS DANCING 世界在起舞",
         "世界在起舞",
-        "世界在跳舞"
+        "世界在跳舞",
+        "世界舞动"
       ],
       "zh-Hant": [
         "THE WORLD IS DANCING 世界在起舞"
@@ -2091,6 +2105,9 @@
         "盗墓王",
         "盗掘王",
         "我独自盗墓"
+      ],
+      "zh-Hant": [
+        "盜墓王"
       ]
     },
     "type": "tv",
@@ -2242,6 +2259,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "花样少年少女 第二季"
+      ],
+      "zh-Hant": [
+        "花樣少年少女 第2季"
       ]
     },
     "type": "tv",
@@ -2408,7 +2428,8 @@
         "THE GHOST IN THE SHELL"
       ],
       "zh-Hans": [
-        "攻壳机动队 THE GHOST IN THE SHELL"
+        "攻壳机动队 THE GHOST IN THE SHELL",
+        "攻壳机动队 2026"
       ]
     },
     "type": "tv",
@@ -2490,7 +2511,8 @@
     "title": "天は赤い河のほとり",
     "titleTranslate": {
       "zh-Hans": [
-        "天是红河岸"
+        "天是红河岸",
+        "赤河恋影"
       ]
     },
     "type": "tv",
@@ -2636,7 +2658,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "克雷瓦提斯 第二季 -魔兽之王与虚伪的勇者传承-",
-        "克雷瓦提斯-魔兽之王与婴儿与尸之勇者- 第二季"
+        "克雷瓦提斯-魔兽之王与婴儿与尸之勇者- 第二季",
+        "Clevatess II-魔兽之王与虚假的勇者传承-"
       ],
       "zh-Hant": [
         "Clevatess Ⅱ-魔獸之王與虛假的勇者傳承-",
@@ -2728,7 +2751,8 @@
     "title": "鬼の花嫁",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼之花嫁"
+        "鬼之花嫁",
+        "鬼的新娘"
       ]
     },
     "type": "tv",
@@ -2927,6 +2951,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "同一个研讨会的染谷同学是AV女优的事"
+      ],
+      "en": [
+        "My Classmate's a Sexy Actress, and Now We Live Together?!"
       ]
     },
     "type": "tv",
@@ -2954,6 +2981,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "拯救替身千金的是冷酷无情冰之王子的爱"
+      ],
+      "zh-Hant": [
+        "拯救替身千金的是冷酷無情冰之王子的愛"
       ]
     },
     "type": "tv",
@@ -3012,6 +3042,47 @@
         "id": "643-22",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "パーフェクトアディクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "澈底对你成瘾"
+      ],
+      "zh-Hant": [
+        "澈底對你成癮"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://animationid.com/perfectaddiction/",
+    "begin": "2026-07-07T16:00:00.000Z",
+    "broadcast": "R/2026-07-07T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "630164"
+      }
+    ]
+  },
+  {
+    "title": "あはれ！名作くん(2026)",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://meisakukun.com/",
+    "begin": "2026-07-05T15:45:00.000Z",
+    "broadcast": "R/2026-07-05T15:45:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "619052"
       }
     ]
   }
