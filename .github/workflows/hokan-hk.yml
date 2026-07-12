@@ -79,6 +79,8 @@ jobs:
           npx bdh hokan ani_one_asia
           echo ">>> hokan tropics"
           npx bdh hokan tropics
+          echo ">>> hokan mighty"
+          npx bdh hokan mighty
           echo ">>> hokan viu"
           npx bdh hokan viu
           echo ">>> hokan gamer_hk"

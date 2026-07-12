@@ -80,6 +80,8 @@ jobs:
           npx bdh cleanup ani_one_asia
           echo ">>> cleanup tropics"
           npx bdh cleanup tropics
+          echo ">>> cleanup mighty"
+          npx bdh cleanup mighty
           echo ">>> cleanup viu"
           npx bdh cleanup viu
           echo ">>> cleanup gamer_hk"
