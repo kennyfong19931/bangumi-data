@@ -338,6 +338,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我们的七日战争"
+      ],
+      "en": [
+        "Seven Days War"
       ]
     },
     "type": "movie",
@@ -388,6 +391,12 @@
       {
         "site": "aniList",
         "id": "101610"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHN9DGZ",
+        "begin": "2021-12-02T09:00:00.000Z",
+        "broadcast": "R/2021-12-02T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -476,8 +485,8 @@
       {
         "site": "crunchyroll",
         "id": "GMTE00094107",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2019-12-20T00:00:00.000Z",
+        "broadcast": "R/2019-12-20T00:00:00.000Z/P7D"
       }
     ]
   },

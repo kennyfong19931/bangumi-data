@@ -5,6 +5,9 @@
       "zh-Hans": [
         "女主角？圣女？不，我是杂役女仆（自豪）！"
       ],
+      "zh-Hant": [
+        "女主角？聖女？都不對，我是雜役女僕（自豪）！"
+      ],
       "en": [
         "Heroine? Saint? No, I'm an All-Works Maid (and Proud of It)!"
       ]
@@ -66,6 +69,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "落第贤者的学院无双～第二回转生，S等级作弊魔术师冒险记～"
+      ],
+      "zh-Hant": [
+        "落第賢者的學院無雙～第二次轉生的S級開外掛魔術師冒險錄～"
       ],
       "en": [
         "The Failed Sage's Academy Domination",
@@ -293,6 +299,18 @@
         "id": "82757039",
         "begin": "2026-07-08T16:00:00.000Z",
         "broadcast": "R/2026-07-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0305839",
+        "begin": "2026-07-15T15:30:00.000Z",
+        "broadcast": "R/2026-07-15T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29057",
+        "begin": "2026-07-15T15:30:00.000Z",
+        "broadcast": "R/2026-07-15T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -881,8 +899,8 @@
       {
         "site": "unext",
         "id": "SID0305798",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-13T15:30:00.000Z",
+        "broadcast": "R/2026-07-13T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1335,6 +1353,12 @@
         "id": "29124",
         "begin": "2026-07-06T15:00:00.000Z",
         "broadcast": "R/2026-07-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H3HNWRC3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1699,14 +1723,14 @@
       {
         "site": "viu",
         "id": "3199884",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-05T14:00:19.000Z",
+        "broadcast": "R/2026-07-05T14:00:19.000Z/P7D"
       },
       {
         "site": "crunchyroll",
         "id": "GNVHKN933",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-08T00:00:00.000Z",
+        "broadcast": "R/2023-10-08T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1715,6 +1739,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～"
+      ],
+      "zh-Hant": [
+        "暴怒千金發誓復仇。～憑藉魔導書之力打垮祖國～"
       ],
       "en": [
         "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires"
@@ -1916,14 +1943,14 @@
       {
         "site": "ani_one",
         "id": "PLRV0kqlG3Y_M",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-14T15:00:06.000Z",
+        "broadcast": "R/2026-07-14T15:00:06.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLODXJn5su6ew",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-14T15:00:06.000Z",
+        "broadcast": "R/2026-07-14T15:00:06.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -1946,6 +1973,12 @@
         "id": "54-123",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0305855",
+        "begin": "2026-07-12T15:30:00.000Z",
+        "broadcast": "R/2026-07-12T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1955,6 +1988,9 @@
       "zh-Hans": [
         "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
         "不爱公爵"
+      ],
+      "zh-Hant": [
+        "說了不打算愛我的公爵繼承人，不知為何對我寵愛有加"
       ],
       "en": [
         "The Duke's Son Claims He Won't Love Me, But Showers Me with Adoration"
@@ -2037,6 +2073,9 @@
         "The Villager of Level 999"
       ],
       "zh-Hans": [
+        "LV999的村民"
+      ],
+      "zh-Hant": [
         "LV999的村民"
       ]
     },
@@ -2608,8 +2647,8 @@
       {
         "site": "unext",
         "id": "SID0305831",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-17T03:00:00.000Z",
+        "broadcast": "R/2026-07-17T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -2855,7 +2894,11 @@
         "虽然我是不完美恶女 ～雏宫蝶鼠替换传～"
       ],
       "zh-Hant": [
+        "我是不才惡女～雛宮蝶鼠互換傳～",
         "我是不才惡女"
+      ],
+      "en": [
+        "Though I Am an Inept Villainess"
       ]
     },
     "type": "tv",
@@ -2889,8 +2932,8 @@
       {
         "site": "unext",
         "id": "SID0305826",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-12T15:15:00.000Z",
+        "broadcast": "R/2026-07-12T15:15:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2915,6 +2958,34 @@
         "id": "144318",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29128",
+        "begin": "2026-07-12T15:15:00.000Z",
+        "broadcast": "R/2026-07-12T15:15:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H5KGTB1V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371881",
+        "begin": "2026-07-12T00:00:00.000Z",
+        "broadcast": "R/2026-07-12T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82931553",
+        "begin": "2026-07-11T16:00:00.000Z",
+        "broadcast": "R/2026-07-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "4012"
       }
     ]
   },
@@ -3311,6 +3382,9 @@
       ],
       "zh-Hans": [
         "炒翻天"
+      ],
+      "zh-Hant": [
+        "鐵鍋料理王"
       ]
     },
     "type": "tv",
@@ -3368,6 +3442,12 @@
       {
         "site": "mikan",
         "id": "4016"
+      },
+      {
+        "site": "danime",
+        "id": "29071",
+        "begin": "2026-07-12T09:00:00.000Z",
+        "broadcast": "R/2026-07-12T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -3570,6 +3650,12 @@
       {
         "site": "mikan",
         "id": "4018"
+      },
+      {
+        "site": "prime",
+        "id": "B0H59CPG2Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3851,6 +3937,24 @@
         "id": "25-330",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0305803",
+        "begin": "2026-07-13T16:20:00.000Z",
+        "broadcast": "R/2026-07-13T16:20:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29139",
+        "begin": "2026-07-13T16:20:00.000Z",
+        "broadcast": "R/2026-07-13T16:20:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FWK4FHRT",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3908,6 +4012,9 @@
       "zh-Hans": [
         "梅比乌斯之尘",
         "梅比乌斯·尘埃"
+      ],
+      "zh-Hant": [
+        "梅比烏斯之塵"
       ]
     },
     "type": "tv",
@@ -4050,6 +4157,12 @@
       {
         "site": "mikan",
         "id": "4024"
+      },
+      {
+        "site": "danime",
+        "id": "29070",
+        "begin": "2026-07-15T14:30:00.000Z",
+        "broadcast": "R/2026-07-15T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -4153,6 +4266,9 @@
       "zh-Hans": [
         "Let's Go 怪奇组"
       ],
+      "zh-Hant": [
+        "Let's Go 怪奇組"
+      ],
       "en": [
         "Let’s go KAIKIGUMI"
       ]
@@ -4226,6 +4342,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们"
+      ],
+      "zh-Hant": [
+        "轉學後班上的清純可愛美少女，竟是小時候玩在一起的哥兒們"
       ],
       "en": [
         "Oh Boy, Was I Wrong About Her"
@@ -4306,6 +4425,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "『你们先走我断后』，于是10年后我成为了传说"
+      ],
+      "zh-Hant": [
+        "說出這邊交給我你們先走以後十年過去成了傳說。"
       ],
       "en": [
         "I Became a Legend after My 10 Year-Long Last Stand"
@@ -4447,6 +4569,12 @@
       {
         "site": "mikan",
         "id": "4029"
+      },
+      {
+        "site": "prime",
+        "id": "B0H43XV99M",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4455,6 +4583,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "最强出涸皇子的暗跃帝位争夺"
+      ],
+      "zh-Hant": [
+        "最強廢渣皇子暗中活躍於帝位之爭"
       ],
       "en": [
         "The Insipid Prince's Furtive Grab for the Throne"
@@ -4915,6 +5046,18 @@
       {
         "site": "mikan",
         "id": "4035"
+      },
+      {
+        "site": "prime",
+        "id": "B0H85T3XB3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-328",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5280,6 +5423,10 @@
         "id": "nigewaka-run2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "4039"
       }
     ]
   },
@@ -5411,6 +5558,12 @@
       {
         "site": "mikan",
         "id": "4041"
+      },
+      {
+        "site": "prime",
+        "id": "B0H6Q52SHK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5485,6 +5638,12 @@
         "begin": "2026-07-06T16:30:00.000Z",
         "broadcast": "R/2026-07-06T16:30:00.000Z/P7D",
         "comment": "ミニアニメ劇場: SID0308478"
+      },
+      {
+        "site": "prime",
+        "id": "B0H6QX2LTK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5603,6 +5762,12 @@
         "id": "29126",
         "begin": "2026-07-06T03:00:00.000Z",
         "broadcast": "R/2026-07-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H7BM31NP",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5759,6 +5924,12 @@
         "id": "B0H7QJPNZH",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "5-82",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5782,6 +5953,137 @@
         "id": "29125",
         "begin": "2026-07-11T22:30:00.000Z",
         "broadcast": "R/2026-07-11T22:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0309609",
+        "begin": "2026-07-11T22:30:00.000Z",
+        "broadcast": "R/2026-07-11T22:30:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "63641"
+      },
+      {
+        "site": "aniList",
+        "id": "208824"
+      }
+    ]
+  },
+  {
+    "title": "死亡遊戯で飯を食う。 44:CLOUDY BEACH",
+    "titleTranslate": {
+      "zh-Hans": [
+        "靠死亡游戏混饭吃。 44:CLOUDY BEACH"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shiboyugi-anime.com/",
+    "begin": "2026-07-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-07-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "638185"
+      },
+      {
+        "site": "gamer",
+        "id": "141219",
+        "begin": "2026-07-13T14:00:00.000Z",
+        "broadcast": "R/2026-07-13T14:00:00.000Z/P0D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "141219",
+        "begin": "2026-07-13T14:00:00.000Z",
+        "broadcast": "R/2026-07-13T14:00:00.000Z/P0D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchmlXg78CT0afsBEQj8LWpZ",
+        "begin": "2026-07-13T14:00:00.000Z",
+        "broadcast": "R/2026-07-13T14:00:00.000Z/P0D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfq3qj1B3Ic5c9bHUco_olso",
+        "begin": "2026-07-13T14:00:00.000Z",
+        "broadcast": "R/2026-07-13T14:00:00.000Z/P0D"
+      },
+      {
+        "site": "mal",
+        "id": "63819"
+      },
+      {
+        "site": "aniList",
+        "id": "209961"
+      },
+      {
+        "site": "mikan",
+        "id": "4046"
+      }
+    ]
+  },
+  {
+    "title": "闇芝居 十七期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗芝居 第十七季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2026-07-11T18:27:00.000Z",
+    "broadcast": "R/2026-07-11T18:27:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "662006"
+      },
+      {
+        "site": "danime",
+        "id": "29127",
+        "begin": "2026-07-13T03:00:00.000Z",
+        "broadcast": "R/2026-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0308079",
+        "begin": "2026-07-13T03:00:00.000Z",
+        "broadcast": "R/2026-07-13T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "サイボーグ009 ネメシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人造人009 涅墨西斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://cyborg009.jp/",
+    "begin": "2026-07-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "571896"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cyborg009",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -4170,6 +4170,12 @@
       {
         "site": "aniList",
         "id": "98298"
+      },
+      {
+        "site": "abema",
+        "id": "746-21",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

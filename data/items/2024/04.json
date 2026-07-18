@@ -1475,6 +1475,12 @@
       {
         "site": "aniList",
         "id": "170130"
+      },
+      {
+        "site": "abema",
+        "id": "54-90",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

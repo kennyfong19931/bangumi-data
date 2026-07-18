@@ -410,6 +410,9 @@
       "zh-Hans": [
         "没有辣妹会对阿宅温柔!?"
       ],
+      "zh-Hant": [
+        "哪裡有溫柔對待阿宅的辣妹！？"
+      ],
       "en": [
         "Gals Can't be Kind to Otaku!?"
       ]
@@ -701,6 +704,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "自称恶役大小姐的婚约者观察记录。"
+      ],
+      "zh-Hant": [
+        "自稱惡役千金的未婚妻觀察紀錄。"
       ],
       "en": [
         "An Observation Log of My Fiancée Who Calls Herself a Villainess"
@@ -2076,6 +2082,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子?"
+      ],
+      "zh-Hant": [
+        "最強的職業不是勇者也不是賢者好像是鑑定士（暫定）的樣子"
       ],
       "en": [
         "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
@@ -4166,7 +4175,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-        "灰原君的青春二周目（NEW GAME+）",
+        "灰原君的青春二周目（NEW GAME+）"
+      ],
+      "zh-Hant": [
         "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"
       ],
       "en": [
@@ -6677,6 +6688,10 @@
       {
         "site": "aniList",
         "id": "21"
+      },
+      {
+        "site": "mikan",
+        "id": "3977"
       }
     ]
   },
