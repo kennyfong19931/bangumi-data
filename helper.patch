@@ -1,0 +1,325 @@
+diff --git a/exclusions/ani_one.txt b/exclusions/ani_one.txt
+index 8e1c14b..9213848 100644
+--- a/exclusions/ani_one.txt
++++ b/exclusions/ani_one.txt
+@@ -49,4 +49,4 @@ PLC18xlbCdwtTySzF449FaYuq-eWuZr26I
+ PLIOEBDhF60yI
+ PLDX-OTrTeYEo
+ PLJOQTv0SwKNk
+-PLC18xlbCdwtRKYGtHE3PE5irPx6j91mcr
++PLC18xlbCdwtRKYGtHE3PE5irPx6j91mcr
+\ No newline at end of file
+diff --git a/exclusions/ani_one_asia.txt b/exclusions/ani_one_asia.txt
+index 90103af..88f5138 100644
+--- a/exclusions/ani_one_asia.txt
++++ b/exclusions/ani_one_asia.txt
+@@ -1,64 +1,64 @@
+-PLxSscENEp7Jj2tFCGNg0fMjtuSe4ANfgv
+-PLxSscENEp7Jg2Y3lts5sHoQzYVw4PNzLk
+-PLxSscENEp7JgaUbq270zWw2Tfik2F9S_v
+-PLxSscENEp7JgF-1Wgybt4osfmXMEaVVYE
+-PLxSscENEp7JhGtnQRaYfAj2oc0GinaJ55
+-PLxSscENEp7JhGaMheXN5x4TvWaP1Pmuju
+-PLxSscENEp7JhhqI3xCyV3AzZpgqOP-BJs
+-PLxSscENEp7Jj11QOj5fgKHxDaLGsvPzFK
+-PLxSscENEp7JgnCSu-M7ABZyU2DYz7BCUt
+-PLxSscENEp7Jjbt-yW1dSaqwnfQ78R3SLd
+-PLxSscENEp7Ji0NQy6UNigWaUw8Uocu7ro
+-PLxSscENEp7JhbgEaMxezbzs0aXWENOBRA
+-PLxSscENEp7JiCr8_HXm4eFw-gycDVVzOr
+-PLxSscENEp7JgaaIs9osg28DPFfRqHJlJh
+-PLxSscENEp7Jj72nQFDFa1MpOuY_OH3cZ7
+-PLxSscENEp7Jiod7hD_xIc5aD2txK8INzq
+-PLxSscENEp7JhM02K9H9WanMaSNIM-up0A
+-PLxSscENEp7Jh070_Gmc1JMZ9pJHNq_8p_
+-PLxSscENEp7JiN2wFYMdZ1y23q6d0ol4bu
+-PLxSscENEp7Jh22k9Z9zA9NPKJR8nDhsx7
+-PLxSscENEp7JizaeRhKJuM4A6vwDoMlNi5
+-PLxSscENEp7JijZKadh5tIoWUwjVk-Fm78
+-PLxSscENEp7JgNzJwphB4hYrNJDtYdOzNU
+-PLxSscENEp7JjFxFLaUqw0RCMc4sbSgi69
+-PLxSscENEp7JgVHy1m2-yD5jbgOGDyqSLc
+-PLxSscENEp7JitfKqQyup8znOE5F0NG46P
+-PLxSscENEp7Ji7ANYMEJgYCdC0pdXU_Djj
+-PLxSscENEp7JjSCh1AjnyhsDB4ng75HeFG
+-PLxSscENEp7Jiv0MF4PY5tr_Hcdh5Q_qQA
+-PLxSscENEp7JhOYEpedisG-L_pllsytJQe
+-PLxSscENEp7Jinb7O6q2JWNVJ4zAPBcJ0L
+-PLxSscENEp7JgrfrrrjtDBTt8UXrSv5p-X
+-PLxSscENEp7JjUs3YZW3c_VIWf15JKqsus
+-PLxSscENEp7JhUQ-NvGTp34p7vqZarUZ7Y
+-PLxSscENEp7Jg5DgWKsdk172w43rMtfFQ9
+-PLxSscENEp7Jj9X28LGA4-E3CQtra58L3J
+-PLxSscENEp7JhzRa4Y2Uqyi-bdEY45f6RR
+-PLxSscENEp7JguoUfD4Wl0EayPP4L5-pK3
+-PLxSscENEp7JgEoJYViPduslQOTwYpHu-7
+-PLxSscENEp7JjUAGpcYIKBvME44g7dXJ2b
+-PLxSscENEp7JiqDMOTVbzcIvWaL1uJRrYv
+-PLxSscENEp7JgomS_IwIn0uZtnV5fdwwnB
+-PLxSscENEp7Jjq7teI5QxByhvrmQK4gFsg
+-PLxSscENEp7JgBcpcjpFbpDpr6FlKFwkL8
+-PLxSscENEp7JgJ-FVTxhIXwOaBmHAJ6sNy
+-PLxSscENEp7JjEiIU4jHBzz90qbV6oJZCr
+-PLxSscENEp7JibnGLzxdM-ftMb74lnghSz
+-PLxSscENEp7JiO3ZM-4pFsJ2c8VwnslLJg
+-PLxSscENEp7Jhwyjh_CUvG9Y3Mw2ccdv3q
+-PLxSscENEp7JgljXBKPvA7bmhIITBWIsYS
+-PLxSscENEp7JjNjGOUu_OBOQEV6ngrgK1j
+-PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N
+-PLxSscENEp7Ji2OSayVwrayCrabfnMVebJ
+-PLxSscENEp7JjaeHAvHhfRE1wUsjbtzaDG
+-PLxSscENEp7Jj_DWMG7HGfaMhicOjAhih4
+-PLxSscENEp7JgKU48AGfWO72kraOFnMA1I
+-PLxSscENEp7JhI_LMRY2MHHGdT1QxjvlG6
+-PLxSscENEp7JhP1ek-2ebVRfyirmcjkNOg
+-PLxSscENEp7Jij171Q_EAc8xRn0RLyYmbJ
+-PLxSscENEp7JgZya2bMfgi-2i95rSvUfjL
+-PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC
+-PLcu6jICGTmdQ
+-PLcuPxFugNMDA
+-PLHr3g0ivIWN4
+\ No newline at end of file
++PLxSscENEp7Jj2tFCGNg0fMjtuSe4ANfgv
++PLxSscENEp7Jg2Y3lts5sHoQzYVw4PNzLk
++PLxSscENEp7JgaUbq270zWw2Tfik2F9S_v
++PLxSscENEp7JgF-1Wgybt4osfmXMEaVVYE
++PLxSscENEp7JhGtnQRaYfAj2oc0GinaJ55
++PLxSscENEp7JhGaMheXN5x4TvWaP1Pmuju
++PLxSscENEp7JhhqI3xCyV3AzZpgqOP-BJs
++PLxSscENEp7Jj11QOj5fgKHxDaLGsvPzFK
++PLxSscENEp7JgnCSu-M7ABZyU2DYz7BCUt
++PLxSscENEp7Jjbt-yW1dSaqwnfQ78R3SLd
++PLxSscENEp7Ji0NQy6UNigWaUw8Uocu7ro
++PLxSscENEp7JhbgEaMxezbzs0aXWENOBRA
++PLxSscENEp7JiCr8_HXm4eFw-gycDVVzOr
++PLxSscENEp7JgaaIs9osg28DPFfRqHJlJh
++PLxSscENEp7Jj72nQFDFa1MpOuY_OH3cZ7
++PLxSscENEp7Jiod7hD_xIc5aD2txK8INzq
++PLxSscENEp7JhM02K9H9WanMaSNIM-up0A
++PLxSscENEp7Jh070_Gmc1JMZ9pJHNq_8p_
++PLxSscENEp7JiN2wFYMdZ1y23q6d0ol4bu
++PLxSscENEp7Jh22k9Z9zA9NPKJR8nDhsx7
++PLxSscENEp7JizaeRhKJuM4A6vwDoMlNi5
++PLxSscENEp7JijZKadh5tIoWUwjVk-Fm78
++PLxSscENEp7JgNzJwphB4hYrNJDtYdOzNU
++PLxSscENEp7JjFxFLaUqw0RCMc4sbSgi69
++PLxSscENEp7JgVHy1m2-yD5jbgOGDyqSLc
++PLxSscENEp7JitfKqQyup8znOE5F0NG46P
++PLxSscENEp7Ji7ANYMEJgYCdC0pdXU_Djj
++PLxSscENEp7JjSCh1AjnyhsDB4ng75HeFG
++PLxSscENEp7Jiv0MF4PY5tr_Hcdh5Q_qQA
++PLxSscENEp7JhOYEpedisG-L_pllsytJQe
++PLxSscENEp7Jinb7O6q2JWNVJ4zAPBcJ0L
++PLxSscENEp7JgrfrrrjtDBTt8UXrSv5p-X
++PLxSscENEp7JjUs3YZW3c_VIWf15JKqsus
++PLxSscENEp7JhUQ-NvGTp34p7vqZarUZ7Y
++PLxSscENEp7Jg5DgWKsdk172w43rMtfFQ9
++PLxSscENEp7Jj9X28LGA4-E3CQtra58L3J
++PLxSscENEp7JhzRa4Y2Uqyi-bdEY45f6RR
++PLxSscENEp7JguoUfD4Wl0EayPP4L5-pK3
++PLxSscENEp7JgEoJYViPduslQOTwYpHu-7
++PLxSscENEp7JjUAGpcYIKBvME44g7dXJ2b
++PLxSscENEp7JiqDMOTVbzcIvWaL1uJRrYv
++PLxSscENEp7JgomS_IwIn0uZtnV5fdwwnB
++PLxSscENEp7Jjq7teI5QxByhvrmQK4gFsg
++PLxSscENEp7JgBcpcjpFbpDpr6FlKFwkL8
++PLxSscENEp7JgJ-FVTxhIXwOaBmHAJ6sNy
++PLxSscENEp7JjEiIU4jHBzz90qbV6oJZCr
++PLxSscENEp7JibnGLzxdM-ftMb74lnghSz
++PLxSscENEp7JiO3ZM-4pFsJ2c8VwnslLJg
++PLxSscENEp7Jhwyjh_CUvG9Y3Mw2ccdv3q
++PLxSscENEp7JgljXBKPvA7bmhIITBWIsYS
++PLxSscENEp7JjNjGOUu_OBOQEV6ngrgK1j
++PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N
++PLxSscENEp7Ji2OSayVwrayCrabfnMVebJ
++PLxSscENEp7JjaeHAvHhfRE1wUsjbtzaDG
++PLxSscENEp7Jj_DWMG7HGfaMhicOjAhih4
++PLxSscENEp7JgKU48AGfWO72kraOFnMA1I
++PLxSscENEp7JhI_LMRY2MHHGdT1QxjvlG6
++PLxSscENEp7JhP1ek-2ebVRfyirmcjkNOg
++PLxSscENEp7Jij171Q_EAc8xRn0RLyYmbJ
++PLxSscENEp7JgZya2bMfgi-2i95rSvUfjL
++PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC
++PLcu6jICGTmdQ
++PLcuPxFugNMDA
++PLHr3g0ivIWN4
+\ No newline at end of file
+diff --git a/exclusions/gamer_hk.txt b/exclusions/gamer_hk.txt
+index e69de29..28e3c2b 100644
+--- a/exclusions/gamer_hk.txt
++++ b/exclusions/gamer_hk.txt
+@@ -0,0 +1,36 @@
++138566
++129526
++138531
++134250
++116408
++127491
++120214
++105063
++120438
++120635
++120636
++120948
++120949
++94679
++98322
++118354
++142142
++150137
++152098
++152100
++152102
++149200
++149423
++149343
++149147
++149342
++149201
++149421
++151152
++149145
++151361
++151154
++151360
++151507
++149146
++151514
+\ No newline at end of file
+diff --git a/exclusions/mighty.txt b/exclusions/mighty.txt
+index de16c1e..17f3f14 100644
+--- a/exclusions/mighty.txt
++++ b/exclusions/mighty.txt
+@@ -1,7 +1,7 @@
+-PL2ql078AibHUkBS9AroT_pP8jZgatBVd0
+-PL2ql078AibHUCSf4zxXi2gUQtaBL9t19e
+-PL2ql078AibHX6jbftQGHVnX8I-9Ix890C
+-PL2ql078AibHVZ5KSQpSlhZvV3uf0H6yut
+-PL2ql078AibHVc4nJSVhnI9hj3Ki8Qn0T_
+-PL2ql078AibHWuG40srrHTQ0O1GjxnLWUv
+-PLYly_pJ7WBQY
+\ No newline at end of file
++PL2ql078AibHUkBS9AroT_pP8jZgatBVd0
++PL2ql078AibHUCSf4zxXi2gUQtaBL9t19e
++PL2ql078AibHX6jbftQGHVnX8I-9Ix890C
++PL2ql078AibHVZ5KSQpSlhZvV3uf0H6yut
++PL2ql078AibHVc4nJSVhnI9hj3Ki8Qn0T_
++PL2ql078AibHWuG40srrHTQ0O1GjxnLWUv
++PLYly_pJ7WBQY
+\ No newline at end of file
+diff --git a/exclusions/netflix.txt b/exclusions/netflix.txt
+index d5ce846..61b36c4 100644
+--- a/exclusions/netflix.txt
++++ b/exclusions/netflix.txt
+@@ -1,7 +1,8 @@
+-80987064
+-81001988
+-70267410
+-81245457
+-80994336
+-81177634
+-81002444
+\ No newline at end of file
++81393633
++80987064
++81001988
++70267410
++81002438
++80994336
++81153115
++81177634
+\ No newline at end of file
+diff --git a/exclusions/tropics.txt b/exclusions/tropics.txt
+index 108ae1e..ff23623 100644
+--- a/exclusions/tropics.txt
++++ b/exclusions/tropics.txt
+@@ -1,25 +1,25 @@
+-PLoGVqODys23B1QNiYrtldVJH6nD7wc6j_
+-PLoGVqODys23DSkSZQLzWsSZoLFFEU3sFT
+-PLoGVqODys23DqzyPlHPg5o6qKrBwLoJX7
+-PLoGVqODys23DMHPcQFTj_05YGJfa1gKHG
+-PLoGVqODys23DfR1lIyWk1gEsq6lySuMwY
+-PLoGVqODys23CDQkfVP1oIH-7qxG8GQdom
+-PLoGVqODys23AbiRxNVEXKVRFYDocuFxNf
+-PLoGVqODys23AGpoIIwMx63_iFg2cqsws5
+-PLoGVqODys23ASqIdvARkZC5_QFfDN1yVI
+-PLoGVqODys23AiVfKKnuxoPO06CTfEt8p3
+-PLoGVqODys23B5XolCsF4zOp-fvU8PUoQb
+-PLoGVqODys23DtW0XTCKlaG5pwAgJopdLi
+-PLoGVqODys23DLgfUZhm_ZfQNdrxo1CYSm
+-PLoGVqODys23AgLQ2_87xmPbKqCnkYwj27
+-PLoGVqODys23Bz1YGVm3ROKhfbRVEm367O
+-PLoGVqODys23D8ofc0QCIpQwFY7FSDZqHM
+-PLoGVqODys23DU1puIiy1nkIRI91P3tlD9
+-PLoGVqODys23B9PNNLVNiI5jN2Vvt3cR6M
+-PLoGVqODys23BicGk2kF265wGH4Q0YS-sn
+-PLoGVqODys23Arasl1qDlfDIbfebtYPBc3
+-PLoGVqODys23Dg2_ksXQWsOPmsGp-zaGuZ
+-PLoGVqODys23D7k4bHq1tmulX4w1WQwNa0
+-PLoGVqODys23Dn2VoMf2HwvmK9-IbQosbi
+-PLoGVqODys23BV6We9eF6ZHKIIUMxp20DM
+-PLA_ZRi9oMuiE
+\ No newline at end of file
++PLoGVqODys23B1QNiYrtldVJH6nD7wc6j_
++PLoGVqODys23DSkSZQLzWsSZoLFFEU3sFT
++PLoGVqODys23DqzyPlHPg5o6qKrBwLoJX7
++PLoGVqODys23DMHPcQFTj_05YGJfa1gKHG
++PLoGVqODys23DfR1lIyWk1gEsq6lySuMwY
++PLoGVqODys23CDQkfVP1oIH-7qxG8GQdom
++PLoGVqODys23AbiRxNVEXKVRFYDocuFxNf
++PLoGVqODys23AGpoIIwMx63_iFg2cqsws5
++PLoGVqODys23ASqIdvARkZC5_QFfDN1yVI
++PLoGVqODys23AiVfKKnuxoPO06CTfEt8p3
++PLoGVqODys23B5XolCsF4zOp-fvU8PUoQb
++PLoGVqODys23DtW0XTCKlaG5pwAgJopdLi
++PLoGVqODys23DLgfUZhm_ZfQNdrxo1CYSm
++PLoGVqODys23AgLQ2_87xmPbKqCnkYwj27
++PLoGVqODys23Bz1YGVm3ROKhfbRVEm367O
++PLoGVqODys23D8ofc0QCIpQwFY7FSDZqHM
++PLoGVqODys23DU1puIiy1nkIRI91P3tlD9
++PLoGVqODys23B9PNNLVNiI5jN2Vvt3cR6M
++PLoGVqODys23BicGk2kF265wGH4Q0YS-sn
++PLoGVqODys23Arasl1qDlfDIbfebtYPBc3
++PLoGVqODys23Dg2_ksXQWsOPmsGp-zaGuZ
++PLoGVqODys23D7k4bHq1tmulX4w1WQwNa0
++PLoGVqODys23Dn2VoMf2HwvmK9-IbQosbi
++PLoGVqODys23BV6We9eF6ZHKIIUMxp20DM
++PLA_ZRi9oMuiE
+\ No newline at end of file
+diff --git a/lib/crawlers/dicts/viu.json b/lib/crawlers/dicts/viu.json
+index 039f4d3..577fd09 100644
+--- a/lib/crawlers/dicts/viu.json
++++ b/lib/crawlers/dicts/viu.json
+@@ -96,12 +96,13 @@
+     "2876956": "2876958",
+     "2877841": "2603461",
+     "2878782": "2878774",
++    "2879245": "2623311",
+     "2879545": "2381421",
+-    "2945709": "2945747",
++    "2945719": "2945747",
+     "2994278": "2994262",
+     "3029205": "3029227",
+-    "3029255": "3029209",
+-    "3029318": "3029308",
++    "3029259": "3029209",
++    "3029322": "3029308",
+     "3029374": "3029388",
+     "3029404": "3029412",
+     "3036498": "3036512",
+@@ -111,10 +112,11 @@
+     "3045622": "3045630",
+     "3048138": "2442397",
+     "3069773": "2686497",
+-    "3166677": "2222936",
++    "3166685": "2222936",
+     "3190832": "3190832",
+-    "3197762": "3197774",
+-    "3198960": "3198940",
+-    "3218685": "2686826"
++    "3192757": "3192739",
++    "3197796": "3197774",
++    "3218695": "2251377",
++    "3222097": "2686826"
+   }
+ }

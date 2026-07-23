@@ -1,0 +1,41 @@
+[
+  {
+    "site": "mytv",
+    "id": "mashincreatorwataru0001_146583",
+    "titleTranslate": {
+      "en": [
+        "Mashin Creator Wataru"
+      ],
+      "zh-Hant": [
+        "魔神創造傳"
+      ]
+    },
+    "img": "http://img.tvb.com/mytvs/poster/1466/h_146583_v1_o.jpg"
+  },
+  {
+    "site": "mytv",
+    "id": "laidbackcamp0001_146679",
+    "titleTranslate": {
+      "en": [
+        "Laid-Back Camp"
+      ],
+      "zh-Hant": [
+        "LET'S CAMP! 露營少女"
+      ]
+    },
+    "img": "http://img.tvb.com/mytvs/poster/1467/h_146679_v1_o.jpg"
+  },
+  {
+    "site": "mytv",
+    "id": "milknokevin_144422",
+    "titleTranslate": {
+      "en": [
+        "MILK NO KEVIN"
+      ],
+      "zh-Hant": [
+        "牛奶盒凱文"
+      ]
+    },
+    "img": "http://img.tvb.com/mytvs/poster/1445/h_144422_v1_o.jpg"
+  }
+]

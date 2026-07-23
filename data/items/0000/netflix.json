@@ -1,0 +1,41 @@
+[
+  {
+    "site": "netflix",
+    "id": "81037868",
+    "titleTranslate": {
+      "en": [
+        "The Witcher: Nightmare of the Wolf"
+      ],
+      "zh-Hant": [
+        "獵魔士：狼之惡夢"
+      ],
+      "zh-Hans": [
+        "獵魔士：狼之惡夢"
+      ]
+    },
+    "href": "https://www.netflix.com/title/81037868"
+  },
+  {
+    "site": "netflix",
+    "id": "80233883",
+    "titleTranslate": {
+      "en": [
+        "Big Fish & Begonia"
+      ]
+    },
+    "href": "https://www.netflix.com/title/80233883"
+  },
+  {
+    "site": "netflix",
+    "id": "81418302",
+    "titleTranslate": {
+      "zh-Hant": [
+        "新神榜：哪吒重生"
+      ],
+      "zh-Hans": [
+        "新神榜：哪吒重生"
+      ]
+    },
+    "href": "https://www.netflix.com/title/81418302"
+  }
+]
