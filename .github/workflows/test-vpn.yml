@@ -1,0 +1,32 @@
+name: test-vpn
+on:
+  workflow_dispatch:
+
+jobs:
+  test-vpn:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install OpenVPN
+        run: |
+          sudo apt update
+          sudo apt install -y openvpn openvpn-systemd-resolved
+          
+      - name: Checkout ovpn config
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: .github
+          path: ./vpn
+
+      - name: Connect to VPN
+        uses: "kota65535/github-openvpn-connect-action@v3"
+        with:
+          config_file: ./vpn/.github/vpn/jp1205.nordvpn.com.udp.ovpn
+          username: ${{ secrets.NORD_USERNAME }}
+          password: ${{ secrets.NORD_PASSWORD }}
+          tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
+
+      - name: Check region
+        run: |
+          sudo apt install -y curl
+          curl ipinfo.io
