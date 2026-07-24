@@ -57,7 +57,7 @@ jobs:
       - name: Connect to VPN
         uses: "kota65535/github-openvpn-connect-action@v3"
         with:
-          config_file: ./vpn/.github/vpn/tw195.nordvpn.com.udp.ovpn
+          config_file: ./vpn/.github/vpn/tw128.nordvpn.com.udp.ovpn
           username: ${{ secrets.NORD_USERNAME }}
           password: ${{ secrets.NORD_PASSWORD }}
           tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
