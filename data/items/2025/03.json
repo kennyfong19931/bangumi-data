@@ -666,6 +666,18 @@
       {
         "site": "anidb",
         "id": "18664"
+      },
+      {
+        "site": "danime",
+        "id": "27701"
+      },
+      {
+        "site": "aniList",
+        "id": "177778"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1297763"
       }
     ]
   }

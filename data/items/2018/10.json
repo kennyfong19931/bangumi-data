@@ -5422,6 +5422,14 @@
       {
         "site": "anidb",
         "id": "14108"
+      },
+      {
+        "site": "aniList",
+        "id": "101926"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/550085"
       }
     ]
   }

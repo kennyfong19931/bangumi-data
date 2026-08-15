@@ -6,6 +6,12 @@
         "迷宫塔 ～乌鲁克之盾～",
         "德鲁亚加之塔 ～乌鲁克之盾～",
         "龙之塔 ～乌鲁克之盾～"
+      ],
+      "en": [
+        "The Tower of DRUAGA -the Aegis of URUK-"
+      ],
+      "zh-Hant": [
+        "The Tower of DRUAGA -the Aegis of URUK-"
       ]
     },
     "type": "tv",
@@ -51,6 +57,10 @@
       {
         "site": "aniList",
         "id": "3230"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYVNX8JQ6"
       }
     ]
   },

@@ -952,6 +952,14 @@
       {
         "site": "anidb",
         "id": "7528"
+      },
+      {
+        "site": "aniList",
+        "id": "5157"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35508/season/0"
       }
     ]
   }

@@ -261,6 +261,9 @@
       ],
       "en": [
         "Magical Girl Lyrical Nanoha ViVid"
+      ],
+      "zh-Hant": [
+        "魔法少女奈葉 ViVid"
       ]
     },
     "type": "tv",
@@ -336,6 +339,14 @@
       {
         "site": "aniList",
         "id": "20820"
+      },
+      {
+        "site": "gamer",
+        "id": "72190"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "72190"
       }
     ]
   },

@@ -7,7 +7,8 @@
         "犬夜叉剧场版 镜中的梦幻城"
       ],
       "zh-Hant": [
-        "犬夜叉劇場版 鏡中的夢幻城"
+        "犬夜叉劇場版 鏡中的夢幻城",
+        "犬夜叉劇場版：鏡中的夢幻城"
       ],
       "en": [
         "InuYasha: The Movie 2: The Castle Beyond the Looking Glass"
@@ -61,6 +62,10 @@
       {
         "site": "aniList",
         "id": "450"
+      },
+      {
+        "site": "gamer",
+        "id": "21916"
       }
     ]
   },
@@ -369,6 +374,10 @@
       {
         "site": "anidb",
         "id": "8509"
+      },
+      {
+        "site": "aniList",
+        "id": "169082"
       }
     ]
   }

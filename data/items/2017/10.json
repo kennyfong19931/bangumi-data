@@ -635,6 +635,10 @@
         "id": "PL12UaAf_xzfrdrmSr6UPtiXEtEXOymBUx",
         "begin": "2026-06-08T13:00:06.000Z",
         "broadcast": "R/2026-06-08T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLQ22ENDM45hQ"
       }
     ]
   },
@@ -4971,6 +4975,10 @@
       {
         "site": "anidb",
         "id": "13016"
+      },
+      {
+        "site": "aniList",
+        "id": "98998"
       }
     ]
   }

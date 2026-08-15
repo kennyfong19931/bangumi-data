@@ -184,5 +184,41 @@
         "id": "tv/65930/season/0/episode/19"
       }
     ]
+  },
+  {
+    "title": "THE RIBBON HERO リボンヒーロー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "缎带英雄"
+      ],
+      "zh-Hant": [
+        "緞帶英雄"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.theribbonhero.com/",
+    "begin": "2026-08-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-08-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "643828"
+      },
+      {
+        "site": "netflix",
+        "id": "81493703"
+      },
+      {
+        "site": "mal",
+        "id": "64012"
+      },
+      {
+        "site": "anidb",
+        "id": "20023"
+      }
+    ]
   }
 ]
