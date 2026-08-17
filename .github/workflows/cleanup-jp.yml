@@ -48,6 +48,10 @@ jobs:
           ref: local
           path: ./helper
 
+      - name: Install dependency
+        working-directory: ./helper
+        run: npm install
+
       - name: Checkout ovpn config
         uses: actions/checkout@v6
         with:
@@ -66,21 +70,30 @@ jobs:
           password: ${{ secrets.NORD_PASSWORD }}
           # tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
 
-      - name: Run bdh to cleanup
+      - name: Cleanup nicovideo
         continue-on-error: true
         working-directory: ./helper
-        run: |
-          npm install
-          echo ">>> cleanup nicovideo"
-          npx bdh cleanup nicovideo
-          echo ">>> cleanup unext"
-          npx bdh cleanup unext
-          echo ">>> cleanup danime"
-          npx bdh cleanup danime
-          echo ">>> cleanup prime"
-          npx bdh cleanup prime
-          echo ">>> cleanup abema"
-          npx bdh cleanup abema
+        run: npx bdh cleanup nicovideo
+
+      - name: Cleanup unext
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup unext
+
+      - name: Cleanup danime
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup danime
+
+      - name: Cleanup prime
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup prime
+
+      - name: Cleanup abema
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup abema
 
       - name: Commit changes
         id: commit-changes

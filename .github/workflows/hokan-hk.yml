@@ -44,6 +44,10 @@ jobs:
           ref: local
           path: ./helper
           
+      - name: Install dependency
+        working-directory: ./helper
+        run: npm install
+
       - name: Checkout ovpn config
         uses: actions/checkout@v6
         with:
@@ -62,35 +66,65 @@ jobs:
           password: ${{ secrets.NORD_PASSWORD }}
           # tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
 
-      - name: Run bdh to hokan
+      - name: Hokan netflix
         continue-on-error: true
         working-directory: ./helper
-        run: |
-          npm install
-          echo ">>> hokan netflix"
-          npx bdh hokan netflix
-          echo ">>> hokan crunchyroll"
-          npx bdh hokan crunchyroll
-          echo ">>> hokan muse_hk"
-          npx bdh hokan muse_hk
-          echo ">>> hokan ani_one"
-          npx bdh hokan ani_one
-          echo ">>> hokan ani_one_asia"
-          npx bdh hokan ani_one_asia
-          echo ">>> hokan tropics"
-          npx bdh hokan tropics
-          echo ">>> hokan mighty"
-          npx bdh hokan mighty
-          echo ">>> hokan viu"
-          npx bdh hokan viu
-          echo ">>> hokan gamer_hk"
-          npx bdh hokan gamer_hk
-          echo ">>> hokan mytv"
-          npx bdh hokan mytv
-          echo ">>> hokan bilibili_hk_mo_tw"
-          npx bdh hokan bilibili_hk_mo_tw
-          echo ">>> hokan bilibili_hk_mo"
-          npx bdh hokan bilibili_hk_mo
+        run: npx bdh hokan netflix
+
+      - name: Hokan crunchyroll
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan crunchyroll
+
+      - name: Hokan muse_hk
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan muse_hk
+
+      - name: Hokan ani_one
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan ani_one
+
+      - name: Hokan ani_one_asia
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan ani_one_asia
+
+      - name: Hokan tropics
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan tropics
+
+      - name: Hokan mighty
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan mighty
+
+      - name: Hokan viu
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan viu
+
+      - name: Hokan gamer_hk
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan gamer_hk
+
+      - name: Hokan mytv
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan mytv
+
+      - name: Hokan bilibili_hk_mo_tw
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan bilibili_hk_mo_tw
+
+      - name: Hokan bilibili_hk_mo
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan bilibili_hk_mo
 
       - name: Edit .gitignore
         working-directory: ./bangumi-data

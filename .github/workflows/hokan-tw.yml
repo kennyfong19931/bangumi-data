@@ -44,6 +44,10 @@ jobs:
           ref: local
           path: ./helper
 
+      - name: Install dependency
+        working-directory: ./helper
+        run: npm install
+
       - name: Checkout ovpn config
         uses: actions/checkout@v6
         with:
@@ -62,17 +66,20 @@ jobs:
           password: ${{ secrets.NORD_PASSWORD }}
           # tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
 
-      - name: Run bdh to hokan
+      - name: Hokan muse_tw
         continue-on-error: true
         working-directory: ./helper
-        run: |
-          npm install
-          echo ">>> hokan muse_tw"
-          npx bdh hokan muse_tw
-          echo ">>> hokan gamer"
-          npx bdh hokan gamer
-          echo ">>> hokan bilibili_tw"
-          npx bdh hokan bilibili_tw
+        run: npx bdh hokan muse_tw
+
+      - name: Hokan gamer
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan gamer
+
+      - name: Hokan bilibili_tw
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh hokan bilibili_tw
 
       - name: Edit .gitignore
         working-directory: ./bangumi-data

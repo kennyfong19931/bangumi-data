@@ -45,6 +45,10 @@ jobs:
           ref: local
           path: ./helper
           
+      - name: Install dependency
+        working-directory: ./helper
+        run: npm install
+
       - name: Checkout ovpn config
         uses: actions/checkout@v6
         with:
@@ -63,35 +67,65 @@ jobs:
           password: ${{ secrets.NORD_PASSWORD }}
           # tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
 
-      - name: Run bdh to cleanup
+      - name: Cleanup netflix
         continue-on-error: true
         working-directory: ./helper
-        run: |
-          npm install
-          echo ">>> cleanup netflix"
-          npx bdh cleanup netflix
-          echo ">>> cleanup crunchyroll"
-          npx bdh cleanup crunchyroll
-          echo ">>> cleanup muse_hk"
-          npx bdh cleanup muse_hk
-          echo ">>> cleanup ani_one"
-          npx bdh cleanup ani_one
-          echo ">>> cleanup ani_one_asia"
-          npx bdh cleanup ani_one_asia
-          echo ">>> cleanup tropics"
-          npx bdh cleanup tropics
-          echo ">>> cleanup mighty"
-          npx bdh cleanup mighty
-          echo ">>> cleanup viu"
-          npx bdh cleanup viu
-          echo ">>> cleanup gamer_hk"
-          npx bdh cleanup gamer_hk
-          echo ">>> cleanup mytv"
-          npx bdh cleanup mytv
-          echo ">>> cleanup bilibili_hk_mo_tw"
-          npx bdh cleanup bilibili_hk_mo_tw
-          echo ">>> cleanup bilibili_hk_mo"
-          npx bdh cleanup bilibili_hk_mo
+        run: npx bdh cleanup netflix
+
+      - name: Cleanup crunchyroll
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup crunchyroll
+
+      - name: Cleanup muse_hk
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup muse_hk
+
+      - name: Cleanup ani_one
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup ani_one
+
+      - name: Cleanup ani_one_asia
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup ani_one_asia
+
+      - name: Cleanup tropics
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup tropics
+
+      - name: Cleanup mighty
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup mighty
+
+      - name: Cleanup viu
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup viu
+
+      - name: Cleanup gamer_hk
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup gamer_hk
+
+      - name: Cleanup mytv
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup mytv
+
+      - name: Cleanup bilibili_hk_mo_tw
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup bilibili_hk_mo_tw
+
+      - name: Cleanup bilibili_hk_mo
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup bilibili_hk_mo
 
       - name: Commit changes
         id: commit-changes

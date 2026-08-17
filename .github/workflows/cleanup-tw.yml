@@ -45,6 +45,10 @@ jobs:
           ref: local
           path: ./helper
 
+      - name: Install dependency
+        working-directory: ./helper
+        run: npm install
+
       - name: Checkout ovpn config
         uses: actions/checkout@v6
         with:
@@ -63,17 +67,20 @@ jobs:
           password: ${{ secrets.NORD_PASSWORD }}
           # tls_auth_key: ${{ secrets.NORD_TLS_AUTH }}
 
-      - name: Run bdh to cleanup
+      - name: Cleanup muse_tw
         continue-on-error: true
         working-directory: ./helper
-        run: |
-          npm install
-          echo ">>> cleanup muse_tw"
-          npx bdh cleanup muse_tw
-          echo ">>> cleanup gamer"
-          npx bdh cleanup gamer
-          echo ">>> cleanup bilibili_tw"
-          npx bdh cleanup bilibili_tw
+        run: npx bdh cleanup muse_tw
+
+      - name: Cleanup gamer
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup gamer
+
+      - name: Cleanup bilibili_tw
+        continue-on-error: true
+        working-directory: ./helper
+        run: npx bdh cleanup bilibili_tw
 
       - name: Commit changes
         id: commit-changes
