@@ -120,6 +120,18 @@
       {
         "site": "acgnx",
         "id": "果然 青春戀愛 完"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLDzHaJGxHc2s",
+        "begin": "2026-09-23T13:00:07.000Z",
+        "broadcast": "R/2026-09-23T13:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLds4eowQSRI8",
+        "begin": "2026-09-21T13:00:08.000Z",
+        "broadcast": "R/2026-09-21T13:00:08.000Z/P7D"
       }
     ]
   },
@@ -781,6 +793,9 @@
       ],
       "zh-Hant": [
         "魔物娘的醫生"
+      ],
+      "en": [
+        "Monster Girl Doctor"
       ]
     },
     "type": "tv",
@@ -855,6 +870,12 @@
       {
         "site": "acgnx",
         "id": "魔物 醫生"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G60XNJW4R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

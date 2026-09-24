@@ -537,6 +537,12 @@
       {
         "site": "acgnx",
         "id": "超能100|靈能"
+      },
+      {
+        "site": "abema",
+        "id": "199-59",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2789,7 +2795,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g",
+        "id": "PLQ9SYtXYNSXQ",
+        "url": "https://www.youtube.com/show/VLPLQ9SYtXYNSXQ?sbp=KgtTdlVaWHhfMUlld0AB",
         "begin": "2022-10-08T17:00:00.000Z",
         "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
       },

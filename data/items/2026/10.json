@@ -78,6 +78,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录"
+      ],
+      "zh-Hant": [
+        "亂世千金倪亞‧利斯頓轉生為嬌弱千金的弒神武人華麗無雙錄"
       ]
     },
     "type": "tv",
@@ -103,6 +106,18 @@
       {
         "site": "mal",
         "id": "63382"
+      },
+      {
+        "site": "gamer",
+        "id": "149516",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "149516",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -170,6 +185,12 @@
       {
         "site": "anibt",
         "id": "606716"
+      },
+      {
+        "site": "abema",
+        "id": "12-32",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -314,6 +335,9 @@
       "zh-Hans": [
         "学生会也有洞！",
         "脑洞学生会！"
+      ],
+      "zh-Hant": [
+        "學生會也有洞！"
       ]
     },
     "type": "tv",
@@ -347,6 +371,18 @@
       {
         "site": "anibt",
         "id": "554779"
+      },
+      {
+        "site": "gamer",
+        "id": "144986",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "144986",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -355,6 +391,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法★探险家"
+      ],
+      "zh-Hant": [
+        "魔法★探險家"
       ]
     },
     "type": "tv",
@@ -384,6 +423,24 @@
       {
         "site": "anibt",
         "id": "456078"
+      },
+      {
+        "site": "nicovideo",
+        "id": "majieku",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "135738",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "135738",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -429,6 +486,12 @@
       {
         "site": "anibt",
         "id": "542007"
+      },
+      {
+        "site": "abema",
+        "id": "149-36",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -488,6 +551,18 @@
       {
         "site": "mal",
         "id": "63712"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tengobu",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "149-35",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -622,6 +697,12 @@
         "id": "140275",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "rayearth-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -747,6 +828,9 @@
       ],
       "zh-Hans": [
         "和没有信徒的女神大人一起攻略异世界"
+      ],
+      "zh-Hant": [
+        "和沒有信徒的女神大人一起攻略異世界"
       ]
     },
     "type": "tv",
@@ -764,6 +848,18 @@
       {
         "site": "anibt",
         "id": "621073"
+      },
+      {
+        "site": "gamer",
+        "id": "149262",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "149262",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -776,6 +872,9 @@
       "zh-Hans": [
         "黑色五叶草 第二季",
         "黑色四叶草 第二季"
+      ],
+      "zh-Hant": [
+        "黑色五葉草 Season 2"
       ]
     },
     "type": "tv",
@@ -805,6 +904,18 @@
       {
         "site": "anibt",
         "id": "567896"
+      },
+      {
+        "site": "gamer",
+        "id": "146146",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "146146",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -967,6 +1078,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "来自远方"
+      ],
+      "zh-Hant": [
+        "來自遠方"
       ]
     },
     "type": "tv",
@@ -980,6 +1094,18 @@
       {
         "site": "bangumi",
         "id": "636058"
+      },
+      {
+        "site": "gamer",
+        "id": "150424",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "150424",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -988,6 +1114,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Keroro军曹☆"
+      ],
+      "zh-Hant": [
+        "KERORO 軍曹☆"
       ]
     },
     "type": "tv",
@@ -1009,6 +1138,18 @@
       {
         "site": "anibt",
         "id": "617273"
+      },
+      {
+        "site": "gamer",
+        "id": "149012",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "149012",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1150,6 +1291,10 @@
         "id": "SID0316388",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "654294"
       }
     ]
   },
@@ -1691,6 +1836,12 @@
       {
         "site": "dmhy",
         "id": "轉生 鑑定"
+      },
+      {
+        "site": "abema",
+        "id": "13-216",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2300,6 +2451,14 @@
       {
         "site": "bangumi",
         "id": "617948"
+      },
+      {
+        "site": "mal",
+        "id": "63181"
+      },
+      {
+        "site": "anibt",
+        "id": "617948"
       }
     ]
   },
@@ -2321,6 +2480,14 @@
       {
         "site": "bangumi",
         "id": "657084"
+      },
+      {
+        "site": "mal",
+        "id": "64326"
+      },
+      {
+        "site": "aniList",
+        "id": "212799"
       }
     ]
   },
@@ -2345,6 +2512,10 @@
       {
         "site": "bangumi",
         "id": "613256"
+      },
+      {
+        "site": "anibt",
+        "id": "613256"
       }
     ]
   },
@@ -2366,6 +2537,28 @@
       {
         "site": "bangumi",
         "id": "541538"
+      },
+      {
+        "site": "mal",
+        "id": "61140"
+      },
+      {
+        "site": "aniList",
+        "id": "187316"
+      },
+      {
+        "site": "anidb",
+        "id": "19194"
+      },
+      {
+        "site": "anibt",
+        "id": "541538"
+      },
+      {
+        "site": "abema",
+        "id": "11-89",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2386,6 +2579,10 @@
     "sites": [
       {
         "site": "bangumi",
+        "id": "614640"
+      },
+      {
+        "site": "anibt",
         "id": "614640"
       }
     ]

@@ -382,7 +382,11 @@
         "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇"
       ],
       "zh-Hant": [
-        "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"
+        "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇",
+        "關於我轉生變成史萊姆這檔事劇場版：蒼海之淚篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
       ]
     },
     "type": "movie",
@@ -444,6 +448,12 @@
       {
         "site": "anibt",
         "id": "515595"
+      },
+      {
+        "site": "netflix",
+        "id": "83134736",
+        "begin": "2026-09-19T16:00:00.000Z",
+        "broadcast": "R/2026-09-19T16:00:00.000Z/P7D"
       }
     ]
   },

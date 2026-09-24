@@ -1612,6 +1612,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "Happiness!"
+      ],
+      "en": [
+        "Happiness!"
+      ],
+      "zh-Hant": [
+        "Happiness!"
       ]
     },
     "type": "tv",
@@ -1662,6 +1668,12 @@
       {
         "site": "aniList",
         "id": "1570"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYWE27EJY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

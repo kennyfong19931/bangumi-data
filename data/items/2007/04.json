@@ -1801,6 +1801,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "青空下的约定"
+      ],
+      "en": [
+        "Kono Aozora ni Yakusoku wo"
       ]
     },
     "type": "tv",
@@ -1846,6 +1849,12 @@
       {
         "site": "aniList",
         "id": "2155"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6Q4MZ8GR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

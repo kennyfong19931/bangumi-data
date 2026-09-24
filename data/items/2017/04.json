@@ -3442,6 +3442,12 @@
       {
         "site": "anidb",
         "id": "12904"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNQXG12Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
