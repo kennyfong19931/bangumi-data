@@ -7807,5 +7807,43 @@
         "id": "501958"
       }
     ]
+  },
+  {
+    "title": "ちびゴジラの逆襲 シリーズ最新作",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小哥斯拉的逆袭 系列最新作",
+        "宝宝哥斯拉的反击 系列最新作"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://chibigodzilla.jp/",
+    "begin": "2025-07-01T16:00:00.000Z",
+    "broadcast": "R/2025-07-01T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "561787"
+      },
+      {
+        "site": "mal",
+        "id": "61765"
+      },
+      {
+        "site": "anidb",
+        "id": "19427"
+      },
+      {
+        "site": "aniList",
+        "id": "193883"
+      },
+      {
+        "site": "anibt",
+        "id": "561787"
+      }
+    ]
   }
 ]

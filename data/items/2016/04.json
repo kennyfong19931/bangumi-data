@@ -2385,6 +2385,9 @@
       ],
       "zh-Hant": [
         "少年阿貝GO！GO！小芝麻"
+      ],
+      "en": [
+        "Shonen Ashibe GO! GO! Goma-chan"
       ]
     },
     "type": "tv",
@@ -2455,6 +2458,12 @@
       {
         "site": "aniList",
         "id": "21601"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNQXG12Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

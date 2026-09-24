@@ -1183,6 +1183,12 @@
       {
         "site": "acgnx",
         "id": "DAYS"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYX040PKR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1464,7 +1470,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjJSQURgyx2NQaDHdBpueq9",
+        "id": "PLIA137b2JUFI",
+        "url": "https://www.youtube.com/show/VLPLIA137b2JUFI?sbp=KgtCeTZXU05vcVdkc0AB",
         "begin": "2021-01-21T16:00:00.000Z",
         "broadcast": "R/2021-01-21T16:00:00.000Z/P7D"
       },

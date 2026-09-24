@@ -360,7 +360,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Ji3p2oPXSaDlUtzRI0be2_d",
+        "id": "PLbBQtw21CyiI",
+        "url": "https://www.youtube.com/show/VLPLbBQtw21CyiI?sbp=KgszaTN5Uy1TaVIta0AB",
         "begin": "2024-04-07T15:00:07.000Z",
         "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
       },
@@ -443,6 +444,12 @@
       {
         "site": "acgnx",
         "id": "轉生 鑑定"
+      },
+      {
+        "site": "abema",
+        "id": "13-216",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

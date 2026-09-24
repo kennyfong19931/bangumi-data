@@ -1232,6 +1232,12 @@
       {
         "site": "aniList",
         "id": "2926"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYP817ZDY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

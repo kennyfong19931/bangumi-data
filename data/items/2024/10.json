@@ -1155,7 +1155,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi",
+        "id": "PLQ9SYtXYNSXQ",
+        "url": "https://www.youtube.com/show/VLPLQ9SYtXYNSXQ?season=2&sbp=CgEyGgAqC1N2VVpYeF8xSWV3QAFKDVBTVUNncUV3c0tQeUU%253D",
         "begin": "2024-12-27T08:49:30.000Z",
         "broadcast": "R/2024-12-27T08:49:30.000Z/P7D"
       },
@@ -1292,6 +1293,9 @@
       "zh-Hans": [
         "夏目友人帐 柒",
         "夏目友人帐 第七季"
+      ],
+      "zh-Hant": [
+        "夏目友人帳 柒"
       ]
     },
     "type": "tv",
@@ -1363,6 +1367,18 @@
       {
         "site": "acgnx",
         "id": "夏目友人帳"
+      },
+      {
+        "site": "gamer",
+        "id": "133791",
+        "begin": "2026-09-24T16:00:00.000Z",
+        "broadcast": "R/2026-09-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133791",
+        "begin": "2026-09-24T16:00:00.000Z",
+        "broadcast": "R/2026-09-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -6542,7 +6558,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jjvn-QSq2pOOwltUAUJx7pT",
+        "id": "PLIA137b2JUFI",
+        "url": "https://www.youtube.com/show/VLPLIA137b2JUFI?season=3&sbp=CgEzGgAqC0J5NldTTm9xV2RzQAFKDVBTRWRqUDNYWFRqaWs%253D",
         "begin": "2024-10-14T07:30:00.000Z",
         "broadcast": "R/2024-10-14T07:30:00.000Z/P1M"
       },

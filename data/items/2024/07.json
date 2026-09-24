@@ -5030,6 +5030,12 @@
       {
         "site": "acgnx",
         "id": "妻子 沒有 感情"
+      },
+      {
+        "site": "netflix",
+        "id": "81907753",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5077,7 +5083,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtSbhgEIZUVRyNXF8TIsj0oh",
+        "id": "PLafDfoABM-YI",
+        "url": "https://www.youtube.com/show/VLPLafDfoABM-YI?season=2&sbp=CgEyGgAqC1pzS2FGSmN0bUxRQAFKDVBTREpDc2d4NjUtX1k%253D",
         "begin": "2024-10-18T08:00:05.000Z",
         "broadcast": "R/2024-10-18T08:00:05.000Z/P7D",
         "comment": "粵語: PLC18xlbCdwtTqlLyusVXdMsI9nivREoDx"

@@ -394,6 +394,10 @@
       {
         "site": "aniList",
         "id": "5936"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/132376"
       }
     ]
   }

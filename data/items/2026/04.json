@@ -2570,7 +2570,7 @@
     "officialSite": "https://www.nhk-character.com/chara/iruma/",
     "begin": "2026-04-04T09:25:00.000Z",
     "broadcast": "R/2026-04-04T09:25:00.000Z/P7D",
-    "end": "2026-06-27T09:50:00.000Z",
+    "end": "2026-09-26T09:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6941,7 +6941,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchUEpjQsMY9Z37u_pOoUsut",
+        "id": "PLe8K3ab7TsWI",
+        "url": "https://www.youtube.com/show/VLPLe8K3ab7TsWI?sbp=KgtRbDVtbjNVeV9vTUAB",
         "begin": "2026-06-10T16:00:06.000Z",
         "broadcast": "R/2026-06-10T16:00:06.000Z/P7D"
       },
@@ -6953,7 +6954,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpFQmaZaPEPUz8h-75z2oPJ",
+        "id": "PLKBxIqbuc1F4",
+        "url": "https://www.youtube.com/show/VLPLKBxIqbuc1F4?sbp=KgtZSDBGOUxpSW95Z0AB",
         "begin": "",
         "broadcast": ""
       },
@@ -7249,7 +7251,8 @@
       ],
       "zh-Hant": [
         "拉拉熊",
-        "輕鬆小熊"
+        "輕鬆小熊",
+        "鬆弛熊"
       ],
       "en": [
         "RILAKKUMA"
@@ -7281,7 +7284,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgn83TzRdR98rUJAhvuHPvl",
+        "id": "PLcvvqVl5rw84",
+        "url": "https://www.youtube.com/show/VLPLcvvqVl5rw84?sbp=Kgs4YzJ6QXBkd21PSUAB",
         "begin": "2026-04-04T01:00:06.000Z",
         "broadcast": "R/2026-04-04T01:00:06.000Z/P7D"
       },
@@ -7317,7 +7321,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrv1a0ONSsJd8hM-_HElQf5",
+        "id": "PLVX7FeuKaWWI",
+        "url": "https://www.youtube.com/show/VLPLVX7FeuKaWWI?sbp=KgtwVU5VQmFBSmszWUAB",
         "begin": "2026-06-13T01:00:06.000Z",
         "broadcast": "R/2026-06-13T01:00:06.000Z/P7D"
       },
