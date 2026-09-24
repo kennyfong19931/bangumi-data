@@ -1724,12 +1724,6 @@
         "broadcast": "R/2020-04-12T15:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uci7M3RpDPyR52CK7QEfFKcN",
-        "begin": "2020-04-19T16:00:00.000Z",
-        "broadcast": "R/2020-04-19T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "103741",
         "begin": "2020-04-06T15:00:00.000Z",
@@ -2887,12 +2881,6 @@
         "begin": ""
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucjl51ygO__WeHCzcMKSEu_a",
-        "begin": "2020-05-22T16:00:00.000Z",
-        "broadcast": "R/2020-05-22T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28228505",
         "begin": "2020-04-04T17:30:00.000Z",
@@ -3123,12 +3111,6 @@
         "id": "115230"
       },
       {
-        "site": "mytv",
-        "id": "towerofgods1_146657",
-        "begin": "2026-06-30T16:00:00.000Z",
-        "broadcast": "R/2026-06-30T16:00:00.000Z/P7D"
-      },
-      {
         "site": "acgnx",
         "id": "神之塔"
       }
@@ -3354,12 +3336,6 @@
       {
         "site": "bangumi",
         "id": "300865"
-      },
-      {
-        "site": "nicovideo",
-        "id": "oreyubi",
-        "begin": "2020-04-05T16:00:00.000Z",
-        "broadcast": "R/2020-04-05T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",

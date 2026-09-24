@@ -503,12 +503,6 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "108065",
-        "begin": "2020-10-03T17:00:00.000Z",
-        "broadcast": "R/2020-10-03T17:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "25-2xrwzkrsieb",
         "begin": "",
@@ -519,12 +513,6 @@
         "id": "SID0047133",
         "begin": "2020-10-08T15:30:00.000Z",
         "broadcast": "R/2020-10-08T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "108065",
-        "begin": "2020-10-03T17:00:00.000Z",
-        "broadcast": "R/2020-10-03T17:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1024,22 +1012,10 @@
         "broadcast": "R/2020-10-09T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "111051",
-        "begin": "2020-10-03T18:00:00.000Z",
-        "broadcast": "R/2020-10-03T18:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0050939",
         "begin": "2020-10-06T15:00:00.000Z",
         "broadcast": "R/2020-10-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "111051",
-        "begin": "2020-10-03T18:00:00.000Z",
-        "broadcast": "R/2020-10-03T18:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2410,7 +2386,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjRhcXt3hp52zWsIcJL6ecv",
+        "id": "PLaQiZj7fLrxA",
+        "url": "https://www.youtube.com/show/VLPLaQiZj7fLrxA?sbp=KgtYM3Jid3k0RV9hRUAB",
         "begin": "2020-10-04T15:30:00.000Z",
         "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
       },
@@ -2872,12 +2849,6 @@
         "id": "113970"
       },
       {
-        "site": "abema",
-        "id": "13-123",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "虹咲"
       }
@@ -3042,22 +3013,10 @@
         "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "111282",
-        "begin": "2020-10-03T10:00:00.000Z",
-        "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0050926",
         "begin": "2020-10-07T15:00:00.000Z",
         "broadcast": "R/2020-10-07T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "111282",
-        "begin": "2020-10-03T10:00:00.000Z",
-        "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3218,12 +3177,6 @@
       {
         "site": "bangumi",
         "id": "314312"
-      },
-      {
-        "site": "nicovideo",
-        "id": "otokoi_cf_anime",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -3768,22 +3721,10 @@
         "broadcast": "R/2020-10-22T15:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "105519",
-        "begin": "2020-10-22T15:00:00.000Z",
-        "broadcast": "R/2020-10-22T15:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0051164",
         "begin": "2020-10-30T14:30:00.000Z",
         "broadcast": "R/2020-10-30T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "105519",
-        "begin": "2020-10-22T15:00:00.000Z",
-        "broadcast": "R/2020-10-22T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -4028,18 +3969,6 @@
       {
         "site": "bilibili",
         "id": "28229904",
-        "begin": "2020-10-10T18:00:00.000Z",
-        "broadcast": "R/2020-10-10T18:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "113096",
-        "begin": "2020-10-10T18:00:00.000Z",
-        "broadcast": "R/2020-10-10T18:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "113096",
         "begin": "2020-10-10T18:00:00.000Z",
         "broadcast": "R/2020-10-10T18:00:00.000Z/P7D"
       },
@@ -5167,12 +5096,6 @@
         "id": "28121",
         "begin": "2025-07-02T03:00:00.000Z",
         "broadcast": "R/2025-07-02T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "kimetsu_movie",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

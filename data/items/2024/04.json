@@ -360,13 +360,15 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Ji3p2oPXSaDlUtzRI0be2_d",
+        "id": "PLbBQtw21CyiI",
+        "url": "https://www.youtube.com/show/VLPLbBQtw21CyiI?sbp=KgszaTN5Uy1TaVIta0AB",
         "begin": "2024-04-07T15:00:07.000Z",
         "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtTpPAmFL_w5IByhmBv8C_9Y",
+        "id": "PLPPRpUrRqysE",
+        "url": "https://www.youtube.com/show/VLPLPPRpUrRqysE?sbp=KgtPc29fckNIVDBkY0AB",
         "begin": "2024-04-07T15:00:07.000Z",
         "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
       },
@@ -443,6 +445,12 @@
       {
         "site": "acgnx",
         "id": "轉生 鑑定"
+      },
+      {
+        "site": "abema",
+        "id": "13-216",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -856,12 +864,6 @@
       {
         "site": "bangumi",
         "id": "471926"
-      },
-      {
-        "site": "abema",
-        "id": "13-161",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -1340,12 +1342,6 @@
         "id": "129302",
         "begin": "2024-04-13T15:00:00.000Z",
         "broadcast": "R/2024-04-13T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-190",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -2591,12 +2587,6 @@
         "id": "172395"
       },
       {
-        "site": "mytv",
-        "id": "shinkalionchangetheworld0003_145420",
-        "begin": "2026-02-15T11:30:00.000Z",
-        "broadcast": "R/2026-02-15T11:30:00.000Z/P7D"
-      },
-      {
         "site": "acgnx",
         "id": "新幹線變形"
       },
@@ -2637,12 +2627,6 @@
         "id": "SID0100096",
         "begin": "2024-04-04T16:00:00.000Z",
         "broadcast": "R/2024-04-04T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-66",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "netflix",
@@ -4432,12 +4416,6 @@
         "broadcast": "R/2024-04-04T17:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-259",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "81768918",
         "begin": "2024-04-01T16:00:00.000Z",
@@ -5266,12 +5244,6 @@
         "id": "441586"
       },
       {
-        "site": "nicovideo",
-        "id": "atekuse",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "66097bb916e6bbcc806d340c"
       },
@@ -5408,13 +5380,6 @@
         "id": "B0CZRMYX1V",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "26-221",
-        "begin": "",
-        "broadcast": "",
-        "comment": "日本語字幕版: 26-222"
       },
       {
         "site": "danime",
@@ -5574,6 +5539,9 @@
         "无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分",
         "无职转生Ⅱ ～在异世界认真地活下去～ 第2部分",
         "无职转生 ～在异世界认真地活下去～ 第二季 第2部分"
+      ],
+      "zh-Hant": [
+        "無職轉生～到了異世界就拿出真本事～第2季 第2部分"
       ]
     },
     "type": "tv",
@@ -5587,12 +5555,6 @@
       {
         "site": "bangumi",
         "id": "444557"
-      },
-      {
-        "site": "viu",
-        "id": "2201268",
-        "begin": "2024-04-07T15:00:00.000Z",
-        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -5669,6 +5631,13 @@
         "id": "G24H1N3MP",
         "begin": "2021-01-11T00:00:00.000Z",
         "broadcast": "R/2021-01-11T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLTtXSbTtUyLs",
+        "url": "https://www.youtube.com/show/VLPLTtXSbTtUyLs?season=2&sbp=CgEyGgAqC0sydlRGd0tDTnFNQAFKDVBTTTVacmNTRUc5OW8%253D",
+        "begin": "2024-03-20T13:00:06.000Z",
+        "broadcast": "R/2024-03-20T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -6444,20 +6413,8 @@
         "id": "169754"
       },
       {
-        "site": "unext",
-        "id": "SID0289628",
-        "begin": "2026-03-27T15:00:00.000Z",
-        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B0FX5SLYNM",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "415-73",
         "begin": "",
         "broadcast": ""
       }

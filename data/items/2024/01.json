@@ -2527,12 +2527,6 @@
         "broadcast": ""
       },
       {
-        "site": "nicovideo",
-        "id": "chiyumahou-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "119195",
         "begin": "2024-01-05T15:30:00.000Z",
@@ -3243,12 +3237,6 @@
         "begin": "2022-08-31T15:00:00.000Z",
         "broadcast": "R/2022-08-31T15:00:00.000Z/P7D",
         "comment": "日本語吹替版: SID0097416"
-      },
-      {
-        "site": "danime",
-        "id": "26825",
-        "begin": "2024-01-11T03:00:00.000Z",
-        "broadcast": "R/2024-01-11T03:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -4305,12 +4293,6 @@
         "id": "413635"
       },
       {
-        "site": "abema",
-        "id": "19-180",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRB3v2ricyQUO6H3irpqrdn",
         "begin": "2024-01-11T17:30:07.000Z",
@@ -4479,12 +4461,6 @@
       {
         "site": "aniList",
         "id": "162144"
-      },
-      {
-        "site": "abema",
-        "id": "25-251",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -4903,12 +4879,6 @@
       {
         "site": "bangumi",
         "id": "469072"
-      },
-      {
-        "site": "nicovideo",
-        "id": "adamkun",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",

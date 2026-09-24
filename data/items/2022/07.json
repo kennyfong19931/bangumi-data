@@ -144,12 +144,6 @@
         "broadcast": "R/2022-07-09T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "149-16",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/194774"
       },
@@ -1936,12 +1930,6 @@
         "id": "135806"
       },
       {
-        "site": "abema",
-        "id": "25-209",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "異世界 舅舅"
       }
@@ -2073,12 +2061,6 @@
         "id": "28338627",
         "begin": "2022-07-14T14:35:00.000Z",
         "broadcast": "R/2022-07-14T14:35:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "444494",
-        "begin": "2022-07-13T16:00:00.000Z",
-        "broadcast": "R/2022-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -2680,12 +2662,6 @@
         "id": "15918"
       },
       {
-        "site": "abema",
-        "id": "25-316",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "aniList",
         "id": "127090"
       },
@@ -2883,6 +2859,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "花火酱总是迟到"
+      ],
+      "en": [
+        "Hanabichan ~The girl who popped out of the game world~"
       ]
     },
     "type": "tv",
@@ -2946,6 +2925,12 @@
       {
         "site": "dmhy",
         "id": "花火醬"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G8DHV7EEG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3579,12 +3564,6 @@
         "id": "145260"
       },
       {
-        "site": "abema",
-        "id": "54-74",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "GVDHX8JJE",
         "begin": "2022-07-09T00:00:00.000Z",
@@ -3755,12 +3734,6 @@
       {
         "site": "bangumi",
         "id": "342673"
-      },
-      {
-        "site": "nicovideo",
-        "id": "morino_kumasan_onair",
-        "begin": "2022-07-03T16:00:00.000Z",
-        "broadcast": "R/2022-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",

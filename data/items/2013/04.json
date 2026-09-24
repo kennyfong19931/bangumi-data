@@ -390,12 +390,6 @@
         "broadcast": "R/2026-07-24T04:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-13gragggaxej",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "的妹"
       }
@@ -3234,18 +3228,6 @@
       {
         "site": "aniList",
         "id": "14735"
-      },
-      {
-        "site": "abema",
-        "id": "415-49",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0004956",
-        "begin": "2026-04-10T15:00:00.000Z",
-        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },

@@ -537,6 +537,12 @@
       {
         "site": "acgnx",
         "id": "超能100|靈能"
+      },
+      {
+        "site": "abema",
+        "id": "199-59",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1637,12 +1643,6 @@
         "id": "145815"
       },
       {
-        "site": "abema",
-        "id": "54-77",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0GV222DCF",
         "begin": "",
@@ -2606,12 +2606,6 @@
         "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "2230728",
-        "begin": "2023-08-10T16:00:00.000Z",
-        "broadcast": "R/2023-08-10T16:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "bocchi_rocks",
         "begin": "2022-10-11T03:00:00.000Z",
@@ -2789,7 +2783,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g",
+        "id": "PLQ9SYtXYNSXQ",
+        "url": "https://www.youtube.com/show/VLPLQ9SYtXYNSXQ?sbp=KgtTdlVaWHhfMUlld0AB",
         "begin": "2022-10-08T17:00:00.000Z",
         "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
       },
@@ -2804,12 +2799,6 @@
         "id": "28339740",
         "begin": "2022-10-08T17:00:01.000Z",
         "broadcast": "R/2022-10-08T17:00:01.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-57",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3087,12 +3076,6 @@
         "broadcast": "R/2022-10-13T18:20:01.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-180",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "125767",
         "begin": "2022-10-20T17:30:00.000Z",
@@ -3286,12 +3269,6 @@
       {
         "site": "bangumi",
         "id": "395537"
-      },
-      {
-        "site": "nicovideo",
-        "id": "harecam",
-        "begin": "2022-10-02T16:00:00.000Z",
-        "broadcast": "R/2022-10-02T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -5050,7 +5027,14 @@
         "马娘摇曳",
         "赛马娘摇曳",
         "悠哉赛马娘",
-        "摇曳马娘"
+        "摇曳马娘",
+        "轻松优俊"
+      ],
+      "zh-Hant": [
+        "悠哉賽馬娘"
+      ],
+      "en": [
+        "Umayuru"
       ]
     },
     "type": "web",
@@ -5385,12 +5369,6 @@
     "end": "2023-01-26T16:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "unext",
-        "id": "SID0092818",
-        "begin": "2023-09-22T15:00:00.000Z",
-        "broadcast": "R/2023-09-22T15:00:00.000Z/P7D"
-      },
       {
         "site": "abema",
         "id": "622-1",

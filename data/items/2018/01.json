@@ -522,12 +522,6 @@
         "id": "97907"
       },
       {
-        "site": "abema",
-        "id": "168-3",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "界狂"
       }
@@ -3871,12 +3865,6 @@
       {
         "site": "bangumi",
         "id": "230517"
-      },
-      {
-        "site": "nicovideo",
-        "id": "nigojo-cf-anime",
-        "begin": "2018-01-07T16:00:00.000Z",
-        "broadcast": "R/2018-04-16T09:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",

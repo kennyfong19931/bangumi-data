@@ -17,7 +17,7 @@
     "officialSite": "https://all-works-maid-anime.com/",
     "begin": "2026-07-01T13:00:00.000Z",
     "broadcast": "R/2026-07-01T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-09T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -99,7 +99,7 @@
     "officialSite": "https://rakudai-anime.com/",
     "begin": "2026-07-01T15:00:00.000Z",
     "broadcast": "R/2026-07-01T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-10T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -196,7 +196,7 @@
     "officialSite": "https://www.nanoha.com/EXGV/",
     "begin": "2026-07-04T16:00:00.000Z",
     "broadcast": "R/2026-07-04T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -309,7 +309,7 @@
     "officialSite": "https://yanisuu.com/",
     "begin": "2026-07-09T15:41:00.000Z",
     "broadcast": "R/2026-07-09T15:41:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-24T15:56:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -401,7 +401,7 @@
     "officialSite": "https://dodge-danko.com/",
     "begin": "2026-07-06T14:00:00.000Z",
     "broadcast": "R/2026-07-06T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -506,7 +506,7 @@
     "officialSite": "https://skeleton-knight.com",
     "begin": "2026-07-04T11:30:00.000Z",
     "broadcast": "R/2026-07-04T11:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -557,7 +557,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UcighUKUlNn3LTDhJCrANELu",
+        "id": "PLZueOHAwFuHU",
+        "url": "https://www.youtube.com/show/VLPLZueOHAwFuHU?season=2&sbp=CgEyGgAqC0J3RGtaYkJVZDlvQAFKDVBTSVVEcmhMNmxzNm8%253D",
         "begin": "2026-07-04T11:30:06.000Z",
         "broadcast": "R/2026-07-04T11:30:06.000Z/P7D"
       },
@@ -686,7 +687,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoO1N6VhJ3_piG_VjPT0wK0",
+        "id": "PLJXHK7jRKpvs",
+        "url": "https://www.youtube.com/show/VLPLJXHK7jRKpvs?sbp=KgtJOXFLeHF5Nk94TUAB",
         "begin": "2026-07-09T17:56:06.000Z",
         "broadcast": "R/2026-07-09T17:56:06.000Z/P7D"
       },
@@ -752,7 +754,7 @@
     "officialSite": "https://saijonoosewa-anime.com/",
     "begin": "2026-07-04T17:38:00.000Z",
     "broadcast": "R/2026-07-04T17:38:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T18:08:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -858,7 +860,7 @@
     "officialSite": "https://ryomin0-anime.com/",
     "begin": "2026-07-10T13:30:00.000Z",
     "broadcast": "R/2026-07-10T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-25T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -948,7 +950,7 @@
     "officialSite": "https://www.samurai-trooper.net/",
     "begin": "2026-07-07T14:30:00.000Z",
     "broadcast": "R/2026-07-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-22T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1035,7 +1037,7 @@
     "officialSite": "https://ossan-kensei.com/",
     "begin": "2026-07-08T14:45:00.000Z",
     "broadcast": "R/2026-07-08T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-23T15:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1106,7 +1108,7 @@
     "officialSite": "https://mobseka.com/",
     "begin": "2026-07-08T14:30:00.000Z",
     "broadcast": "R/2026-07-08T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1212,7 +1214,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/kakekoi/",
     "begin": "2026-07-06T12:00:00.000Z",
     "broadcast": "R/2026-07-06T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1335,7 +1337,7 @@
     "officialSite": "https://nekoryuu-pr.com/",
     "begin": "2026-07-04T12:00:00.000Z",
     "broadcast": "R/2026-07-04T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-12T12:57:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1458,7 +1460,7 @@
     "officialSite": "https://yanineko-anime.com/",
     "begin": "2026-07-02T15:30:00.000Z",
     "broadcast": "R/2026-07-02T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-24T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1556,7 +1558,7 @@
     "officialSite": "https://www.vap.co.jp/korekaite-shine/",
     "begin": "2026-07-03T14:35:00.000Z",
     "broadcast": "R/2026-07-03T14:35:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-25T14:59:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1593,7 +1595,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Ucg1F4hSrRBquXxmY2Di7h6N",
+        "id": "PLcanHJbOgUD4",
+        "url": "https://www.youtube.com/show/VLPLcanHJbOgUD4?sbp=KgtHQnViQnc0TlJKQUAB",
         "begin": "2026-07-03T15:35:06.000Z",
         "broadcast": "R/2026-07-03T15:35:06.000Z/P7D"
       },
@@ -1627,7 +1630,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfo4E0cu7lprR7-cSX8hdebI",
+        "id": "PLVR8RQFkWlCI",
+        "url": "https://www.youtube.com/show/VLPLVR8RQFkWlCI?sbp=KgtXU3RjSWZzUnkta0AB",
         "begin": "2026-07-10T15:45:07.000Z",
         "broadcast": "R/2026-07-10T15:45:07.000Z/P7D"
       },
@@ -1681,7 +1685,7 @@
     "officialSite": "https://youjo-senki.jp/",
     "begin": "2026-07-08T12:30:00.000Z",
     "broadcast": "R/2026-07-08T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-23T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1730,13 +1734,15 @@
       },
       {
         "site": "ani_one",
-        "id": "PLAl0e7w0_DGA",
+        "id": "PLYZoMg5Yyut4",
+        "url": "https://www.youtube.com/show/VLPLYZoMg5Yyut4?sbp=Kgt3bTQxVzlSLVRad0AB",
         "begin": "2026-07-08T13:30:06.000Z",
         "broadcast": "R/2026-07-08T13:30:06.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLcWpc-sy22u4",
+        "id": "PLUNVbAiuyqlo",
+        "url": "https://www.youtube.com/show/VLPLUNVbAiuyqlo?season=2&sbp=CgEyGgAqC1pvMGdKVURsbDFvQAFKDVBTTmo2bi03NjE3c2s%253D",
         "begin": "2026-07-08T13:30:22.000Z",
         "broadcast": "R/2026-07-08T13:30:22.000Z/P7D"
       },
@@ -1802,7 +1808,7 @@
     "officialSite": "https://mushokutensei.jp/",
     "begin": "2026-07-04T11:00:00.000Z",
     "broadcast": "R/2026-07-04T11:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-27T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1926,7 +1932,7 @@
     "officialSite": "https://magilumiere-pr.com/",
     "begin": "2026-07-04T16:05:00.000Z",
     "broadcast": "R/2026-07-04T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T16:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2011,7 +2017,7 @@
     "officialSite": "https://hyakkano.com/",
     "begin": "2026-07-05T13:30:00.000Z",
     "broadcast": "R/2026-07-05T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2107,6 +2113,13 @@
       {
         "site": "dmhy",
         "id": "超 喜歡你 個 女朋友"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLZG68aJG70_E",
+        "url": "https://www.youtube.com/show/VLPLZG68aJG70_E?sbp=Kgt5VmxHZzNIbkphb0AB",
+        "begin": "2024-07-01T13:30:06.000Z",
+        "broadcast": "R/2024-07-01T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -2128,7 +2141,7 @@
     "officialSite": "https://buchigire-anime.com/",
     "begin": "2026-07-06T13:30:00.000Z",
     "broadcast": "R/2026-07-06T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2208,7 +2221,7 @@
     "officialSite": "https://hellmode-anime.com/",
     "begin": "2026-07-03T16:00:00.000Z",
     "broadcast": "R/2026-07-03T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-25T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2320,7 +2333,7 @@
     "officialSite": "https://victoria-anime.com/",
     "begin": "2026-07-07T15:00:00.000Z",
     "broadcast": "R/2026-07-07T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-01T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2450,7 +2463,7 @@
     "officialSite": "https://kimiai-anime.com/",
     "begin": "2026-07-04T16:30:00.000Z",
     "broadcast": "R/2026-07-04T16:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2549,7 +2562,7 @@
     "officialSite": "https://lv999-anime.com/",
     "begin": "2026-07-01T15:00:00.000Z",
     "broadcast": "R/2026-07-01T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-16T15:36:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2625,7 +2638,7 @@
     "officialSite": "https://darasan-anime.com/",
     "begin": "2026-07-02T12:30:00.000Z",
     "broadcast": "R/2026-07-02T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2737,7 +2750,7 @@
     "officialSite": "https://strongestrearguard-anime.com/",
     "begin": "2026-07-05T13:00:00.000Z",
     "broadcast": "R/2026-07-05T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2780,7 +2793,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoeIoRnxQylu1cRR5oVylyV",
+        "id": "PLGgBQovNZmBU",
+        "url": "https://www.youtube.com/show/VLPLGgBQovNZmBU?sbp=KgtMS3BBdXU4dkRJY0AB",
         "begin": "",
         "broadcast": ""
       },
@@ -2843,7 +2857,7 @@
     "officialSite": "https://otomekaiju.com/",
     "begin": "2026-07-02T16:28:00.000Z",
     "broadcast": "R/2026-07-02T16:28:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-17T17:03:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2886,7 +2900,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfq_JB8ypDRLDbUYrZlVjG1s",
+        "id": "PLB5IGaNuYtaw",
+        "url": "https://www.youtube.com/show/VLPLB5IGaNuYtaw?sbp=KgtnRURiYmltbS14UUAB",
         "begin": "2026-07-09T19:28:06.000Z",
         "broadcast": "R/2026-07-09T19:28:06.000Z/P7D"
       },
@@ -2904,7 +2919,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UciJbiA7zwJpLgBXzEA1TP8x",
+        "id": "PLe7e18eNflb4",
+        "url": "https://www.youtube.com/show/VLPLe7e18eNflb4?sbp=Kgt6ZE9JeHAtVmtta0AB",
         "begin": "2026-07-09T19:28:06.000Z",
         "broadcast": "R/2026-07-09T19:28:06.000Z/P7D"
       },
@@ -3074,7 +3090,7 @@
     "officialSite": "https://anime-jaadugar.com/",
     "begin": "2026-07-08T20:30:00.000Z",
     "broadcast": "R/2026-07-08T20:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-12T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3186,7 +3202,7 @@
     "officialSite": "https://hanaorisan-anime.com/",
     "begin": "2026-07-11T17:00:00.000Z",
     "broadcast": "R/2026-07-11T17:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3292,7 +3308,7 @@
     "officialSite": "https://kimishinu-anime.com/",
     "begin": "2026-07-07T12:30:00.000Z",
     "broadcast": "R/2026-07-07T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-29T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3403,7 +3419,7 @@
     "officialSite": "https://zakoban.com/",
     "begin": "2026-07-06T11:00:00.000Z",
     "broadcast": "R/2026-07-06T11:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T11:06:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3508,7 +3524,7 @@
     "officialSite": "https://denkimokuroku.jp/",
     "begin": "2026-07-05T14:00:00.000Z",
     "broadcast": "R/2026-07-05T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-27T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3580,7 +3596,7 @@
     "officialSite": "https://futsutsuka.net/",
     "begin": "2026-07-12T14:45:00.000Z",
     "broadcast": "R/2026-07-12T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3699,7 +3715,7 @@
     "officialSite": "https://isekai-gohantabi.com/",
     "begin": "2026-07-06T14:00:00.000Z",
     "broadcast": "R/2026-07-06T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3926,7 +3942,7 @@
     "officialSite": "https://goodbyelara.com/",
     "begin": "2026-07-05T15:30:00.000Z",
     "broadcast": "R/2026-07-05T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4040,7 +4056,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/worldisdancing-anime/",
     "begin": "2026-07-02T13:00:00.000Z",
     "broadcast": "R/2026-07-02T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-24T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4095,13 +4111,15 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpHcdvvTbOhauZRuRGB4F07",
+        "id": "PLWZhenqWa9iQ",
+        "url": "https://www.youtube.com/show/VLPLWZhenqWa9iQ?sbp=KgszWEtjTHY5al9Oa0AB",
         "begin": "2026-07-06T13:30:06.000Z",
         "broadcast": "R/2026-07-06T13:30:06.000Z/P7D"
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Uci0GqxmyaH-0UJoIxmNsFZz",
+        "id": "PLFGqBqXa2Nvg",
+        "url": "https://www.youtube.com/show/VLPLFGqBqXa2Nvg?sbp=KgtaNUlaR1N2TWVkUUAB",
         "begin": "2026-07-06T13:30:07.000Z",
         "broadcast": "R/2026-07-06T13:30:07.000Z/P7D"
       },
@@ -4158,7 +4176,7 @@
     "officialSite": "https://tetsujan.com/",
     "begin": "2026-07-05T08:30:00.000Z",
     "broadcast": "R/2026-07-05T08:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4253,7 +4271,7 @@
     "officialSite": "https://wan2.bungo-stray-dogs-wan.com/",
     "begin": "2026-07-02T12:40:00.000Z",
     "broadcast": "R/2026-07-02T12:40:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-17T12:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4374,7 +4392,7 @@
     "officialSite": "https://blacktorch-anime.com/",
     "begin": "2026-07-04T13:00:00.000Z",
     "broadcast": "R/2026-07-04T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4423,7 +4441,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfo2ORlJXpckMUieNfVj5eOr",
+        "id": "PLF0ohuOu__Nk",
+        "url": "https://www.youtube.com/show/VLPLF0ohuOu__Nk?sbp=KgtlZmlHOWZlRGRCb0AB",
         "begin": "2026-07-11T13:00:06.000Z",
         "broadcast": "R/2026-07-11T13:00:06.000Z/P7D"
       },
@@ -4494,7 +4513,7 @@
     "officialSite": "https://iwamoto-anime.com/",
     "begin": "2026-07-04T13:30:00.000Z",
     "broadcast": "R/2026-07-04T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4606,7 +4625,7 @@
     "officialSite": "https://growupshow.com/",
     "begin": "2026-07-04T15:00:00.000Z",
     "broadcast": "R/2026-07-04T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4720,7 +4739,7 @@
     "officialSite": "https://tombraiderking-pr.com/",
     "begin": "2026-07-08T16:20:00.000Z",
     "broadcast": "R/2026-07-08T16:20:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-29T16:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4849,7 +4868,7 @@
     "officialSite": "https://thunder3-anime.com/",
     "begin": "2026-07-08T15:50:00.000Z",
     "broadcast": "R/2026-07-08T15:50:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-30T15:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4919,7 +4938,7 @@
     "officialSite": "https://mebiusdust.asmik-ace.co.jp/",
     "begin": "2026-07-09T14:30:00.000Z",
     "broadcast": "R/2026-07-09T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-24T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5016,7 +5035,7 @@
     "officialSite": "https://ibikona-anime.com/",
     "begin": "2026-07-08T14:30:00.000Z",
     "broadcast": "R/2026-07-08T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-25T17:53:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5126,7 +5145,7 @@
     "officialSite": "https://hanakimi-anime.com/",
     "begin": "2026-07-01T15:30:00.000Z",
     "broadcast": "R/2026-07-01T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5237,7 +5256,7 @@
     "officialSite": "https://kaikigumi.com/",
     "begin": "2026-07-05T07:30:00.000Z",
     "broadcast": "R/2026-07-05T07:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-27T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5337,7 +5356,7 @@
     "officialSite": "https://tenbin-anime.asmik-ace.co.jp/",
     "begin": "2026-07-06T14:30:00.000Z",
     "broadcast": "R/2026-07-06T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5437,7 +5456,7 @@
     "officialSite": "https://kokoore-anime.com/",
     "begin": "2026-07-06T13:30:00.000Z",
     "broadcast": "R/2026-07-06T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5534,7 +5553,7 @@
     "officialSite": "https://www.theghostintheshell-anime.jp/",
     "begin": "2026-07-07T14:00:00.000Z",
     "broadcast": "R/2026-07-07T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-08T14:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5628,7 +5647,7 @@
     "officialSite": "https://degarashiouji.com/",
     "begin": "2026-07-06T11:57:00.000Z",
     "broadcast": "R/2026-07-06T11:57:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T12:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5809,7 +5828,7 @@
     "officialSite": "https://bleach-anime.com/",
     "begin": "2026-07-25T14:00:00.000Z",
     "broadcast": "R/2026-07-25T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5900,7 +5919,7 @@
     "officialSite": "https://azurlane-bisoku.jp/",
     "begin": "2026-07-05T16:00:00.000Z",
     "broadcast": "R/2026-07-05T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T16:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6008,7 +6027,7 @@
     "officialSite": "https://clevatess.com/",
     "begin": "2026-07-08T12:00:00.000Z",
     "broadcast": "R/2026-07-08T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-30T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6131,7 +6150,7 @@
     "officialSite": "https://taiari-anime.com/",
     "begin": "2026-07-07T11:30:00.000Z",
     "broadcast": "R/2026-07-07T11:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-22T12:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6243,7 +6262,7 @@
     "officialSite": "https://onihana-anime.com/",
     "begin": "2026-07-04T15:30:00.000Z",
     "broadcast": "R/2026-07-04T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6355,7 +6374,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
     "begin": "2026-07-05T08:00:00.000Z",
     "broadcast": "R/2026-07-05T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-10-04T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6480,7 +6499,7 @@
     "officialSite": "https://anime.bang-dream.com/yumemita/",
     "begin": "2026-07-02T14:30:00.000Z",
     "broadcast": "R/2026-07-02T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-10T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6535,13 +6554,15 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpqZyzDYDpR_KW9PaGTUQz2",
+        "id": "PLSk_vAoSbcvY",
+        "url": "https://www.youtube.com/show/VLPLSk_vAoSbcvY?sbp=KgthV3lFbjMxa0JJWUAB",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UciW36BXkTooMFAgu5YVZMcb",
+        "id": "PLIAvzb5ng6jI",
+        "url": "https://www.youtube.com/show/VLPLIAvzb5ng6jI?sbp=Kgs2aUE3Y1JodHNQc0AB",
         "begin": "2026-07-09T14:00:07.000Z",
         "broadcast": "R/2026-07-09T14:00:07.000Z/P7D"
       },
@@ -6595,7 +6616,7 @@
     "officialSite": "https://nigewaka.run/",
     "begin": "2026-07-17T14:30:00.000Z",
     "broadcast": "R/2026-07-17T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-10-02T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6697,7 +6718,7 @@
     "officialSite": "https://someyasan-anime.af-original.com/",
     "begin": "2026-07-05T16:00:00.000Z",
     "broadcast": "R/2026-07-05T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-06T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6772,7 +6793,7 @@
     "officialSite": "https://animationid.com/migawari/",
     "begin": "2026-07-06T16:00:00.000Z",
     "broadcast": "R/2026-07-06T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6877,7 +6898,7 @@
     "officialSite": "https://kamuisan.deregula.com/",
     "begin": "2026-07-03T16:30:00.000Z",
     "broadcast": "R/2026-07-03T16:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-18T16:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6984,7 +7005,7 @@
     "officialSite": "https://animationid.com/perfectaddiction/",
     "begin": "2026-07-08T14:25:00.000Z",
     "broadcast": "R/2026-07-08T14:25:00.000Z/P7D",
-    "end": "",
+    "end": "2026-08-21T11:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -7077,7 +7098,7 @@
     "officialSite": "https://meisakukun.com/",
     "begin": "2026-07-05T15:45:00.000Z",
     "broadcast": "R/2026-07-05T15:45:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -7166,7 +7187,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLIRgJyXGJRNs",
+        "id": "PLIA137b2JUFI",
+        "url": "https://www.youtube.com/show/VLPLIA137b2JUFI?season=4&sbp=CgE0GgAqC0J5NldTTm9xV2RzQAFKDVBTT1cya0JjSHpBdUE%253D",
         "begin": "2026-07-10T00:00:06.000Z",
         "broadcast": "R/2026-07-10T00:00:06.000Z/P7D"
       },
@@ -7203,7 +7225,7 @@
     "officialSite": "https://chinaentame.com/hujiboku/",
     "begin": "2026-07-01T18:30:00.000Z",
     "broadcast": "R/2026-07-01T18:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-16T19:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -7333,7 +7355,7 @@
     "officialSite": "https://bandai-hobby.net/site/gachikoseibutsubu/",
     "begin": "2026-07-11T22:00:00.000Z",
     "broadcast": "R/2026-07-11T22:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T22:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -7615,6 +7637,12 @@
         "id": "sealook2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29151",
+        "begin": "2026-07-24T17:15:00.000Z",
+        "broadcast": "R/2026-07-24T17:15:00.000Z/P7D"
       }
     ]
   },

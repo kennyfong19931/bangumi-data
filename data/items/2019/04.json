@@ -2055,12 +2055,6 @@
         "broadcast": "R/2019-04-09T18:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "420-14",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0040165",
         "begin": "2024-03-01T03:00:00.000Z",
@@ -2629,12 +2623,6 @@
         "id": "275610"
       },
       {
-        "site": "nicovideo",
-        "id": "araiya_san",
-        "begin": "2019-04-07T16:00:00.000Z",
-        "broadcast": "R/2019-04-07T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ca206bbd8405d2d2e62b973"
       },
@@ -2769,12 +2757,6 @@
         "id": "21989385",
         "begin": "2019-04-06T09:00:00.000Z",
         "broadcast": "R/2019-04-06T09:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "100174",
-        "begin": "2019-04-06T11:00:00.000Z",
-        "broadcast": "R/2019-04-06T11:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
@@ -3388,12 +3370,6 @@
         "id": "SID0044875",
         "begin": "2025-05-01T03:00:00.000Z",
         "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-258",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -4673,18 +4649,6 @@
       {
         "site": "aniList",
         "id": "106206"
-      },
-      {
-        "site": "abema",
-        "id": "415-55",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0056973",
-        "begin": "2026-03-27T15:00:00.000Z",
-        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
       }
     ]
   },

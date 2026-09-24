@@ -366,18 +366,6 @@
         "id": "410203"
       },
       {
-        "site": "viu",
-        "id": "2204557",
-        "begin": "2023-07-07T16:00:00.000Z",
-        "broadcast": "R/2023-07-07T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "129036",
-        "begin": "2023-07-07T18:00:00.000Z",
-        "broadcast": "R/2023-07-07T18:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "ai-no-idenshi",
         "begin": "2023-07-14T13:00:00.000Z",
@@ -390,12 +378,6 @@
         "broadcast": "R/2023-07-07T17:25:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucj0FAYYegKBOn2R9i6f2TwW",
-        "begin": "2024-02-12T13:30:10.000Z",
-        "broadcast": "R/2024-02-12T13:30:10.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "AI 基因|機因|遺電子"
       },
@@ -406,12 +388,6 @@
       {
         "site": "mikan",
         "id": "3108"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "129036",
-        "begin": "2023-07-07T18:00:00.000Z",
-        "broadcast": "R/2023-07-07T18:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -483,12 +459,6 @@
       {
         "site": "bangumi",
         "id": "414461"
-      },
-      {
-        "site": "viu",
-        "id": "2205502",
-        "begin": "2023-07-08T16:00:00.000Z",
-        "broadcast": "R/2023-07-08T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -595,12 +565,6 @@
         "id": "373247"
       },
       {
-        "site": "viu",
-        "id": "2201268",
-        "begin": "2023-07-01T16:00:00.000Z",
-        "broadcast": "R/2023-07-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "129175",
         "begin": "2023-07-02T15:05:00.000Z",
@@ -632,7 +596,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgmfu7qvmeUR2t3bWSWnHWV",
+        "id": "PLTtXSbTtUyLs",
+        "url": "https://www.youtube.com/show/VLPLTtXSbTtUyLs?season=2&sbp=CgEyGgAqC0sydlRGd0tDTnFNQAFKDVBTTTVacmNTRUc5OW8%253D",
         "begin": "2024-03-20T13:00:06.000Z",
         "broadcast": "R/2024-03-20T13:00:06.000Z/P7D"
       },
@@ -720,12 +685,6 @@
       {
         "site": "bangumi",
         "id": "404643"
-      },
-      {
-        "site": "nicovideo",
-        "id": "fufukokan",
-        "begin": "2023-07-02T16:00:00.000Z",
-        "broadcast": "R/2023-07-02T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1610,12 +1569,6 @@
         "id": "masamuneR",
         "begin": "2023-07-10T14:30:00.000Z",
         "broadcast": "R/2023-07-10T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "247-18",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3246,12 +3199,6 @@
         "id": "154391"
       },
       {
-        "site": "abema",
-        "id": "168-46",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "其實 最強"
       },
@@ -4462,12 +4409,6 @@
         "id": "116225",
         "begin": "2023-07-13T14:35:00.000Z",
         "broadcast": "R/2023-07-13T14:35:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "444494",
-        "begin": "2023-07-13T16:00:00.000Z",
-        "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",

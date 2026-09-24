@@ -140,12 +140,6 @@
         "id": "tv/103511/season/2"
       },
       {
-        "site": "abema",
-        "id": "13-167",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "52011"
       },
@@ -1404,7 +1398,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UcgaSXSpLXoBgk6gTplvkJos",
+        "id": "PLZueOHAwFuHU",
+        "url": "https://www.youtube.com/show/VLPLZueOHAwFuHU?sbp=KgtCd0RrWmJCVWQ5b0AB",
         "begin": "2022-04-07T15:00:00.000Z",
         "broadcast": "R/2022-04-07T15:00:00.000Z/P7D"
       },
@@ -3884,22 +3879,10 @@
         "id": "333624"
       },
       {
-        "site": "gamer",
-        "id": "123480",
-        "begin": "2022-04-02T17:00:00.000Z",
-        "broadcast": "R/2022-04-02T17:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "build-divide2",
         "begin": "2022-04-05T03:00:00.000Z",
         "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "123480",
-        "begin": "2022-04-02T17:00:00.000Z",
-        "broadcast": "R/2022-04-02T17:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -4058,12 +4041,6 @@
         "id": "130586"
       },
       {
-        "site": "abema",
-        "id": "25-315",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "村民A"
       }
@@ -4087,12 +4064,6 @@
       {
         "site": "bangumi",
         "id": "354246"
-      },
-      {
-        "site": "nicovideo",
-        "id": "3byogoyaju",
-        "begin": "2022-04-03T16:00:00.000Z",
-        "broadcast": "R/2022-04-03T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -4771,12 +4742,6 @@
       {
         "site": "mal",
         "id": "51782"
-      },
-      {
-        "site": "unext",
-        "id": "SID0068116",
-        "begin": "2026-04-17T15:00:00.000Z",
-        "broadcast": "R/2026-04-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5008,6 +4973,12 @@
       {
         "site": "dmhy",
         "id": "Chiikawa"
+      },
+      {
+        "site": "netflix",
+        "id": "81753363",
+        "begin": "2026-09-18T16:00:00.000Z",
+        "broadcast": "R/2026-09-18T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -5515,18 +5486,6 @@
       {
         "site": "aniList",
         "id": "142219"
-      },
-      {
-        "site": "abema",
-        "id": "415-57",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0100686",
-        "begin": "2026-04-17T15:00:00.000Z",
-        "broadcast": "R/2026-04-17T15:00:00.000Z/P7D"
       }
     ]
   },

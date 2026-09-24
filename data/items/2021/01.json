@@ -665,12 +665,6 @@
         "id": "103632"
       },
       {
-        "site": "abema",
-        "id": "25-160",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "G79H23G0D",
         "begin": "2021-01-08T00:00:00.000Z",
@@ -1031,12 +1025,6 @@
       {
         "site": "aniList",
         "id": "118375"
-      },
-      {
-        "site": "abema",
-        "id": "194-20",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -1805,7 +1793,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchnkiDhDLkzSnQ5VQzLvIr2",
+        "id": "PLTtXSbTtUyLs",
+        "url": "https://www.youtube.com/show/VLPLTtXSbTtUyLs?sbp=KgtLMnZURndLQ05xTUAB",
         "begin": "2021-09-23T16:00:00.000Z",
         "broadcast": "R/2021-09-23T16:00:00.000Z/P7D"
       },
@@ -2248,12 +2237,6 @@
         "id": "28233487",
         "begin": "2021-01-07T17:28:00.000Z",
         "broadcast": "R/2021-01-07T17:28:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "189-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3644,12 +3627,6 @@
         "id": "319894"
       },
       {
-        "site": "nicovideo",
-        "id": "jimihen",
-        "begin": "2021-01-03T16:00:00.000Z",
-        "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ff0433884202e4c2e99e1b4"
       },
@@ -4742,6 +4719,12 @@
       {
         "site": "acgnx",
         "id": "怪物事變"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GKEH2G492",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5197,12 +5180,6 @@
         "id": "24444",
         "begin": "2021-04-05T03:00:00.000Z",
         "broadcast": "R/2021-04-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfpNCAXEvIn6o7VvMLRU4iqb",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

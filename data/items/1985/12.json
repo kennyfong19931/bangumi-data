@@ -224,12 +224,6 @@
         "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-78",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/9463"
       },

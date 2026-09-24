@@ -1162,12 +1162,6 @@
         "id": "99420"
       },
       {
-        "site": "abema",
-        "id": "25-78",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "女終"
       }
@@ -1189,12 +1183,6 @@
       {
         "site": "bangumi",
         "id": "223502"
-      },
-      {
-        "site": "nicovideo",
-        "id": "omitsuyo-w-anime",
-        "begin": "2017-10-13T03:00:00.000Z",
-        "broadcast": "R/2017-10-13T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1413,12 +1401,6 @@
       {
         "site": "aniList",
         "id": "98349"
-      },
-      {
-        "site": "abema",
-        "id": "13-57",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -2679,22 +2661,10 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "88010",
-        "begin": "2017-10-15T03:01:00.000Z",
-        "broadcast": "R/2017-10-15T03:01:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0039951",
         "begin": "2020-05-05T03:00:00.000Z",
         "broadcast": "R/2020-05-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "88010",
-        "begin": "2017-10-15T03:01:00.000Z",
-        "broadcast": "R/2017-10-15T03:01:00.000Z/P7D"
       },
       {
         "site": "dmhy",

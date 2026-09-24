@@ -991,12 +991,6 @@
         "id": "9289"
       },
       {
-        "site": "abema",
-        "id": "198-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "花開"
       }
@@ -3058,18 +3052,6 @@
       {
         "site": "aniList",
         "id": "9963"
-      },
-      {
-        "site": "abema",
-        "id": "415-47",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0010685",
-        "begin": "2026-04-03T15:00:00.000Z",
-        "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       }
     ]
   },

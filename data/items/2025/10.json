@@ -4046,13 +4046,15 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtR_3vjceAHKXiuTaBjvXwsN",
+        "id": "PLCTMDtTwWxBs",
+        "url": "https://www.youtube.com/show/VLPLCTMDtTwWxBs?sbp=Kgs0ZTNvRVJreHA0WUAB",
         "begin": "2025-10-07T10:30:00.000Z",
         "broadcast": "R/2025-10-07T10:30:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jgz0nvNyM-z3UVzYpGY70Et",
+        "id": "PLFs1uZVXjAys",
+        "url": "https://www.youtube.com/show/VLPLFs1uZVXjAys?sbp=KgtwaUt6MnhmYzdLMEAB",
         "begin": "2025-10-07T10:30:00.000Z",
         "broadcast": "R/2025-10-07T10:30:00.000Z/P7D"
       },
@@ -5343,7 +5345,7 @@
     "officialSite": "https://www.toei-anim.co.jp/tv/digimon_beatbreak/",
     "begin": "2025-10-05T00:00:00.000Z",
     "broadcast": "R/2025-10-05T00:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-27T00:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5432,12 +5434,6 @@
       {
         "site": "bangumi",
         "id": "516604"
-      },
-      {
-        "site": "nicovideo",
-        "id": "guilty_hall",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -5838,12 +5834,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "26-255",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0232879",
         "begin": "2025-10-05T13:00:00.000Z",
@@ -6058,7 +6048,7 @@
     "officialSite": "https://anime.bang-dream.com/bandorichan/",
     "begin": "2025-10-02T14:25:00.000Z",
     "broadcast": "R/2025-10-02T14:25:00.000Z/P7D",
-    "end": "",
+    "end": "2026-10-01T14:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6461,7 +6451,7 @@
     "officialSite": "https://neko-mukashibanashi.com/",
     "begin": "2025-10-14T16:00:00.000Z",
     "broadcast": "R/2025-10-14T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-29T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6540,7 +6530,7 @@
     "officialSite": "https://koalas-dialy.com/",
     "begin": "2025-10-01T16:00:00.000Z",
     "broadcast": "R/2025-10-01T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-16T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

@@ -149,12 +149,6 @@
         "broadcast": "R/2023-06-25T14:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "13-168",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "125457",
         "begin": "",
@@ -570,12 +564,6 @@
         "id": "622-2",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0092819",
-        "begin": "2023-09-22T15:00:00.000Z",
-        "broadcast": "R/2023-09-22T15:00:00.000Z/P7D"
       },
       {
         "site": "danime",

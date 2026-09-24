@@ -1794,12 +1794,6 @@
         "id": "3379"
       },
       {
-        "site": "abema",
-        "id": "25-267",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "異世界失格"
       },
@@ -1897,12 +1891,6 @@
       {
         "site": "mikan",
         "id": "3380"
-      },
-      {
-        "site": "crunchyroll",
-        "id": "GNVHKN9W2",
-        "begin": "2024-07-06T13:00:00.000Z",
-        "broadcast": "R/2024-07-06T13:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2074,12 +2062,6 @@
       {
         "site": "bangumi_moe",
         "id": "6681471e57ba1568dc1b07e8"
-      },
-      {
-        "site": "abema",
-        "id": "25-265",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -2270,12 +2252,6 @@
       {
         "site": "bangumi_moe",
         "id": "6681471f57ba1568dc1b07f0"
-      },
-      {
-        "site": "abema",
-        "id": "198-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "ani_one",
@@ -2592,12 +2568,6 @@
       {
         "site": "aniList",
         "id": "152681"
-      },
-      {
-        "site": "abema",
-        "id": "25-268",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -3526,12 +3496,6 @@
         "id": "26-227",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UciKB4mPiCG3FgKrg99tvzbd",
-        "begin": "2026-07-01T14:00:06.000Z",
-        "broadcast": "R/2026-07-01T14:00:06.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -4704,13 +4668,6 @@
         "id": "6681471857ba1568dc1b07cc"
       },
       {
-        "site": "nicovideo",
-        "id": "yoasobigurashi",
-        "begin": "",
-        "broadcast": "",
-        "comment": "オンエア版"
-      },
-      {
         "site": "unext",
         "id": "SID0104167",
         "begin": "2024-06-22T03:00:00.000Z",
@@ -5077,7 +5034,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtSbhgEIZUVRyNXF8TIsj0oh",
+        "id": "PLafDfoABM-YI",
+        "url": "https://www.youtube.com/show/VLPLafDfoABM-YI?season=2&sbp=CgEyGgAqC1pzS2FGSmN0bUxRQAFKDVBTREpDc2d4NjUtX1k%253D",
         "begin": "2024-10-18T08:00:05.000Z",
         "broadcast": "R/2024-10-18T08:00:05.000Z/P7D",
         "comment": "粵語: PLC18xlbCdwtTqlLyusVXdMsI9nivREoDx"

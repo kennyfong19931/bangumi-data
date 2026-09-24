@@ -141,12 +141,6 @@
         "broadcast": "R/2025-07-03T14:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-74",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/286723"
       },
@@ -216,12 +210,6 @@
         "broadcast": "R/2025-07-04T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-248",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b070dffbea3b3f911b55"
       },
@@ -286,12 +274,6 @@
       {
         "site": "aniList",
         "id": "179966"
-      },
-      {
-        "site": "netflix",
-        "id": "82081970",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -574,12 +556,6 @@
         "id": "502272"
       },
       {
-        "site": "abema",
-        "id": "26-251",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b06adffbea3b3f911b35"
       },
@@ -697,12 +673,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "26-249",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b060dffbea3b3f911b03"
       },
@@ -803,12 +773,6 @@
         "id": "SID0200147",
         "begin": "2025-07-11T15:00:00.000Z",
         "broadcast": "R/2025-07-11T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-294",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -1280,12 +1244,6 @@
         "broadcast": "R/2025-07-09T15:30:06.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "420-66",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "81769842",
         "begin": "2025-08-26T16:00:00.000Z",
@@ -1474,12 +1432,6 @@
         "id": "SID0200179",
         "begin": "2025-07-10T13:00:00.000Z",
         "broadcast": "R/2025-07-10T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-75",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -1860,12 +1812,6 @@
         "comment": "ディレクターズカット版, オンエア版: SID0200144"
       },
       {
-        "site": "abema",
-        "id": "25-295",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "28112",
         "begin": "2025-07-03T15:30:00.000Z",
@@ -1971,12 +1917,6 @@
         "id": "SID0200134",
         "begin": "2025-07-04T17:30:00.000Z",
         "broadcast": "R/2025-07-04T17:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "564-15",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tropics",
@@ -2088,12 +2028,6 @@
         "id": "SID0200135",
         "begin": "2025-07-08T17:30:00.000Z",
         "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "189-82",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2304,12 +2238,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "143-63",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "128423",
         "begin": "2025-07-04T14:30:00.000Z",
@@ -2416,12 +2344,6 @@
         "id": "SID0200186",
         "begin": "2025-07-10T15:00:00.000Z",
         "broadcast": "R/2025-07-10T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "568-36",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2536,12 +2458,6 @@
         "id": "SID0200155",
         "begin": "2025-07-01T14:30:00.000Z",
         "broadcast": "R/2025-07-01T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "506-7",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -2899,12 +2815,6 @@
         "broadcast": "R/2025-07-02T17:15:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "248-25",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3682"
       },
@@ -2987,12 +2897,6 @@
         "id": "SID0200154",
         "begin": "2025-07-05T17:00:00.000Z",
         "broadcast": "R/2025-07-05T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "11-73",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -3335,12 +3239,6 @@
         "id": "SID0200158",
         "begin": "2025-07-12T16:00:00.000Z",
         "broadcast": "R/2025-07-12T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-250",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -3949,12 +3847,6 @@
         "broadcast": "R/2025-07-02T17:25:06.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-268",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3691"
       },
@@ -4091,12 +3983,6 @@
         "id": "140226",
         "begin": "2025-07-05T15:30:00.000Z",
         "broadcast": "R/2025-07-05T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "115-122",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",
@@ -4522,12 +4408,6 @@
         "id": "524593"
       },
       {
-        "site": "abema",
-        "id": "143-64",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "busamen-gachi-fighter",
         "begin": "",
@@ -4879,12 +4759,6 @@
         "id": "SID0200171",
         "begin": "2025-07-03T03:00:00.000Z",
         "broadcast": "R/2025-07-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-269",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -5354,12 +5228,6 @@
         "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "169-148",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b061dffbea3b3f911b05"
       },
@@ -5474,12 +5342,6 @@
         "broadcast": "R/2025-07-05T13:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "171-26",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b071dffbea3b3f911b5f"
       },
@@ -5592,7 +5454,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQ-GmyngyfBiZiWnpKVcWRk",
+        "id": "PLF-gEpg4TVA0",
+        "url": "https://www.youtube.com/show/VLPLF-gEpg4TVA0?sbp=KgtyaUNYTU9SeHVlOEAB",
         "begin": "2025-07-06T15:45:06.000Z",
         "broadcast": "R/2025-07-06T15:45:06.000Z/P7D"
       },
@@ -5697,12 +5560,6 @@
         "comment": "CENSORED版"
       },
       {
-        "site": "abema",
-        "id": "25-296",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b06bdffbea3b3f911b39"
       },
@@ -5787,12 +5644,6 @@
         "id": "SID0201746",
         "begin": "2025-07-04T23:30:00.000Z",
         "broadcast": "R/2025-07-04T23:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "283-30",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -5925,12 +5776,6 @@
       {
         "site": "bangumi_moe",
         "id": "6862b064dffbea3b3f911b17"
-      },
-      {
-        "site": "abema",
-        "id": "198-17",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -6109,12 +5954,6 @@
         "id": "28018",
         "begin": "2025-07-04T15:00:00.000Z",
         "broadcast": "R/2025-07-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "643-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -6303,12 +6142,6 @@
         "id": "560988"
       },
       {
-        "site": "nicovideo",
-        "id": "dekichaumade-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3713"
       },
@@ -6323,12 +6156,6 @@
         "id": "28011",
         "begin": "2025-07-09T15:00:00.000Z",
         "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "643-13",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -6415,13 +6242,15 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtTR3u91-ONVHu6tkYzK9J5U",
+        "id": "PLJdcbm_eKSwc",
+        "url": "https://www.youtube.com/show/VLPLJdcbm_eKSwc?sbp=KgtKbDcwa3hLbzZFNEAB",
         "begin": "2025-07-09T17:00:06.000Z",
         "broadcast": "R/2025-07-09T17:00:06.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgdtigZEkHGWkyyke6ozCHe",
+        "id": "PLcnM8O8NMtiU",
+        "url": "https://www.youtube.com/show/VLPLcnM8O8NMtiU?sbp=KgtDTHkwbmxNUGprc0AB",
         "begin": "2025-07-09T17:00:06.000Z",
         "broadcast": "R/2025-07-09T17:00:06.000Z/P7D"
       },
@@ -7182,12 +7011,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "189-84",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "28030",
         "begin": "2025-07-17T13:30:00.000Z",
@@ -7805,6 +7628,44 @@
       {
         "site": "anibt",
         "id": "501958"
+      }
+    ]
+  },
+  {
+    "title": "ちびゴジラの逆襲 シリーズ最新作",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小哥斯拉的逆袭 系列最新作",
+        "宝宝哥斯拉的反击 系列最新作"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://chibigodzilla.jp/",
+    "begin": "2025-07-01T16:00:00.000Z",
+    "broadcast": "R/2025-07-01T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "561787"
+      },
+      {
+        "site": "mal",
+        "id": "61765"
+      },
+      {
+        "site": "anidb",
+        "id": "19427"
+      },
+      {
+        "site": "aniList",
+        "id": "193883"
+      },
+      {
+        "site": "anibt",
+        "id": "561787"
       }
     ]
   }

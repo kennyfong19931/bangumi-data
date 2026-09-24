@@ -725,6 +725,13 @@
         "id": "420-60",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLZG68aJG70_E",
+        "url": "https://www.youtube.com/show/VLPLZG68aJG70_E?sbp=Kgt5VmxHZzNIbkphb0AB",
+        "begin": "2024-07-01T13:30:06.000Z",
+        "broadcast": "R/2024-07-01T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -878,12 +885,6 @@
         "id": "SID0163371",
         "begin": "2025-01-04T16:30:00.000Z",
         "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "115-118",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -1211,7 +1212,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5",
+        "id": "PLag9LydleDRc",
+        "url": "https://www.youtube.com/show/VLPLag9LydleDRc?sbp=Kgtia0gwQ2FuWjc2OEAB",
         "begin": "2025-01-09T17:00:06.000Z",
         "broadcast": "R/2025-01-09T17:00:06.000Z/P7D"
       },
@@ -4662,12 +4664,6 @@
         "id": "677aa08a2f6756712facfc4e"
       },
       {
-        "site": "nicovideo",
-        "id": "ipufure",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3561"
       },
@@ -5140,12 +5136,6 @@
       {
         "site": "bangumi_moe",
         "id": "677aa0882f6756712facfc40"
-      },
-      {
-        "site": "abema",
-        "id": "189-17",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",

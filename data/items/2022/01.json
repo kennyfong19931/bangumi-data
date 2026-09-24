@@ -994,6 +994,12 @@
       {
         "site": "acgnx",
         "id": "換裝娃娃|更衣人偶"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSCF998K",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1016,12 +1022,6 @@
       {
         "site": "bangumi",
         "id": "339062"
-      },
-      {
-        "site": "nicovideo",
-        "id": "akuyakureijou",
-        "begin": "2022-01-09T16:00:00.000Z",
-        "broadcast": "R/2022-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2372,6 +2372,12 @@
       {
         "site": "acgnx",
         "id": "食鏽末世錄"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H23V24",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

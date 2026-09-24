@@ -2570,7 +2570,7 @@
     "officialSite": "https://www.nhk-character.com/chara/iruma/",
     "begin": "2026-04-04T09:25:00.000Z",
     "broadcast": "R/2026-04-04T09:25:00.000Z/P7D",
-    "end": "2026-06-27T09:50:00.000Z",
+    "end": "2026-09-26T09:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2792,7 +2792,7 @@
     "officialSite": "https://www.anime-mao.com/",
     "begin": "2026-04-04T14:45:00.000Z",
     "broadcast": "R/2026-04-04T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T15:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2847,7 +2847,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtSCwgFDBvBpzvZp9oZwYDKA",
+        "id": "PLMZJChsUVtwI",
+        "url": "https://www.youtube.com/show/VLPLMZJChsUVtwI?sbp=Kgt6NTJ2WTdpTUl0OEAB",
         "begin": "2026-04-06T04:00:00.000Z",
         "broadcast": "R/2026-04-06T04:00:00.000Z/P7D"
       },
@@ -3156,7 +3157,7 @@
     "officialSite": "https://dropsofgod-anime.com/",
     "begin": "2026-04-10T14:30:00.000Z",
     "broadcast": "R/2026-04-10T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-18T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3672,7 +3673,7 @@
     "officialSite": "https://witch-classroom.com/",
     "begin": "2026-04-12T14:30:00.000Z",
     "broadcast": "R/2026-04-12T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3841,7 +3842,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQSl_ucLwx_HB4oOrJDplmF",
+        "id": "PLXqpiFhPZdck",
+        "url": "https://www.youtube.com/show/VLPLXqpiFhPZdck?sbp=KgtxTDVtRjh1MjVOTUAB",
         "begin": "2026-04-05T14:00:00.000Z",
         "broadcast": "R/2026-04-05T14:00:00.000Z/P7D"
       },
@@ -4794,7 +4796,7 @@
     "officialSite": "https://yominotsugai.com/",
     "begin": "2026-04-04T14:30:00.000Z",
     "broadcast": "R/2026-04-04T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4851,7 +4853,8 @@
         "site": "viu",
         "id": "3029308",
         "begin": "2026-04-04T16:00:44.000Z",
-        "broadcast": "R/2026-04-04T16:00:44.000Z/P7D"
+        "broadcast": "R/2026-04-04T16:00:44.000Z/P7D",
+        "comment": "粵語版: 3376934"
       },
       {
         "site": "netflix",
@@ -5244,7 +5247,7 @@
     "officialSite": "https://www.liargame-anime.com/",
     "begin": "2026-04-06T15:00:00.000Z",
     "broadcast": "R/2026-04-06T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6475,7 +6478,7 @@
     "officialSite": "https://www.ten-sura.com/anime/tensura",
     "begin": "2026-04-03T14:00:00.000Z",
     "broadcast": "R/2026-04-03T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-25T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6912,7 +6915,7 @@
     "officialSite": "https://www.candycaries.com/",
     "begin": "2026-04-15T14:56:00.000Z",
     "broadcast": "R/2026-04-15T14:56:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-23T14:56:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6941,7 +6944,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchUEpjQsMY9Z37u_pOoUsut",
+        "id": "PLe8K3ab7TsWI",
+        "url": "https://www.youtube.com/show/VLPLe8K3ab7TsWI?sbp=KgtRbDVtbjNVeV9vTUAB",
         "begin": "2026-06-10T16:00:06.000Z",
         "broadcast": "R/2026-06-10T16:00:06.000Z/P7D"
       },
@@ -6953,7 +6957,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpFQmaZaPEPUz8h-75z2oPJ",
+        "id": "PLKBxIqbuc1F4",
+        "url": "https://www.youtube.com/show/VLPLKBxIqbuc1F4?sbp=KgtZSDBGOUxpSW95Z0AB",
         "begin": "",
         "broadcast": ""
       },
@@ -7249,7 +7254,8 @@
       ],
       "zh-Hant": [
         "拉拉熊",
-        "輕鬆小熊"
+        "輕鬆小熊",
+        "鬆弛熊"
       ],
       "en": [
         "RILAKKUMA"
@@ -7281,7 +7287,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgn83TzRdR98rUJAhvuHPvl",
+        "id": "PLcvvqVl5rw84",
+        "url": "https://www.youtube.com/show/VLPLcvvqVl5rw84?sbp=Kgs4YzJ6QXBkd21PSUAB",
         "begin": "2026-04-04T01:00:06.000Z",
         "broadcast": "R/2026-04-04T01:00:06.000Z/P7D"
       },
@@ -7317,7 +7324,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrv1a0ONSsJd8hM-_HElQf5",
+        "id": "PLVX7FeuKaWWI",
+        "url": "https://www.youtube.com/show/VLPLVX7FeuKaWWI?sbp=KgtwVU5VQmFBSmszWUAB",
         "begin": "2026-06-13T01:00:06.000Z",
         "broadcast": "R/2026-06-13T01:00:06.000Z/P7D"
       },
@@ -7367,7 +7375,7 @@
     "officialSite": "https://kumarba.com/pages/tv-anime",
     "begin": "2026-04-11T16:00:00.000Z",
     "broadcast": "R/2026-04-11T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
