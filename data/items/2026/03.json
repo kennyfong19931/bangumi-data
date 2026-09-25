@@ -120,8 +120,8 @@
     "type": "web",
     "lang": "ja",
     "officialSite": "https://chinaentame.com/cinderella_chef/",
-    "begin": "2026-03-18T09:00:00.000Z",
-    "broadcast": "R/2026-03-18T09:00:00.000Z/P7D",
+    "begin": "2026-03-18T13:00:00.000Z",
+    "broadcast": "R/2026-03-18T13:00:00.000Z/P7D",
     "end": "2026-06-04T18:30:00.000Z",
     "comment": "",
     "sites": [
@@ -586,5 +586,21 @@
         "id": "576669"
       }
     ]
+  },
+  {
+    "title": "メイドさんは食べるだけ",
+    "titleTranslate": {
+      "en": [
+        "The Food Diary of Miss Maid"
+      ]
+    },
+    "type": "",
+    "lang": "ja",
+    "officialSite": "https://meitabe-anime.com/",
+    "begin": "2026-03-31T15:00:00.000Z",
+    "broadcast": "R/2026-03-31T15:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": []
   }
 ]

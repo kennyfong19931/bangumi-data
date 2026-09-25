@@ -2999,8 +2999,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://jujutsukaisen.jp/",
-    "begin": "2026-01-07T15:26:00.000Z",
-    "broadcast": "R/2026-01-07T15:26:00.000Z/P7D",
+    "begin": "2026-01-08T15:26:00.000Z",
+    "broadcast": "R/2026-01-08T15:26:00.000Z/P7D",
     "end": "2026-03-26T15:56:00.000Z",
     "comment": "",
     "sites": [
@@ -5427,8 +5427,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://koishima-pr.com/",
-    "begin": "2026-01-07T16:28:00.000Z",
-    "broadcast": "R/2026-01-07T16:28:00.000Z/P7D",
+    "begin": "2026-01-08T16:28:00.000Z",
+    "broadcast": "R/2026-01-08T16:28:00.000Z/P7D",
     "end": "2026-03-26T16:58:00.000Z",
     "comment": "",
     "sites": [
@@ -5534,8 +5534,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://nube-anime.com/",
-    "begin": "2026-01-07T02:45:00.000Z",
-    "broadcast": "R/2026-01-07T02:45:00.000Z/P7D",
+    "begin": "2026-01-07T14:45:00.000Z",
+    "broadcast": "R/2026-01-07T14:45:00.000Z/P7D",
     "end": "2026-03-25T17:00:00.000Z",
     "comment": "",
     "sites": [
@@ -6059,7 +6059,7 @@
     ]
   },
   {
-    "title": "DARK MOON -黒の月: 月の祭壇-",
+    "title": "DARK MOON -黒の月：月の祭壇-",
     "titleTranslate": {
       "zh-Hans": [
         "DARK MOON -黑之月: 月之祭坛-"
@@ -6074,8 +6074,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://darkmoon-tba.com/",
-    "begin": "2026-01-08T16:00:00.000Z",
-    "broadcast": "R/2026-01-08T16:00:00.000Z/P7D",
+    "begin": "2026-01-09T15:00:00.000Z",
+    "broadcast": "R/2026-01-09T15:00:00.000Z/P7D",
     "end": "2026-03-26T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -6249,8 +6249,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://animationid.com/saioshi/",
-    "begin": "2026-01-02T16:00:00.000Z",
-    "broadcast": "",
+    "begin": "2026-01-06T12:55:00.000Z",
+    "broadcast": "R/2026-01-06T12:55:00.000Z/P7D",
     "end": "2026-03-24T13:00:00.000Z",
     "comment": "",
     "sites": [
@@ -6427,8 +6427,8 @@
     "type": "web",
     "lang": "ja",
     "officialSite": "https://mofusand-anime.jp/",
-    "begin": "2026-01-06T16:00:00.000Z",
-    "broadcast": "",
+    "begin": "2026-01-07T17:30:00.000Z",
+    "broadcast": "R/2026-01-07T17:30:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -6536,15 +6536,18 @@
     ]
   },
   {
-    "title": "不死身な僕の日常　シーズン2",
+    "title": "不死身な僕の日常 シーズン2",
     "titleTranslate": {
       "zh-Hans": [
         "仙王的日常生活 第二季"
+      ],
+      "en": [
+        "The Daily Life of the Immortal King 2"
       ]
     },
     "type": "web",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://chinaentame.com/hujiboku/",
     "begin": "2026-01-14T13:30:00.000Z",
     "broadcast": "R/2026-01-14T13:30:00.000Z/P7D",
     "end": "2026-04-01T13:30:00.000Z",
