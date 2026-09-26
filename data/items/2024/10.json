@@ -1383,7 +1383,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://s.mxtv.jp/anime/hyakusho_kizoku/",
+    "officialSite": "https://s.mxtv.jp/anime/hyakusho_kizoku2/",
     "begin": "2024-10-04T12:54:00.000Z",
     "broadcast": "R/2024-10-04T12:54:00.000Z/P7D",
     "end": "2024-12-20T13:00:00.000Z",
@@ -1473,6 +1473,9 @@
       ],
       "zh-Hant": [
         "結緣甘神神社"
+      ],
+      "en": [
+        "Tying the Knot with an Amagami Sister"
       ]
     },
     "type": "tv",
@@ -2077,7 +2080,8 @@
       ],
       "en": [
         "TSUMASHO",
-        "Tsumasho"
+        "Tsumasho",
+        "If my wife becomes an elementary school student."
       ]
     },
     "type": "tv",
@@ -2493,7 +2497,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.ao-ex.com/",
+    "officialSite": "https://ao-ex.com/snow/",
     "begin": "2024-10-05T15:30:00.000Z",
     "broadcast": "R/2024-10-05T15:30:00.000Z/P7D",
     "end": "2024-12-21T16:00:00.000Z",
@@ -3133,7 +3137,8 @@
         "魔王2099"
       ],
       "en": [
-        "DEMON LORD 2099"
+        "DEMON LORD 2099",
+        "THE LORD OF IMMORTALS BLOOMING IN THE ABYSS F.E.2099"
       ]
     },
     "type": "tv",
@@ -3931,7 +3936,7 @@
     ]
   },
   {
-    "title": "百妖譜 第二期",
+    "title": "百妖譜 第2期",
     "titleTranslate": {
       "zh-Hans": [
         "百妖谱 第二季"
@@ -3939,7 +3944,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://b8station.tv/hyakuyoufu/",
+    "officialSite": "https://b8station.tv/hyakuyoufu/index1-2.html",
     "begin": "2024-10-02T16:55:00.000Z",
     "broadcast": "R/2024-10-02T16:55:00.000Z/P7D",
     "end": "2024-12-11T16:55:00.000Z",
@@ -4203,9 +4208,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://tenipuri.jp/u17/",
-    "begin": "2024-10-02T16:30:00.000Z",
-    "broadcast": "R/2024-10-02T16:30:00.000Z/P7D",
+    "officialSite": "https://tenipuri.jp/u17/semi-final/",
+    "begin": "2024-10-02T15:00:00.000Z",
+    "broadcast": "R/2024-10-02T15:00:00.000Z/P7D",
     "end": "2024-12-25T17:00:00.000Z",
     "comment": "",
     "sites": [
@@ -5665,8 +5670,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://anime.shangrilafrontier.com/",
-    "begin": "2024-10-13T10:00:00.000Z",
-    "broadcast": "R/2024-10-13T10:00:00.000Z/P7D",
+    "begin": "2024-10-13T08:00:00.000Z",
+    "broadcast": "R/2024-10-13T08:00:00.000Z/P7D",
     "end": "2025-03-30T08:30:00.000Z",
     "comment": "",
     "sites": [
@@ -6346,13 +6351,16 @@
       ],
       "zh-Hant": [
         "轉生成貓咪的大叔"
+      ],
+      "en": [
+        "The Guy That Got Reincarnated as a Cat"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://nekooji-anime.com/",
-    "begin": "2024-10-06T16:00:00.000Z",
-    "broadcast": "R/2024-10-06T16:00:00.000Z/P7D",
+    "begin": "2024-10-14T18:30:00.000Z",
+    "broadcast": "R/2024-10-14T18:30:00.000Z/P7D",
     "end": "2025-09-15T18:40:00.000Z",
     "comment": "",
     "sites": [
@@ -6962,12 +6970,16 @@
   },
   {
     "title": "魔法少女リリカルなのは 20周年記念セレクション",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Magical Girl Lyrical Nanoha"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://king-cr.jp/nanoha/20th/",
-    "begin": "2024-10-04T16:30:00.000Z",
-    "broadcast": "R/2024-10-04T16:30:00.000Z/P7D",
+    "officialSite": "https://news.kingrecords.co.jp/2024/07/30376/",
+    "begin": "2024-10-05T16:30:00.000Z",
+    "broadcast": "R/2024-10-05T16:30:00.000Z/P7D",
     "end": "2024-12-13T16:30:00.000Z",
     "comment": "",
     "sites": [
