@@ -486,7 +486,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://mahouka.jp/",
+    "officialSite": "https://mahouka.jp/2nd/",
     "begin": "2020-10-03T15:30:00.000Z",
     "broadcast": "R/2020-10-03T15:30:00.000Z/P7D",
     "end": "2020-12-26T16:00:00.000Z",
@@ -588,7 +588,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://kumakumakumabear.com/",
+    "officialSite": "https://kumakumakumabear.com/1st/",
     "begin": "2020-10-07T12:00:00.000Z",
     "broadcast": "R/2020-10-07T12:00:00.000Z/P7D",
     "end": "2020-12-23T12:30:00.000Z",
@@ -1512,7 +1512,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://hypnosismic-anime.com/",
+    "officialSite": "https://hypnosismic-anime.com/1st/",
     "begin": "2020-10-02T15:00:00.000Z",
     "broadcast": "R/2020-10-02T15:00:00.000Z/P7D",
     "end": "2020-12-25T15:30:00.000Z",
@@ -2149,7 +2149,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://osomatsusan.com/",
+    "officialSite": "https://osomatsusan.com/3rd/",
     "begin": "2020-10-12T16:30:00.000Z",
     "broadcast": "R/2020-10-12T16:30:00.000Z/P7D",
     "end": "2021-03-29T17:05:00.000Z",
@@ -2374,7 +2374,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://kamihiro-anime.com/",
+    "officialSite": "https://kamihiro-anime.com/1st/",
     "begin": "2020-10-04T14:30:00.000Z",
     "broadcast": "R/2020-10-04T14:30:00.000Z/P7D",
     "end": "2020-12-20T15:00:00.000Z",
@@ -5550,13 +5550,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "森林家族小故事 第四季"
+      ],
+      "en": [
+        "sylvanianfamilies mini story peony"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv",
-    "begin": "2020-09-30T16:00:00.000Z",
-    "broadcast": "R/2020-09-30T16:00:00.000Z/P7D",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2020-10-01T10:26:00.000Z",
+    "broadcast": "R/2020-10-01T10:26:00.000Z/P7D",
     "end": "2020-12-16T16:00:00.000Z",
     "comment": "",
     "sites": [
