@@ -1057,8 +1057,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.ten-sura.com/anime/tensura",
-    "begin": "2021-01-12T17:05:00.000Z",
-    "broadcast": "R/2021-01-12T17:05:00.000Z/P7D",
+    "begin": "2021-01-12T14:00:00.000Z",
+    "broadcast": "R/2021-01-12T14:00:00.000Z/P7D",
     "end": "2021-03-30T14:30:00.000Z",
     "comment": "",
     "sites": [
@@ -1914,7 +1914,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://horimiya-anime.com/",
+    "officialSite": "https://horimiya-anime.com/1st/",
     "begin": "2021-01-09T15:30:00.000Z",
     "broadcast": "R/2021-01-09T15:30:00.000Z/P7D",
     "end": "2021-04-03T15:57:00.000Z",
@@ -2221,7 +2221,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.tbs.co.jp/anime/5hanayome/",
+    "officialSite": "https://www.tbs.co.jp/anime/5hanayome/2nd/",
     "begin": "2021-01-07T16:28:00.000Z",
     "broadcast": "R/2021-01-07T16:28:00.000Z/P7D",
     "end": "2021-03-25T17:00:00.000Z",
@@ -3448,7 +3448,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://ssorphen-anime.com/",
+    "officialSite": "https://ssorphen-anime.com/1st/",
     "begin": "2021-01-20T12:00:00.000Z",
     "broadcast": "R/2021-01-20T12:00:00.000Z/P7D",
     "end": "2021-03-31T12:30:00.000Z",
@@ -4836,7 +4836,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://bst-anime.com/",
-    "begin": "2021-01-05T03:00:00.000Z",
+    "begin": "2021-01-06T15:55:00.000Z",
+    "broadcast": "R/2021-01-06T15:55:00.000Z/P7D",
     "end": "2021-03-24T03:00:00.000Z",
     "comment": "",
     "sites": [
@@ -5458,12 +5459,16 @@
   },
   {
     "title": "キンタマーニドッグ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Kintamani Dog"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://kintamani-dog.com/",
-    "begin": "2021-01-14T16:00:00.000Z",
-    "broadcast": "R/2021-01-14T16:00:00.000Z/P7D",
+    "begin": "2021-01-16T17:50:00.000Z",
+    "broadcast": "R/2021-01-16T17:50:00.000Z/P7D",
     "end": "2021-12-25T16:00:00.000Z",
     "comment": "",
     "sites": [
