@@ -480,8 +480,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://otagal.jp/",
-    "begin": "2026-04-08T14:51:00.000Z",
-    "broadcast": "R/2026-04-08T14:51:00.000Z/P7D",
+    "begin": "2026-04-08T14:45:00.000Z",
+    "broadcast": "R/2026-04-08T14:45:00.000Z/P7D",
     "end": "2026-06-24T15:15:00.000Z",
     "comment": "",
     "sites": [
@@ -3670,8 +3670,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://witch-classroom.com/",
-    "begin": "2026-04-12T14:55:00.000Z",
-    "broadcast": "R/2026-04-12T14:55:00.000Z/P7D",
+    "begin": "2026-04-12T14:30:00.000Z",
+    "broadcast": "R/2026-04-12T14:30:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -5687,7 +5687,7 @@
     "lang": "ja",
     "officialSite": "https://kanokari-official.com/",
     "begin": "2026-04-10T16:53:00.000Z",
-    "broadcast": "R/2026-04-10T00:00:00.000Z/P7D",
+    "broadcast": "R/2026-04-10T16:53:00.000Z/P7D",
     "end": "2026-06-26T17:23:00.000Z",
     "comment": "",
     "sites": [
