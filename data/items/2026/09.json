@@ -186,7 +186,8 @@
         "悠哉賽馬娘 Full Gate！"
       ],
       "en": [
-        "Umayuru: Full Gate！"
+        "Umayuru: Full Gate！",
+        "Umayuru: Full Gate!"
       ]
     },
     "type": "web",
@@ -206,6 +207,81 @@
         "id": "PLNoVytAHV6zA",
         "begin": "2026-09-27T12:00:00.000Z",
         "broadcast": "R/2026-09-27T12:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "転生したら剣でしたⅡ",
+    "titleTranslate": {
+      "en": [
+        "Reincarnated as a Sword Season 2"
+      ]
+    },
+    "type": "",
+    "lang": "ja",
+    "officialSite": "https://tenken-anime.com/",
+    "begin": "2026-09-30T15:30:00.000Z",
+    "broadcast": "R/2026-09-30T15:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "転生貴族、鑑定スキルで成り上がる(第3期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "转生贵族凭鉴定技能扭转人生 第三季",
+        "转生贵族靠着鉴定技能一飞冲天 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kanteiskill.com/",
+    "begin": "2026-09-27T15:00:00.000Z",
+    "broadcast": "R/2026-09-27T15:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "530104"
+      }
+    ]
+  },
+  {
+    "title": "野生のラスボスが現れた！(第2期)",
+    "titleTranslate": {
+      "en": [
+        "A Wild Last Boss Appeared! Season 2"
+      ]
+    },
+    "type": "",
+    "lang": "ja",
+    "officialSite": "https://www.lastboss-anime.com/",
+    "begin": "2026-09-26T13:30:00.000Z",
+    "broadcast": "R/2026-09-26T13:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新网球王子 U-17 世界杯 决赛成员选拔赛"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://tenipuri.jp/u17/selection-match/",
+    "begin": "2026-09-30T15:00:00.000Z",
+    "broadcast": "R/2026-09-30T15:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "586941"
       }
     ]
   }
