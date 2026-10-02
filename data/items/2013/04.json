@@ -233,7 +233,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLdghK4X---Hg",
+        "id": "PLYnIF_qxIvEc",
+        "url": "https://www.youtube.com/show/VLPLYnIF_qxIvEc?sbp=KgtWdjFjaUVmTXh4QUAB",
         "begin": "",
         "broadcast": ""
       },
@@ -313,6 +314,9 @@
       ],
       "zh-Hant": [
         "我的妹妹哪有這麼可愛！第二季"
+      ],
+      "en": [
+        "Oreimo Season 2"
       ]
     },
     "type": "tv",
@@ -392,6 +396,10 @@
       {
         "site": "acgnx",
         "id": "的妹"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYQ4WX036"
       }
     ]
   },

@@ -1390,6 +1390,9 @@
       ],
       "zh-Hant": [
         "我太受歡迎了該怎麼辦"
+      ],
+      "en": [
+        "Kiss Him, Not Me"
       ]
     },
     "type": "tv",
@@ -1489,6 +1492,10 @@
       {
         "site": "acgnx",
         "id": "太受"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G65VXM1P6"
       }
     ]
   },

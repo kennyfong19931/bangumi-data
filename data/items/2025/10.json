@@ -225,6 +225,10 @@
       {
         "site": "dmhy",
         "id": "野生 大魔王 出現"
+      },
+      {
+        "site": "danime",
+        "id": "29178"
       }
     ]
   },
@@ -4135,6 +4139,10 @@
       {
         "site": "dmhy",
         "id": "彈珠汽水 千歲"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chiramune"
       }
     ]
   },

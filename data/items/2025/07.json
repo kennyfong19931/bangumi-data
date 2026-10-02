@@ -76,6 +76,9 @@
       ],
       "zh-Hant": [
         "歡迎光臨流放者食堂！"
+      ],
+      "en": [
+        "Welcome to the Outcast's Restaurant!"
       ]
     },
     "type": "tv",
@@ -167,6 +170,10 @@
       {
         "site": "dmhy",
         "id": "歡迎 光臨 食堂"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GEXH3W2E9"
       }
     ]
   },
@@ -5304,6 +5311,10 @@
       {
         "site": "dmhy",
         "id": "異世界默示錄"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G1XHJV0M7"
       }
     ]
   },

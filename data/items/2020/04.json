@@ -791,7 +791,8 @@
     "title": "食戟のソーマ 豪ノ皿",
     "titleTranslate": {
       "en": [
-        "SHOKUGEKI NO SOMA 5th PLATE"
+        "SHOKUGEKI NO SOMA 5th PLATE",
+        "Food Wars! The Third Plate"
       ],
       "zh-Hans": [
         "食戟之灵 豪之皿",
@@ -890,6 +891,10 @@
       {
         "site": "acgnx",
         "id": "食戟之靈"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6GG91P26"
       }
     ]
   },

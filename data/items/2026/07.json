@@ -2616,6 +2616,10 @@
       {
         "site": "dmhy",
         "id": "LV999 村民"
+      },
+      {
+        "site": "danime",
+        "id": "29232"
       }
     ]
   },
@@ -3830,7 +3834,7 @@
     "officialSite": "https://grandblue-anime.com/",
     "begin": "2026-07-06T15:00:00.000Z",
     "broadcast": "R/2026-07-06T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-21T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6431,7 +6435,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLe7uzvXO4ti0",
+        "id": "PLQcZ8B7Mmr7g",
+        "url": "https://www.youtube.com/show/VLPLQcZ8B7Mmr7g?season=2&sbp=CgEyGgAqC0NuWmxfbVJoZzE0QAFKDVBTZnFJVjNXZnppRUE%253D",
         "begin": "",
         "broadcast": "",
         "comment": "ULTRA搶先看: PLIOEBDhF60yI"

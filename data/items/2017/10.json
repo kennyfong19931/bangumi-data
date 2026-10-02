@@ -3105,6 +3105,9 @@
       ],
       "zh-Hant": [
         "食戟之靈 餐之皿"
+      ],
+      "en": [
+        "Food Wars! The Third Plate"
       ]
     },
     "type": "tv",
@@ -3206,6 +3209,10 @@
       {
         "site": "acgnx",
         "id": "食戟之靈"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6GG91P26"
       }
     ]
   },

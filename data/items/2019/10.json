@@ -604,7 +604,8 @@
         "食戟之靈 神之皿"
       ],
       "en": [
-        "SHOKUGEKI NO SOMA 4th PLATE"
+        "SHOKUGEKI NO SOMA 4th PLATE",
+        "Food Wars! The Third Plate"
       ]
     },
     "type": "tv",
@@ -690,6 +691,10 @@
       {
         "site": "acgnx",
         "id": "食戟之靈"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6GG91P26"
       }
     ]
   },
