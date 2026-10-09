@@ -4814,5 +4814,30 @@
         "id": "13955"
       }
     ]
+  },
+  {
+    "title": "忍たま乱太郎 第27シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第27季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2019-03-31T16:00:00.000Z",
+    "broadcast": "R/2019-03-31T16:00:00.000Z/P7D",
+    "end": "2019-12-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303901"
+      },
+      {
+        "site": "danime",
+        "id": "29278"
+      }
+    ]
   }
 ]

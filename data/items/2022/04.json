@@ -2991,6 +2991,16 @@
         "id": "G4PH0WX5J",
         "begin": "2026-10-04T00:00:00.000Z",
         "broadcast": "R/2026-10-04T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLazpiOifz23o",
+        "url": "https://www.youtube.com/show/VLPLazpiOifz23o?sbp=KgtpTHd5eFU4REJtSUAB"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLC19B_ELvO7A",
+        "url": "https://www.youtube.com/show/VLPLC19B_ELvO7A?sbp=KgtMVzVqTjlZdm9PMEAB"
       }
     ]
   },

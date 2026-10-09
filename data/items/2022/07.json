@@ -1942,6 +1942,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "传颂之物 二人的白皇"
+      ],
+      "en": [
+        "Utawarerumono Mask of Truth"
       ]
     },
     "type": "tv",
@@ -2023,6 +2026,10 @@
       {
         "site": "acgnx",
         "id": "二人的白皇"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMEHMEW4M"
       }
     ]
   },

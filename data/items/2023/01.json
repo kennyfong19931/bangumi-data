@@ -5017,6 +5017,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "沦落者之夜"
+      ],
+      "en": [
+        "The tale of outcasts"
       ]
     },
     "type": "tv",
@@ -5080,6 +5083,10 @@
       {
         "site": "dmhy",
         "id": "淪落者之夜"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GVDHX8QZX"
       }
     ]
   },

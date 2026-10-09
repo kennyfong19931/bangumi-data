@@ -81,6 +81,9 @@
       ],
       "zh-Hant": [
         "獸王武神丹帝拜恩"
+      ],
+      "en": [
+        "Dandivine"
       ]
     },
     "type": "tv",
@@ -120,6 +123,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90b98d9339c5c7431a6"
+      },
+      {
+        "site": "danime",
+        "id": "29287"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00385792"
       }
     ]
   },
@@ -184,6 +195,18 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90898d9339c5c74318c"
+      },
+      {
+        "site": "danime",
+        "id": "29255"
+      },
+      {
+        "site": "mighty",
+        "id": "PLTWtsGOev7vQ"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/312850"
       }
     ]
   },
@@ -283,6 +306,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90c98d9339c5c7431aa"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/311842"
       }
     ]
   },
@@ -439,6 +466,9 @@
       ],
       "zh-Hant": [
         "世界最強的魔女，就此開始"
+      ],
+      "en": [
+        "The World's Strongest Witch"
       ]
     },
     "type": "tv",
@@ -496,6 +526,18 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90a98d9339c5c74319e"
+      },
+      {
+        "site": "danime",
+        "id": "29300"
+      },
+      {
+        "site": "viu",
+        "id": "3393556"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00384009"
       }
     ]
   },
@@ -507,7 +549,11 @@
         "魔法少女育成计划 第二季"
       ],
       "zh-Hant": [
-        "魔法少女育成計畫 restart"
+        "魔法少女育成計畫 restart",
+        "魔法少女育成計畫restart"
+      ],
+      "en": [
+        "Magical Girl Raising Project: Restart"
       ]
     },
     "type": "tv",
@@ -559,6 +605,26 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90798d9339c5c743188"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahoiku-restart"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316425"
+      },
+      {
+        "site": "danime",
+        "id": "29313"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLTQJVP8Fm84g"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLTPDFXU5mBC8"
       }
     ]
   },
@@ -637,6 +703,11 @@
         "begin": "2026-10-03T15:30:00.000Z",
         "broadcast": "R/2026-10-03T15:30:00.000Z/P7D",
         "comment": "規制解除版, TV放送版: 29286"
+      },
+      {
+        "site": "unext",
+        "id": "SID0318967",
+        "comment": "規制解除版, TV放送版: SID0316405"
       }
     ]
   },
@@ -724,6 +795,10 @@
         "id": "GT00384003",
         "begin": "2026-10-03T16:30:00.000Z",
         "broadcast": "R/2026-10-03T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/335194"
       }
     ]
   },
@@ -830,7 +905,11 @@
         "转生哥布林有问题吗？"
       ],
       "zh-Hant": [
-        "轉生哥布林有什麼問題嗎？"
+        "轉生哥布林有什麼問題嗎？",
+        "轉生哥布林有問題嗎？"
+      ],
+      "en": [
+        "So What's Wrong With Getting Reborn As A Goblin?"
       ]
     },
     "type": "tv",
@@ -894,6 +973,24 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90798d9339c5c743182"
+      },
+      {
+        "site": "danime",
+        "id": "29257"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLLwRzlko8dB4",
+        "url": "https://www.youtube.com/show/VLPLLwRzlko8dB4?sbp=Kgt3d1NYd0ZUTXpTTUAB"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLYld27spJ0aA",
+        "url": "https://www.youtube.com/show/VLPLYld27spJ0aA?sbp=Kgs5bUJhLWY4WlBRNEAB"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00384010"
       }
     ]
   },
@@ -904,7 +1001,11 @@
         "被流放的开挂魔术师讴歌随心所欲第二人生"
       ],
       "zh-Hant": [
-        "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。"
+        "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。",
+        "被放逐的作弊賦予魔術師享受隨心所欲的第二人生"
+      ],
+      "en": [
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
       ]
     },
     "type": "tv",
@@ -946,6 +1047,28 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90998d9339c5c743194"
+      },
+      {
+        "site": "danime",
+        "id": "29301"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLTQBVRYCgzeg",
+        "url": "https://www.youtube.com/show/VLPLTQBVRYCgzeg?sbp=KgtnMkhfSTB2OGpMb0AB"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLcCDyXGi-y_w",
+        "url": "https://www.youtube.com/show/VLPLcCDyXGi-y_w?sbp=KgtUWWtCRkxtQ3laTUAB"
+      },
+      {
+        "site": "viu",
+        "id": "3388718"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00384016"
       }
     ]
   },
@@ -1025,6 +1148,10 @@
       ],
       "zh-Hant": [
         "魔法騎士雷阿斯"
+      ],
+      "en": [
+        "Magic Knight Rayearth",
+        "Magic Knight Rayearth (2026)"
       ]
     },
     "type": "tv",
@@ -1084,6 +1211,28 @@
         "id": "172-63",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29212"
+      },
+      {
+        "site": "mytv",
+        "id": "magicknightrayearth_147601"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLUSsflxjYYXQ",
+        "url": "https://www.youtube.com/show/VLPLUSsflxjYYXQ?sbp=KgswT3Q1a1Q3Z0Z2VUAB"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLRkLnaEGDpFQ",
+        "url": "https://www.youtube.com/show/VLPLRkLnaEGDpFQ?sbp=Kgt0MHJGRmQ4QnR2QUAB"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00383994"
       }
     ]
   },
@@ -1173,6 +1322,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf91198d9339c5c7431d4"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/317259"
       }
     ]
   },
@@ -1255,6 +1408,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90a98d9339c5c74319c"
+      },
+      {
+        "site": "viu",
+        "id": "3393516"
       }
     ]
   },
@@ -1396,6 +1553,14 @@
         "id": "SID0316402",
         "begin": "2026-10-04T03:00:00.000Z",
         "broadcast": "R/2026-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/73223/season/2"
+      },
+      {
+        "site": "danime",
+        "id": "29275"
       }
     ]
   },
@@ -1433,6 +1598,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90398d9339c5c74316c"
+      },
+      {
+        "site": "danime",
+        "id": "29251"
       }
     ]
   },
@@ -1499,6 +1668,14 @@
         "id": "GT00383996",
         "begin": "2026-10-03T15:00:00.000Z",
         "broadcast": "R/2026-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316399"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/301139"
       }
     ]
   },
@@ -1510,6 +1687,9 @@
       ],
       "zh-Hant": [
         "青之蘆葦 第二季"
+      ],
+      "en": [
+        "AOASHI Season2"
       ]
     },
     "type": "tv",
@@ -1563,6 +1743,18 @@
         "id": "SID0316413",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29265"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLALETbsFlgk0"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLYavYYpKm3cc"
       }
     ]
   },
@@ -1576,6 +1768,9 @@
       ],
       "zh-Hant": [
         "你好，身為魔女的我，被心上人委託製作迷情藥"
+      ],
+      "en": [
+        "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!"
       ]
     },
     "type": "tv",
@@ -1617,6 +1812,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90698d9339c5c743180"
+      },
+      {
+        "site": "danime",
+        "id": "29267"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00378072"
       }
     ]
   },
@@ -1787,6 +1990,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90f98d9339c5c7431c4"
+      },
+      {
+        "site": "danime",
+        "id": "29252"
       }
     ]
   },
@@ -1842,6 +2049,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90998d9339c5c743196"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316410"
       }
     ]
   },
@@ -1914,6 +2125,22 @@
         "id": "GT00384006",
         "begin": "2026-10-04T14:00:00.000Z",
         "broadcast": "R/2026-10-04T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60948"
+      },
+      {
+        "site": "aniList",
+        "id": "186541"
+      },
+      {
+        "site": "anidb",
+        "id": "19142"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/283692"
       }
     ]
   },
@@ -1991,6 +2218,9 @@
       ],
       "zh-Hant": [
         "冰劍的魔術師將要統一世界 2"
+      ],
+      "en": [
+        "The Iceblade Sorcerer Shall Rule the World Ⅱ"
       ]
     },
     "type": "tv",
@@ -2036,6 +2266,24 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90c98d9339c5c7431b0"
+      },
+      {
+        "site": "danime",
+        "id": "29254"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLYbPH-tkrrtA",
+        "url": "https://www.youtube.com/show/VLPLYbPH-tkrrtA?season=2&sbp=CgEyGgAqC3Q3SGp3ZFJaWkp3QAFKDVBTRy1zVTBFS01fcGc%253D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLYO-HJWItnyo",
+        "url": "https://www.youtube.com/show/VLPLYO-HJWItnyo?season=2&sbp=CgEyGgAqC1JnVGlMdkE5TDNrQAFKDVBTQ2VGTHlmZGFwRnc%253D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GDKHZEP21"
       }
     ]
   },
@@ -2049,6 +2297,9 @@
       ],
       "zh-Hant": [
         "鐵旅！meet with 鐵道少女"
+      ],
+      "en": [
+        "Tetsuryo! Meet With Tetsudou Musume"
       ]
     },
     "type": "tv",
@@ -2106,6 +2357,22 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90c98d9339c5c7431ae"
+      },
+      {
+        "site": "danime",
+        "id": "29299"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLNEI-dxVMmPg"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLJaKlqcb9GkQ"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/302020"
       }
     ]
   },
@@ -2117,6 +2384,9 @@
       ],
       "zh-Hant": [
         "超巡！超條前輩"
+      ],
+      "en": [
+        "Super Psychic Policeman Chojo"
       ]
     },
     "type": "tv",
@@ -2168,6 +2438,24 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90898d9339c5c743190"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316442"
+      },
+      {
+        "site": "danime",
+        "id": "29292"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLE7P2Xtm8iDY",
+        "url": "https://www.youtube.com/show/VLPLE7P2Xtm8iDY?sbp=Kgtiel9LUlh1UUJnVUAB"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLOokMcLWT1nA",
+        "url": "https://www.youtube.com/show/VLPLOokMcLWT1nA?sbp=KgtPeUx3a1g0Q0djTUAB"
       }
     ]
   },
@@ -2301,6 +2589,10 @@
         "id": "SID0316403",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29279"
       }
     ]
   },
@@ -2364,6 +2656,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90798d9339c5c743186"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/305313"
       }
     ]
   },
@@ -2395,6 +2691,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90d98d9339c5c7431b2"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316395"
+      },
+      {
+        "site": "danime",
+        "id": "29296"
       }
     ]
   },
@@ -2406,6 +2710,9 @@
       ],
       "zh-Hant": [
         "冷淡的佐藤同學只對我撒嬌"
+      ],
+      "en": [
+        "The Cold Sato-san is Only Sweet to Me"
       ]
     },
     "type": "tv",
@@ -2459,6 +2766,18 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90798d9339c5c74318a"
+      },
+      {
+        "site": "danime",
+        "id": "29283"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/316891"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00384014"
       }
     ]
   },
@@ -2470,6 +2789,9 @@
       ],
       "zh-Hant": [
         "Battle Spirits [Re] 絕界之空"
+      ],
+      "en": [
+        "Battle Spirits [Re] ZEKKAI NO KU"
       ]
     },
     "type": "tv",
@@ -2509,6 +2831,24 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90898d9339c5c74318e"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316414"
+      },
+      {
+        "site": "danime",
+        "id": "29253"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLHX7Hp4HS5N8",
+        "url": "https://www.youtube.com/show/VLPLHX7Hp4HS5N8?sbp=KgtIZTVOY015MUZtc0AB"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLIxv_h-aiImk",
+        "url": "https://www.youtube.com/show/VLPLIxv_h-aiImk?sbp=KgszdW1TN3FWajJrZ0AB"
       }
     ]
   },
@@ -2634,6 +2974,14 @@
         "id": "4HFbN55sAh0i",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0316386"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tokyo-revengers-anime4"
       }
     ]
   },
@@ -2768,6 +3116,10 @@
         "id": "29208",
         "begin": "2026-10-04T08:00:00.000Z",
         "broadcast": "R/2026-10-04T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207347/season/2"
       }
     ]
   },
@@ -2923,6 +3275,9 @@
         "偵探已經，死了。 第二季",
         "偵探已經，死了。Season 2",
         "偵探已經，死了。第二季"
+      ],
+      "en": [
+        "The Detective Is Already Dead Season 2"
       ]
     },
     "type": "tv",
@@ -2988,6 +3343,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90998d9339c5c74319a"
+      },
+      {
+        "site": "danime",
+        "id": "29266"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1N334"
       }
     ]
   },
@@ -3611,6 +3974,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90698d9339c5c74317c"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316436"
+      },
+      {
+        "site": "danime",
+        "id": "29247"
       }
     ]
   },
@@ -3651,6 +4022,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90598d9339c5c743178"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316435"
+      },
+      {
+        "site": "danime",
+        "id": "29230"
       }
     ]
   },
@@ -3679,6 +4058,10 @@
         "id": "hyakuyoufu3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29303"
       }
     ]
   },
@@ -3722,6 +4105,18 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90598d9339c5c74317a"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316433"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/336654"
+      },
+      {
+        "site": "danime",
+        "id": "29248"
       }
     ]
   },
@@ -3772,6 +4167,18 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90698d9339c5c74317e"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316431"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/335790"
+      },
+      {
+        "site": "danime",
+        "id": "29245"
       }
     ]
   },
@@ -3891,6 +4298,10 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90f98d9339c5c7431c8"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/324326"
       }
     ]
   },
@@ -4024,6 +4435,10 @@
         "id": "29272",
         "begin": "2026-10-03T11:00:00.000Z",
         "broadcast": "R/2026-10-03T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/285710"
       }
     ]
   },
@@ -4032,6 +4447,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "PSYREN -决战游戏-"
+      ],
+      "zh-Hant": [
+        "PSYREN ～決戰遊戲～"
+      ],
+      "en": [
+        "PSYREN"
       ]
     },
     "type": "tv",
@@ -4059,6 +4480,18 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90798d9339c5c743184"
+      },
+      {
+        "site": "unext",
+        "id": "SID0305824"
+      },
+      {
+        "site": "danime",
+        "id": "29263"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371866"
       }
     ]
   },
@@ -4280,6 +4713,10 @@
         "id": "SID0316457",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "dragonballsuper"
       }
     ]
   },
@@ -4361,6 +4798,10 @@
         "id": "29277",
         "begin": "2026-10-01T10:35:00.000Z",
         "broadcast": "R/2026-10-01T10:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316453"
       }
     ]
   },
@@ -4425,6 +4866,31 @@
         "id": "29264",
         "begin": "2026-10-03T22:30:00.000Z",
         "broadcast": "R/2026-10-03T22:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ポップパップポルターズ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://ppp-anime.jp/",
+    "begin": "2026-10-03T16:00:00.000Z",
+    "broadcast": "R/2026-10-03T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "635258"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316380"
+      },
+      {
+        "site": "danime",
+        "id": "29280"
       }
     ]
   }
