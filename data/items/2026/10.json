@@ -77,6 +77,18 @@
       {
         "site": "dmhy",
         "id": "轉生 劍|魔劍"
+      },
+      {
+        "site": "mal",
+        "id": "53913"
+      },
+      {
+        "site": "aniList",
+        "id": "159042"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/134667/season/2"
       }
     ]
   },
@@ -165,6 +177,10 @@
         "id": "SID0316408",
         "begin": "2026-10-11T03:00:00.000Z",
         "broadcast": "R/2026-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/323937"
       }
     ]
   },
@@ -261,6 +277,12 @@
       {
         "site": "dmhy",
         "id": "亂世千金"
+      },
+      {
+        "site": "prime",
+        "id": "B0HK6ZPZ6Z",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -654,6 +676,12 @@
       {
         "site": "dmhy",
         "id": "世界最強 魔女 開始"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLSCSQPW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -858,6 +886,12 @@
       {
         "site": "dmhy",
         "id": "生會 洞"
+      },
+      {
+        "site": "prime",
+        "id": "B0HHZ1RXMJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1316,6 +1350,14 @@
       {
         "site": "dmhy",
         "id": "作弊賦予"
+      },
+      {
+        "site": "mal",
+        "id": "63431"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/313346"
       }
     ]
   },
@@ -1912,6 +1954,12 @@
       {
         "site": "dmhy",
         "id": "黑色五葉草"
+      },
+      {
+        "site": "prime",
+        "id": "B0H94M9DY7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2275,6 +2323,18 @@
       {
         "site": "dmhy",
         "id": "戀愛藥 魔女"
+      },
+      {
+        "site": "mal",
+        "id": "63409"
+      },
+      {
+        "site": "aniList",
+        "id": "207191"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/313068"
       }
     ]
   },
@@ -2508,7 +2568,8 @@
     "title": "DARK MACHINE THE ANIMATION",
     "titleTranslate": {
       "zh-Hant": [
-        "DARK MACHINE"
+        "DARK MACHINE",
+        "闇機 DARK MACHINE"
       ]
     },
     "type": "tv",
@@ -2576,6 +2637,20 @@
       {
         "site": "dmhy",
         "id": "DARK MACHINE"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLTQFWzGDEVBQ",
+        "url": "https://www.youtube.com/show/VLPLTQFWzGDEVBQ?sbp=KgsyLXJrVFBHdDN6Y0AB",
+        "begin": "2026-10-13T18:15:07.000Z",
+        "broadcast": "R/2026-10-13T18:15:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLfJRa647ejKU",
+        "url": "https://www.youtube.com/show/VLPLfJRa647ejKU?sbp=KgtVcVROR0VLWHJSSUAB",
+        "begin": "2026-10-13T18:15:10.000Z",
+        "broadcast": "R/2026-10-13T18:15:10.000Z/P7D"
       }
     ]
   },
@@ -3087,6 +3162,12 @@
       {
         "site": "dmhy",
         "id": "超巡 超條"
+      },
+      {
+        "site": "prime",
+        "id": "B0HL63LG1B",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3289,6 +3370,12 @@
       {
         "site": "dmhy",
         "id": "歸還者 魔法 特別"
+      },
+      {
+        "site": "prime",
+        "id": "B0HJN1WX98",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4235,6 +4322,24 @@
       {
         "site": "mikan",
         "id": "4100"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFPXG7GB",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "52480"
+      },
+      {
+        "site": "aniList",
+        "id": "152677"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117061/season/2"
       }
     ]
   },
@@ -4571,6 +4676,12 @@
       {
         "site": "dmhy",
         "id": "野生 大魔王"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFZQ8MTS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4617,6 +4728,20 @@
       {
         "site": "mikan",
         "id": "4105"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLCTMDtTwWxBs",
+        "url": "https://www.youtube.com/show/VLPLCTMDtTwWxBs?sbp=Kgs0ZTNvRVJreHA0WUAB",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLFs1uZVXjAys",
+        "url": "https://www.youtube.com/show/VLPLFs1uZVXjAys?sbp=KgtwaUt6MnhmYzdLMEAB",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -4793,6 +4918,10 @@
       {
         "site": "dmhy",
         "id": "裝備我最強"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/324502"
       }
     ]
   },
@@ -4916,6 +5045,16 @@
       {
         "site": "dmhy",
         "id": "朱色假面"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLTKJ79R",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/295420"
       }
     ]
   },
@@ -5341,6 +5480,12 @@
       {
         "site": "dmhy",
         "id": "黑暗召喚師 地下恋愛"
+      },
+      {
+        "site": "prime",
+        "id": "B0HKGHPM4J",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5476,6 +5621,12 @@
       {
         "site": "dmhy",
         "id": "七葉樹王國 騎士"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFB5KSFV",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5725,6 +5876,18 @@
       {
         "site": "dmhy",
         "id": "PSYREN"
+      },
+      {
+        "site": "mal",
+        "id": "63098"
+      },
+      {
+        "site": "anidb",
+        "id": "19765"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/297903"
       }
     ]
   },
@@ -5848,6 +6011,12 @@
       {
         "site": "dmhy",
         "id": "蒼藍傳承"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLBS28H8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5904,6 +6073,12 @@
         "id": "29297",
         "begin": "2026-10-10T11:00:00.000Z",
         "broadcast": "R/2026-10-10T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLWMCMP2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6013,6 +6188,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "龙珠超 比鲁斯"
+      ],
+      "zh-Hant": [
+        "龍珠超 比路斯",
+        "七龍珠超：比魯斯"
+      ],
+      "en": [
+        "Dragon Ball Super: Beerus"
       ]
     },
     "type": "tv",

@@ -736,6 +736,12 @@
       {
         "site": "dmhy",
         "id": "流放 轉生 無雙"
+      },
+      {
+        "site": "netflix",
+        "id": "82942166",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6468,15 +6474,16 @@
         "site": "ani_one",
         "id": "PLQcZ8B7Mmr7g",
         "url": "https://www.youtube.com/show/VLPLQcZ8B7Mmr7g?season=2&sbp=CgEyGgAqC0NuWmxfbVJoZzE0QAFKDVBTZnFJVjNXZnppRUE%253D",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2026-08-16T08:30:06.000Z",
+        "broadcast": "R/2026-08-16T08:30:06.000Z/P7D",
         "comment": "ULTRA搶先看: PLIOEBDhF60yI"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLNNIeaeyNLNg",
-        "begin": "",
-        "broadcast": "",
+        "id": "PLfEoKRfkezAM",
+        "url": "https://www.youtube.com/show/VLPLfEoKRfkezAM?season=2&sbp=CgEyGgAqC1EySmttOUdxaHpRQAFKDVBTTU9CVG9sQjRBWHc%253D",
+        "begin": "2026-08-16T08:30:06.000Z",
+        "broadcast": "R/2026-08-16T08:30:06.000Z/P7D",
         "comment": "ULTRA搶先看: PLHr3g0ivIWN4"
       },
       {
@@ -6808,6 +6815,10 @@
       {
         "site": "dmhy",
         "id": "染谷同學"
+      },
+      {
+        "site": "anidb",
+        "id": "19927"
       }
     ]
   },
