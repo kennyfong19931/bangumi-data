@@ -574,6 +574,10 @@
       {
         "site": "dmhy",
         "id": "暗部 少女"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLBFWoq0JqkGE"
       }
     ]
   },
@@ -1763,6 +1767,10 @@
       {
         "site": "mikan",
         "id": "4072"
+      },
+      {
+        "site": "danime",
+        "id": "29295"
       }
     ]
   },
@@ -1842,6 +1850,10 @@
         "id": "GT00383992",
         "begin": "2026-10-11T14:30:00.000Z",
         "broadcast": "R/2026-10-11T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316458"
       }
     ]
   },
@@ -2637,6 +2649,10 @@
       {
         "site": "dmhy",
         "id": "DARK MACHINE"
+      },
+      {
+        "site": "danime",
+        "id": "29298"
       },
       {
         "site": "ani_one",
@@ -5686,6 +5702,14 @@
       {
         "site": "dmhy",
         "id": "恐怖收集者"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316447"
+      },
+      {
+        "site": "danime",
+        "id": "29306"
       }
     ]
   },
@@ -6236,6 +6260,26 @@
       {
         "site": "dmhy",
         "id": "龍珠超 比魯斯"
+      },
+      {
+        "site": "danime",
+        "id": "29250"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFWL43KY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "83189604",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "3393622"
       }
     ]
   },
@@ -6495,6 +6539,70 @@
       {
         "site": "dmhy",
         "id": "小游家"
+      }
+    ]
+  },
+  {
+    "title": "無脳魔女 ブレインレス・ウィッチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无脑魔女"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.bs4.jp/brainless-witch/",
+    "begin": "2026-10-15T16:00:00.000Z",
+    "broadcast": "R/2026-10-15T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358769"
+      },
+      {
+        "site": "danime",
+        "id": "29294"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316456"
+      },
+      {
+        "site": "abema",
+        "id": "54-130",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "Duel Masters LOST ～断罪の少年～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师 LOST ～断罪的少年～"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.shopro.co.jp/anime/duelmasters_lost/",
+    "begin": "2026-10-09T12:00:00.000Z",
+    "broadcast": "R/2026-10-09T12:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "632061"
+      },
+      {
+        "site": "danime",
+        "id": "29210"
+      },
+      {
+        "site": "unext",
+        "id": "SID0318458"
       }
     ]
   }
