@@ -4398,7 +4398,14 @@
   },
   {
     "title": "それだけがネック",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "That is the Bottleneck"
+      ],
+      "zh-Hant": [
+        "That is the Bottleneck"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://soredakega-neck.com/",
@@ -4448,6 +4455,10 @@
       {
         "site": "aniList",
         "id": "124028"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GREME5WX6"
       }
     ]
   },

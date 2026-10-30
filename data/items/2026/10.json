@@ -189,6 +189,10 @@
       {
         "site": "anidb",
         "id": "20081"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLVBF5YB"
       }
     ]
   },
@@ -406,6 +410,10 @@
       {
         "site": "dmhy",
         "id": "FX戰士久留美"
+      },
+      {
+        "site": "prime",
+        "id": "B0HKS3R8NH"
       }
     ]
   },
@@ -829,6 +837,10 @@
       {
         "site": "dmhy",
         "id": "魔法少女育成計劃"
+      },
+      {
+        "site": "prime",
+        "id": "B0HHTD7D41"
       }
     ]
   },
@@ -3207,6 +3219,10 @@
       {
         "site": "dmhy",
         "id": "鐵旅"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLGX9J7M"
       }
     ]
   },
@@ -7057,6 +7073,59 @@
       {
         "site": "tmdb",
         "id": "tv/105248/season/2"
+      }
+    ]
+  },
+  {
+    "title": "わたしの幸せな結婚 特別篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的幸福婚姻 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://watakon-anime.com/",
+    "begin": "2026-10-24T16:00:00.000Z",
+    "broadcast": "R/2026-10-24T16:00:00.000Z/P0D",
+    "end": "2026-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "551304"
+      },
+      {
+        "site": "unext",
+        "id": "SID0320689"
+      },
+      {
+        "site": "nicovideo",
+        "id": "watakon-anime-special"
+      },
+      {
+        "site": "danime",
+        "id": "29260"
+      },
+      {
+        "site": "prime",
+        "id": "B0HL5S4ZZ2"
+      },
+      {
+        "site": "mal",
+        "id": "61440"
+      },
+      {
+        "site": "anidb",
+        "id": "19280"
+      },
+      {
+        "site": "aniList",
+        "id": "190054"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/season/0"
       }
     ]
   }

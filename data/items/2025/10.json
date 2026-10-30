@@ -7221,6 +7221,12 @@
         "broadcast": "R/2026-01-13T15:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "yamato-rebel3199",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "mal",
         "id": "50855"
       },
@@ -7494,6 +7500,10 @@
       {
         "site": "anibt",
         "id": "353181"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zombielandsaga-movie"
       }
     ]
   },

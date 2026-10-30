@@ -3400,6 +3400,10 @@
       {
         "site": "aniList",
         "id": "99714"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYQ4MKDZ6"
       }
     ]
   },
@@ -4666,6 +4670,10 @@
       {
         "site": "anidb",
         "id": "10755"
+      },
+      {
+        "site": "danime",
+        "id": "29382"
       }
     ]
   },

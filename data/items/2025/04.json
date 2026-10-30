@@ -768,6 +768,10 @@
       {
         "site": "acgnx",
         "id": "前橋魔女"
+      },
+      {
+        "site": "unext",
+        "id": "SID0181257"
       }
     ]
   },
@@ -2823,7 +2827,8 @@
         "完美到难以接近的圣女遭到解除婚约后被卖到邻国"
       ],
       "zh-Hant": [
-        "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"
+        "完美到難以接近的聖女遭到解除婚約後被賣到鄰國",
+        "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom"
       ],
       "en": [
         "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom"
@@ -2920,6 +2925,10 @@
       {
         "site": "acgnx",
         "id": "聖女 廢除 婚約 賣 鄰國"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GP5HJ8477"
       }
     ]
   },
@@ -6811,6 +6820,12 @@
         "id": "SID0182646",
         "begin": "2025-06-24T15:00:00.000Z",
         "broadcast": "R/2025-06-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamato-rebel3199",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "tmdb",
