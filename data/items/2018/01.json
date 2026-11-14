@@ -1461,7 +1461,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLByqFjYQImUs",
+        "id": "PLFoowl1JkGK8",
+        "url": "https://www.youtube.com/show/VLPLFoowl1JkGK8?season=1&sbp=CgExGgBAAUoNUFNYNGtIUjIwd0ZIdw%253D%253D",
         "begin": "2026-10-31T12:00:07.000Z",
         "broadcast": "R/2026-10-31T12:00:07.000Z/P7D"
       },
@@ -2098,6 +2099,10 @@
       {
         "site": "acgnx",
         "id": "FRANXX"
+      },
+      {
+        "site": "abema",
+        "id": "26-37"
       }
     ]
   },
@@ -2198,6 +2203,10 @@
       {
         "site": "acgnx",
         "id": "飆速 Glory Line"
+      },
+      {
+        "site": "prime",
+        "id": "B0DMW38FHR"
       }
     ]
   },
@@ -4308,6 +4317,10 @@
       {
         "site": "aniList",
         "id": "100855"
+      },
+      {
+        "site": "abema",
+        "id": "26-40"
       }
     ]
   },

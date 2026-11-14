@@ -398,5 +398,34 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "映画 おでかけ子ザメ とかいのおともだち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 小鲨鱼去郊游"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://odekake-kozame.com/cinema/",
+    "begin": "2025-08-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "494044"
+      },
+      {
+        "site": "danime",
+        "id": "29389"
+      },
+      {
+        "site": "unext",
+        "id": "SID0325002"
+      }
+    ]
   }
 ]

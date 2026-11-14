@@ -363,10 +363,30 @@
         "id": "4932"
       },
       {
+        "site": "mal",
+        "id": "3782"
+      },
+      {
+        "site": "aniList",
+        "id": "3782"
+      },
+      {
         "site": "danime",
         "id": "29373",
         "begin": "2026-10-29T15:00:00.000Z",
         "broadcast": "R/2026-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H88WGLQZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-36",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -404,10 +424,30 @@
         "id": "4932"
       },
       {
+        "site": "mal",
+        "id": "2593"
+      },
+      {
+        "site": "aniList",
+        "id": "2593"
+      },
+      {
         "site": "danime",
         "id": "29372",
         "begin": "2026-10-29T15:00:00.000Z",
         "broadcast": "R/2026-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-36",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0H88JXBGG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

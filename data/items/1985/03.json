@@ -133,6 +133,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的宇宙小战争"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與宇宙小戰爭"
       ]
     },
     "type": "movie",
@@ -189,6 +192,10 @@
       {
         "site": "anidb",
         "id": "6594"
+      },
+      {
+        "site": "gamer",
+        "id": "32219"
       }
     ]
   },

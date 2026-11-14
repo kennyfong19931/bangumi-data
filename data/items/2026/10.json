@@ -195,6 +195,10 @@
         "id": "B0HLVBF5YB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-274"
       }
     ]
   },
@@ -297,6 +301,10 @@
         "id": "B0HK6ZPZ6Z",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "593-18"
       }
     ]
   },
@@ -418,6 +426,10 @@
         "id": "B0HKS3R8NH",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "54-125"
       }
     ]
   },
@@ -948,6 +960,10 @@
         "id": "B0HHZ1RXMJ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-273"
       }
     ]
   },
@@ -1053,6 +1069,10 @@
       {
         "site": "dmhy",
         "id": "魔法 探險家"
+      },
+      {
+        "site": "abema",
+        "id": "26-272"
       }
     ]
   },
@@ -1742,6 +1762,10 @@
         "id": "B0HKTDXDRZ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "506-9"
       }
     ]
   },
@@ -1957,6 +1981,14 @@
         "id": "B0HL9TJG57",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "63292"
+      },
+      {
+        "site": "aniList",
+        "id": "205896"
       }
     ]
   },
@@ -2234,6 +2266,10 @@
       {
         "site": "dmhy",
         "id": "僵屍搜尋中"
+      },
+      {
+        "site": "abema",
+        "id": "25-336"
       }
     ]
   },
@@ -2462,6 +2498,10 @@
       {
         "site": "anidb",
         "id": "19876"
+      },
+      {
+        "site": "abema",
+        "id": "25-341"
       }
     ]
   },
@@ -2513,6 +2553,10 @@
         "id": "29217",
         "begin": "2026-10-17T18:00:00.000Z",
         "broadcast": "R/2026-10-17T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "694-20"
       }
     ]
   },
@@ -2940,6 +2984,10 @@
       {
         "site": "dmhy",
         "id": "太空船"
+      },
+      {
+        "site": "abema",
+        "id": "25-337"
       }
     ]
   },
@@ -3028,6 +3076,10 @@
         "id": "B0HHXQD3ML",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "54-126"
       }
     ]
   },
@@ -3375,6 +3427,10 @@
         "id": "B0HL63LG1B",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "345-9"
       }
     ]
   },
@@ -3596,6 +3652,10 @@
         "id": "B0HJN1WX98",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-207"
       }
     ]
   },
@@ -3736,6 +3796,10 @@
       {
         "site": "dmhy",
         "id": "神祕麵包小子"
+      },
+      {
+        "site": "abema",
+        "id": "25-338"
       }
     ]
   },
@@ -4812,7 +4876,8 @@
         "site": "danime",
         "id": "28099",
         "begin": "2026-10-04T15:15:00.000Z",
-        "broadcast": "R/2026-10-04T15:15:00.000Z/P7D"
+        "broadcast": "R/2026-10-04T15:15:00.000Z/P7D",
+        "comment": "アフレコアフタートーク: 29410"
       },
       {
         "site": "prime",
@@ -5758,6 +5823,10 @@
       {
         "site": "dmhy",
         "id": "女友 朋友"
+      },
+      {
+        "site": "abema",
+        "id": "643-24"
       }
     ]
   },
@@ -5842,6 +5911,10 @@
         "id": "B0HKGHPM4J",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "643-23"
       }
     ]
   },
@@ -6286,6 +6359,10 @@
         "id": "B0HKM3DX1V",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "675-14"
       }
     ]
   },
@@ -6431,6 +6508,10 @@
       {
         "site": "aniList",
         "id": "216895"
+      },
+      {
+        "site": "abema",
+        "id": "54-129"
       }
     ]
   },
@@ -6497,6 +6578,10 @@
         "id": "B0HLWMCMP2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-340"
       }
     ]
   },
@@ -6690,6 +6775,10 @@
       {
         "site": "mikan",
         "id": "4126"
+      },
+      {
+        "site": "abema",
+        "id": "5-87"
       }
     ]
   },
@@ -7202,6 +7291,10 @@
       {
         "site": "anibt",
         "id": "551304"
+      },
+      {
+        "site": "abema",
+        "id": "25-339"
       }
     ]
   }

@@ -45,6 +45,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "头文字D Final Stage"
+      ],
+      "zh-Hant": [
+        "頭文字 D Final stage"
       ]
     },
     "type": "tv",
@@ -103,6 +106,10 @@
       {
         "site": "dmhy",
         "id": "头文|Initial"
+      },
+      {
+        "site": "gamer",
+        "id": "63155"
       }
     ]
   },

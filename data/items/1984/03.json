@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的魔界大冒险"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄在魔界大冒險"
       ]
     },
     "type": "movie",
@@ -54,6 +57,10 @@
       {
         "site": "anidb",
         "id": "6595"
+      },
+      {
+        "site": "gamer",
+        "id": "32211"
       }
     ]
   },

@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄与龙之骑士"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與恐龍騎士"
       ]
     },
     "type": "movie",
@@ -59,6 +62,10 @@
       {
         "site": "anidb",
         "id": "6593"
+      },
+      {
+        "site": "gamer",
+        "id": "32222"
       }
     ]
   },

@@ -620,10 +620,28 @@
         "id": "movie/47747"
       },
       {
+        "site": "anidb",
+        "id": "4932"
+      },
+      {
+        "site": "mal",
+        "id": "6954"
+      },
+      {
+        "site": "aniList",
+        "id": "6954"
+      },
+      {
         "site": "danime",
         "id": "29379",
         "begin": "2026-10-29T15:00:00.000Z",
         "broadcast": "R/2026-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-36",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

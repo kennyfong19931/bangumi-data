@@ -114,6 +114,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄与铁人兵团"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與鐵人兵團"
       ]
     },
     "type": "movie",
@@ -163,6 +166,10 @@
       {
         "site": "anidb",
         "id": "4674"
+      },
+      {
+        "site": "gamer",
+        "id": "32220"
       }
     ]
   },

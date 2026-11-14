@@ -234,10 +234,30 @@
         "id": "4932"
       },
       {
+        "site": "mal",
+        "id": "4282"
+      },
+      {
+        "site": "aniList",
+        "id": "4282"
+      },
+      {
         "site": "danime",
         "id": "29376",
         "begin": "2026-10-29T15:00:00.000Z",
         "broadcast": "R/2026-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H88L4YJ7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-36",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
